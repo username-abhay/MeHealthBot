@@ -1,32 +1,45 @@
+# src/nlp_adapter/gemini_client.py
+"""
+GeminiAdapter
+- Lightweight wrapper over google.genai client for simple chat usage
+- Accepts optional api_key (falls back to env-based auth if None)
+"""
 from google import genai
 
+
 class GeminiAdapter:
-    def __init__(self, api_key:str, model="gemini-2.5-flash-lite"):
-        self.client = genai.Client(api_key=api_key)
+    def __init__(self, model: str = "gemini-2.5-flash", api_key: str | None = None):
+        """
+        Initialize Gemini client + chat.
+        If api_key is provided, genai.Client(api_key=api_key) will be used.
+        """
+        if api_key:
+            self.client = genai.Client(api_key=api_key)
+        else:
+            self.client = genai.Client()
+        self.model = model
         self.chat = self.client.chats.create(model=model)
-    
+
     def send_message(self, message: str) -> str:
         """
-        Send a message to Gemini and return the response text.
+        Send a message to the current Gemini chat and return response text.
         """
-        response = self.chat.send_message(message)
-        return response.text
-    
+        resp = self.chat.send_message(message)
+        return resp.text
+
     def get_history(self):
         """
-        Returns the full conversation history as a list of messages.
-        Each message contains 'role' and 'text'
+        Return conversation history as list of {role, text}
         """
-        messages = []
-        for message in self.chat.get_history():
-            messages.append({
-                "role": message.role,
-                "text": message.parts[0].text
-            })
-        return messages
-    
-    def reset_session(self, model="gemini-2.5-flash-lite"):
+        out = []
+        for m in self.chat.get_history():
+            out.append({"role": m.role, "text": m.parts[0].text})
+        return out
+
+    def reset_session(self, model: str | None = None):
         """
-        Reset the Gemini chat session (new session)
+        Reset the chat session (new conversation).
         """
+        if model is None:
+            model = self.model
         self.chat = self.client.chats.create(model=model)

@@ -12,13 +12,13 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-01-11,Back Pain,No,98.5,Back Injury,Symptoms: Back Pain; Severity moderate.,6.0,High,2,9,Skipped Meal,1.3,Painkillers,3.9,81.8,January
 2021-01-12,Cold,No,96.3,Cold,Symptoms: Cold; Severity moderate.,4.3,Low,3,7,Skipped Meal,2.0,None,5.1,58.8,January
 2021-01-13,Leg Pain,No,98.3,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,4.6,Low,4,7,High Sugar,3.8,Painkillers,1.9,69.5,January
-2021-01-14,None,No,97.5,None,Symptoms: None; Severity moderate.,5.7,Medium,2,8,Normal,3.8,None,4.3,91.9,January
+2021-01-14,Unknown,No,97.5,Unknown,Symptoms: None; Severity moderate.,5.7,Medium,2,8,Normal,3.8,None,4.3,91.9,January
 2021-01-15,Fever,Yes,101.2,Food Poisoning,Symptoms: Fever; Severity moderate.,5.8,Medium,5,6,High Sugar,2.6,Paracetamol,0.5,85.5,January
 2021-01-16,"Fatigue, Shortness of Breath",No,97.8,Dengue,"Symptoms: Fatigue, Shortness of Breath; Severity moderate.",6.7,High,5,4,Normal,1.4,None,3.4,55.8,January
 2021-01-17,Vomiting,No,97.9,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.8,High,2,8,High Sugar,1.4,None,3.2,67.7,January
-2021-01-18,Shortness of Breath,No,98.6,None,Symptoms: Shortness of Breath; Severity moderate.,5.0,Low,1,9,Normal,3.6,None,2.6,50.1,January
+2021-01-18,Shortness of Breath,No,98.6,Unknown,Symptoms: Shortness of Breath; Severity moderate.,5.0,Low,1,9,Normal,3.6,None,2.6,50.1,January
 2021-01-19,Leg Pain,No,98.3,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,4.6,Low,2,7,Skipped Meal,3.6,Painkillers,5.2,99.8,January
-2021-01-20,Shortness of Breath,No,97.7,None,Symptoms: Shortness of Breath; Severity moderate.,7.1,High,3,6,Normal,2.3,None,0.7,101.5,January
+2021-01-20,Shortness of Breath,No,97.7,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.1,High,3,6,Normal,2.3,None,0.7,101.5,January
 2021-01-21,Leg Pain,No,98.0,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.7,Low,2,7,Normal,3.8,Painkillers,4.2,64.7,January
 2021-01-22,Cold,No,98.5,Cold,Symptoms: Cold; Severity moderate.,7.8,Low,1,10,Normal,1.5,None,4.6,104.3,January
 2021-01-23,Fever,Yes,101.1,Flu,Symptoms: Fever; Severity moderate.,5.9,High,4,5,Skipped Meal,2.0,Antibiotics,3.0,72.9,January
@@ -32,20 +32,20 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-01-31,Headache,No,99.2,Migraine,Symptoms: Headache; Severity moderate.,5.0,High,2,8,Skipped Meal,3.4,None,3.6,66.0,January
 2021-02-01,Nausea,No,97.0,Dengue,Symptoms: Nausea; Severity moderate.,7.9,Low,2,9,High Sugar,1.2,None,0.8,79.3,February
 2021-02-02,Nausea,No,98.7,Food Poisoning,Symptoms: Nausea; Severity moderate.,7.3,High,1,8,Skipped Meal,2.7,None,5.0,61.5,February
-2021-02-03,None,No,97.7,None,Symptoms: None; Severity moderate.,7.3,Low,3,6,Normal,1.9,None,6.0,61.0,February
+2021-02-03,Unknown,No,97.7,Unknown,Symptoms: None; Severity moderate.,7.3,Low,3,6,Normal,1.9,None,6.0,61.0,February
 2021-02-04,Nausea,No,97.6,Migraine,Symptoms: Nausea; Severity moderate.,4.7,Low,4,6,Normal,3.0,None,2.3,100.1,February
 2021-02-05,Diarrhea,No,97.4,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,5.7,High,5,6,Skipped Meal,3.2,Oral Rehydration,1.5,84.0,February
 2021-02-06,Vomiting,No,98.4,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.3,High,2,7,Normal,1.1,None,2.0,70.6,February
-2021-02-07,None,No,97.4,None,Symptoms: None; Severity moderate.,5.4,Medium,3,6,Skipped Meal,2.0,None,6.0,101.7,February
+2021-02-07,Unknown,No,97.4,Unknown,Symptoms: None; Severity moderate.,5.4,Medium,3,6,Skipped Meal,2.0,None,6.0,101.7,February
 2021-02-08,Fever,Yes,102.2,Dengue,Symptoms: Fever; Severity moderate.,5.2,Medium,3,7,Skipped Meal,1.6,Antibiotics,5.0,69.1,February
 2021-02-09,"Shortness of Breath, Vomiting",No,99.7,Food Poisoning,"Symptoms: Shortness of Breath, Vomiting; Severity moderate.",8.6,High,2,9,Skipped Meal,3.7,None,0.3,85.4,February
 2021-02-10,"Leg Pain, Dizziness, Fever",Yes,101.5,Food Poisoning,"Symptoms: Leg Pain, Dizziness, Fever; Severity moderate.",6.4,Low,4,5,Normal,2.7,Antibiotics,2.2,57.2,February
 2021-02-11,"Headache, Cold",No,97.3,Migraine,"Symptoms: Headache, Cold; Severity moderate.",6.0,Medium,3,6,Normal,2.3,None,5.3,52.3,February
-2021-02-12,Shortness of Breath,No,98.5,None,Symptoms: Shortness of Breath; Severity moderate.,4.3,Medium,4,6,High Sugar,2.0,None,0.1,72.4,February
+2021-02-12,Shortness of Breath,No,98.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.3,Medium,4,6,High Sugar,2.0,None,0.1,72.4,February
 2021-02-13,"Vomiting, Nausea",No,98.6,Migraine,"Symptoms: Vomiting, Nausea; Severity moderate.",5.5,Medium,2,9,Skipped Meal,1.2,None,1.7,86.4,February
 2021-02-14,Back Pain,No,97.9,Sprained Leg,Symptoms: Back Pain; Severity moderate.,8.7,Medium,3,7,Skipped Meal,3.1,Painkillers,2.4,72.7,February
 2021-02-15,"Cold, Fatigue",No,99.6,Dengue,"Symptoms: Cold, Fatigue; Severity moderate.",7.8,Low,3,8,Skipped Meal,1.4,None,3.8,70.3,February
-2021-02-16,Shortness of Breath,No,97.9,None,Symptoms: Shortness of Breath; Severity moderate.,6.8,High,1,8,Normal,2.8,None,1.8,104.4,February
+2021-02-16,Shortness of Breath,No,97.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.8,High,1,8,Normal,2.8,None,1.8,104.4,February
 2021-02-17,"Nausea, Back Pain, Diarrhea",No,97.6,Back Injury,"Symptoms: Nausea, Back Pain, Diarrhea; Severity moderate.",8.4,Medium,4,6,High Sugar,3.7,Oral Rehydration,3.3,92.6,February
 2021-02-18,"Cough, Cold",No,98.4,Cold,"Symptoms: Cough, Cold; Severity moderate.",9.0,High,1,8,Skipped Meal,2.9,None,3.3,67.2,February
 2021-02-19,Back Pain,No,97.8,Sprained Leg,Symptoms: Back Pain; Severity moderate.,5.2,Low,2,9,High Sugar,2.0,Painkillers,0.4,71.0,February
@@ -66,7 +66,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-03-06,"Diarrhea, Headache",No,98.0,Dengue,"Symptoms: Diarrhea, Headache; Severity moderate.",4.1,Medium,6,3,Skipped Meal,2.7,Oral Rehydration,4.9,103.8,March
 2021-03-07,Headache,No,96.6,Migraine,Symptoms: Headache; Severity moderate.,6.6,High,3,7,High Sugar,2.5,None,3.8,95.0,March
 2021-03-08,Nausea,No,98.0,Food Poisoning,Symptoms: Nausea; Severity moderate.,5.7,High,1,9,High Sugar,3.8,None,0.3,80.7,March
-2021-03-09,Shortness of Breath,No,97.1,None,Symptoms: Shortness of Breath; Severity moderate.,5.0,Medium,3,6,High Sugar,3.4,None,3.6,58.5,March
+2021-03-09,Shortness of Breath,No,97.1,Unknown,Symptoms: Shortness of Breath; Severity moderate.,5.0,Medium,3,6,High Sugar,3.4,None,3.6,58.5,March
 2021-03-10,"Cold, Headache",No,97.9,Flu,"Symptoms: Cold, Headache; Severity moderate.",4.6,Low,2,9,Normal,3.9,None,2.5,81.0,March
 2021-03-11,"Dizziness, Shortness of Breath",No,98.2,Back Injury,"Symptoms: Dizziness, Shortness of Breath; Severity moderate.",8.4,Medium,1,9,High Sugar,2.6,None,1.1,63.3,March
 2021-03-12,Cough,No,98.6,Flu,Symptoms: Cough; Severity moderate.,5.3,Low,2,9,High Sugar,3.1,None,4.6,79.6,March
@@ -92,7 +92,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-04-01,Cold,No,98.5,Cold,Symptoms: Cold; Severity moderate.,4.3,Medium,3,8,Normal,3.8,None,3.7,104.5,April
 2021-04-02,"Diarrhea, Back Pain",No,99.7,Food Poisoning,"Symptoms: Diarrhea, Back Pain; Severity moderate.",6.9,High,5,5,Skipped Meal,1.9,Oral Rehydration,1.4,90.5,April
 2021-04-03,Nausea,No,98.0,Dengue,Symptoms: Nausea; Severity moderate.,5.5,Medium,2,9,High Sugar,3.2,None,5.7,87.2,April
-2021-04-04,None,No,97.1,None,Symptoms: None; Severity moderate.,8.7,Low,1,9,Skipped Meal,1.6,None,2.1,78.4,April
+2021-04-04,Unknown,No,97.1,Unknown,Symptoms: None; Severity moderate.,8.7,Low,1,9,Skipped Meal,1.6,None,2.1,78.4,April
 2021-04-05,Leg Pain,No,98.5,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.0,Medium,2,9,Normal,3.6,Painkillers,1.9,50.9,April
 2021-04-06,Dizziness,No,98.7,Back Injury,Symptoms: Dizziness; Severity moderate.,8.6,High,3,7,High Sugar,1.2,None,4.3,99.3,April
 2021-04-07,"Fever, Dizziness",Yes,101.4,Flu,"Symptoms: Fever, Dizziness; Severity moderate.",8.7,High,5,5,Normal,1.9,Antibiotics,5.2,98.9,April
@@ -105,8 +105,8 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-04-14,"Leg Pain, Headache",No,96.1,Dengue,"Symptoms: Leg Pain, Headache; Severity moderate.",4.8,Low,4,5,High Sugar,1.3,Painkillers,1.4,100.4,April
 2021-04-15,Nausea,No,98.3,Food Poisoning,Symptoms: Nausea; Severity moderate.,7.0,Medium,1,8,High Sugar,3.2,None,4.7,64.2,April
 2021-04-16,Vomiting,No,97.8,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.7,Medium,2,8,Skipped Meal,3.4,None,1.2,59.4,April
-2021-04-17,Shortness of Breath,No,98.6,None,Symptoms: Shortness of Breath; Severity moderate.,6.1,Medium,2,9,Normal,1.8,None,4.1,101.6,April
-2021-04-18,Shortness of Breath,No,97.3,None,Symptoms: Shortness of Breath; Severity moderate.,7.9,Medium,3,7,Skipped Meal,1.3,None,2.6,50.9,April
+2021-04-17,Shortness of Breath,No,98.6,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.1,Medium,2,9,Normal,1.8,None,4.1,101.6,April
+2021-04-18,Shortness of Breath,No,97.3,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.9,Medium,3,7,Skipped Meal,1.3,None,2.6,50.9,April
 2021-04-19,Vomiting,No,97.5,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.0,High,1,8,Skipped Meal,3.0,None,3.4,60.2,April
 2021-04-20,Back Pain,No,98.9,Back Injury,Symptoms: Back Pain; Severity moderate.,8.9,Low,3,7,Skipped Meal,1.1,Painkillers,0.7,72.2,April
 2021-04-21,Headache,No,98.6,Dengue,Symptoms: Headache; Severity moderate.,4.6,Low,4,5,Skipped Meal,3.7,None,1.1,76.4,April
@@ -124,7 +124,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-05-03,Cough,No,97.8,Flu,Symptoms: Cough; Severity moderate.,4.4,Medium,4,6,Normal,2.7,None,5.2,65.0,May
 2021-05-04,Dizziness,No,98.4,Migraine,Symptoms: Dizziness; Severity moderate.,4.4,Low,3,8,Normal,1.2,None,3.2,54.3,May
 2021-05-05,Fatigue,No,96.3,Flu,Symptoms: Fatigue; Severity moderate.,4.2,Low,5,6,Skipped Meal,2.1,None,2.6,82.0,May
-2021-05-06,Shortness of Breath,No,97.8,None,Symptoms: Shortness of Breath; Severity moderate.,8.1,Medium,1,9,Normal,3.3,None,1.2,97.5,May
+2021-05-06,Shortness of Breath,No,97.8,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.1,Medium,1,9,Normal,3.3,None,1.2,97.5,May
 2021-05-07,"Leg Pain, Back Pain",No,97.8,Back Injury,"Symptoms: Leg Pain, Back Pain; Severity moderate.",6.9,Low,3,8,Normal,1.6,Painkillers,4.3,79.2,May
 2021-05-08,Fatigue,No,96.8,Flu,Symptoms: Fatigue; Severity moderate.,7.9,Low,3,7,High Sugar,3.5,None,3.5,80.3,May
 2021-05-09,Diarrhea,No,97.8,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,4.6,Medium,6,4,Skipped Meal,2.2,Oral Rehydration,4.3,87.5,May
@@ -152,7 +152,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-05-31,Nausea,No,96.9,Dengue,Symptoms: Nausea; Severity moderate.,6.2,Medium,2,8,Skipped Meal,2.4,None,4.6,99.0,May
 2021-06-01,"Shortness of Breath, Headache",No,98.6,Dengue,"Symptoms: Shortness of Breath, Headache; Severity moderate.",4.9,Low,4,5,Normal,1.9,None,5.4,92.0,June
 2021-06-02,Headache,No,97.2,Dengue,Symptoms: Headache; Severity moderate.,5.0,High,1,10,High Sugar,1.3,None,0.2,97.4,June
-2021-06-03,None,No,98.3,None,Symptoms: None; Severity moderate.,7.2,Medium,3,6,Normal,3.4,None,2.9,71.3,June
+2021-06-03,Unknown,No,98.3,Unknown,Symptoms: None; Severity moderate.,7.2,Medium,3,6,Normal,3.4,None,2.9,71.3,June
 2021-06-04,"Headache, Fatigue, Cold",No,98.7,Migraine,"Symptoms: Headache, Fatigue, Cold; Severity moderate.",7.4,Low,5,5,Skipped Meal,3.4,None,0.0,96.5,June
 2021-06-05,"Fever, Fatigue, Headache",Yes,103.5,Sprained Leg,"Symptoms: Fever, Fatigue, Headache; Severity moderate.",8.1,Medium,5,6,Normal,2.9,Paracetamol,3.3,86.3,June
 2021-06-06,Headache,No,98.6,Dengue,Symptoms: Headache; Severity moderate.,8.8,Low,2,9,Normal,2.4,None,4.5,64.2,June
@@ -171,12 +171,12 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-06-19,Vomiting,No,97.5,Food Poisoning,Symptoms: Vomiting; Severity moderate.,5.7,Low,1,9,Skipped Meal,2.7,None,4.5,85.1,June
 2021-06-20,Nausea,No,97.8,Migraine,Symptoms: Nausea; Severity moderate.,6.8,High,1,9,High Sugar,1.7,None,2.0,61.9,June
 2021-06-21,Headache,No,97.5,Dengue,Symptoms: Headache; Severity moderate.,6.1,High,2,8,Normal,3.3,None,3.5,100.2,June
-2021-06-22,None,No,99.1,None,Symptoms: None; Severity moderate.,6.7,Medium,1,10,High Sugar,1.7,None,1.9,83.4,June
+2021-06-22,Unknown,No,99.1,Unknown,Symptoms: None; Severity moderate.,6.7,Medium,1,10,High Sugar,1.7,None,1.9,83.4,June
 2021-06-23,Cough,No,96.9,Flu,Symptoms: Cough; Severity moderate.,8.2,High,2,7,High Sugar,1.7,None,5.5,78.1,June
 2021-06-24,Leg Pain,No,97.5,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,8.9,Medium,2,7,Normal,3.2,Painkillers,5.0,66.3,June
 2021-06-25,Nausea,No,97.9,Migraine,Symptoms: Nausea; Severity moderate.,6.4,Low,1,10,High Sugar,2.0,None,2.7,60.3,June
 2021-06-26,Nausea,No,98.5,Dengue,Symptoms: Nausea; Severity moderate.,8.6,High,2,8,Normal,1.5,None,5.6,87.0,June
-2021-06-27,None,No,98.2,None,Symptoms: None; Severity moderate.,8.5,High,1,9,Skipped Meal,3.2,None,0.5,53.4,June
+2021-06-27,Unknown,No,98.2,Unknown,Symptoms: None; Severity moderate.,8.5,High,1,9,Skipped Meal,3.2,None,0.5,53.4,June
 2021-06-28,"Nausea, Headache",No,98.7,Food Poisoning,"Symptoms: Nausea, Headache; Severity moderate.",5.6,Medium,1,8,Normal,2.4,None,4.8,57.0,June
 2021-06-29,Dizziness,No,97.7,Migraine,Symptoms: Dizziness; Severity moderate.,4.7,Medium,4,5,Skipped Meal,3.5,None,0.2,53.1,June
 2021-06-30,Cough,No,97.8,Flu,Symptoms: Cough; Severity moderate.,6.3,Medium,3,7,Skipped Meal,1.6,None,5.8,97.8,June
@@ -187,22 +187,22 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-07-05,Dizziness,No,97.8,Migraine,Symptoms: Dizziness; Severity moderate.,5.9,Low,1,10,High Sugar,2.0,None,4.7,99.3,July
 2021-07-06,"Fever, Cough",Yes,103.1,Flu,"Symptoms: Fever, Cough; Severity moderate.",4.8,Medium,4,7,Normal,2.9,Antibiotics,3.7,94.3,July
 2021-07-07,"Vomiting, Headache, Diarrhea",No,98.5,Dengue,"Symptoms: Vomiting, Headache, Diarrhea; Severity moderate.",5.0,High,3,7,Skipped Meal,1.3,Oral Rehydration,3.8,87.3,July
-2021-07-08,None,No,97.4,None,Symptoms: None; Severity moderate.,5.5,Low,2,8,Normal,1.6,None,1.6,55.2,July
+2021-07-08,Unknown,No,97.4,Unknown,Symptoms: None; Severity moderate.,5.5,Low,2,8,Normal,1.6,None,1.6,55.2,July
 2021-07-09,"Headache, Fatigue",No,98.4,Back Injury,"Symptoms: Headache, Fatigue; Severity moderate.",8.3,Low,3,6,Skipped Meal,2.9,None,1.2,79.9,July
 2021-07-10,Fatigue,No,99.1,Flu,Symptoms: Fatigue; Severity moderate.,8.0,Low,3,7,Normal,1.9,None,0.3,63.6,July
 2021-07-11,Dizziness,No,98.2,Migraine,Symptoms: Dizziness; Severity moderate.,4.8,Medium,4,5,Skipped Meal,2.2,None,0.7,67.2,July
 2021-07-12,"Vomiting, Fever",Yes,101.5,Dengue,"Symptoms: Vomiting, Fever; Severity moderate.",7.2,Low,5,5,High Sugar,3.0,Antibiotics,5.8,71.5,July
 2021-07-13,"Back Pain, Diarrhea",No,98.4,Sprained Leg,"Symptoms: Back Pain, Diarrhea; Severity moderate.",5.4,Low,3,6,Skipped Meal,2.4,Oral Rehydration,4.8,96.1,July
-2021-07-14,Shortness of Breath,No,96.7,None,Symptoms: Shortness of Breath; Severity moderate.,8.4,Medium,2,8,Skipped Meal,1.3,None,4.2,77.8,July
+2021-07-14,Shortness of Breath,No,96.7,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.4,Medium,2,8,Skipped Meal,1.3,None,4.2,77.8,July
 2021-07-15,"Cough, Diarrhea, Fatigue",No,98.3,Sprained Leg,"Symptoms: Cough, Diarrhea, Fatigue; Severity moderate.",8.7,Low,6,4,Normal,2.1,Oral Rehydration,1.5,78.1,July
 2021-07-16,"Fever, Fatigue",Yes,102.2,Flu,"Symptoms: Fever, Fatigue; Severity moderate.",9.0,Medium,7,4,Skipped Meal,3.9,Paracetamol,5.8,77.5,July
 2021-07-17,Diarrhea,No,97.3,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,5.3,High,3,7,Normal,1.3,Oral Rehydration,1.5,99.9,July
 2021-07-18,"Back Pain, Diarrhea",No,97.9,Back Injury,"Symptoms: Back Pain, Diarrhea; Severity moderate.",8.5,High,3,8,Normal,2.8,Oral Rehydration,4.1,94.2,July
-2021-07-19,None,No,98.8,None,Symptoms: None; Severity moderate.,7.1,Medium,1,8,Normal,1.0,None,0.6,71.0,July
+2021-07-19,Unknown,No,98.8,Unknown,Symptoms: None; Severity moderate.,7.1,Medium,1,8,Normal,1.0,None,0.6,71.0,July
 2021-07-20,"Nausea, Fever",Yes,101.7,Dengue,"Symptoms: Nausea, Fever; Severity moderate.",6.8,Medium,5,6,Skipped Meal,3.7,Antibiotics,0.6,78.6,July
 2021-07-21,Leg Pain,No,98.9,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,8.6,Medium,3,6,Skipped Meal,2.9,Painkillers,2.2,71.7,July
 2021-07-22,Back Pain,No,98.0,Sprained Leg,Symptoms: Back Pain; Severity moderate.,7.6,Medium,1,10,Normal,1.0,Painkillers,3.9,50.7,July
-2021-07-23,Shortness of Breath,No,97.0,None,Symptoms: Shortness of Breath; Severity moderate.,8.3,Low,3,6,Skipped Meal,2.8,None,2.3,100.1,July
+2021-07-23,Shortness of Breath,No,97.0,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.3,Low,3,6,Skipped Meal,2.8,None,2.3,100.1,July
 2021-07-24,"Vomiting, Leg Pain",No,97.4,Food Poisoning,"Symptoms: Vomiting, Leg Pain; Severity moderate.",4.3,Medium,3,7,Normal,3.5,Painkillers,4.5,63.3,July
 2021-07-25,"Headache, Shortness of Breath",No,97.7,Dengue,"Symptoms: Headache, Shortness of Breath; Severity moderate.",5.4,Low,2,7,Normal,4.0,None,2.4,102.6,July
 2021-07-26,Headache,No,97.5,Flu,Symptoms: Headache; Severity moderate.,8.4,Low,3,6,Skipped Meal,2.9,None,0.5,64.8,July
@@ -222,14 +222,14 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-08-09,Fever,Yes,100.5,Dengue,Symptoms: Fever; Severity moderate.,4.0,Medium,6,3,Skipped Meal,3.6,Antibiotics,4.8,99.2,August
 2021-08-10,"Diarrhea, Back Pain",No,97.9,Sprained Leg,"Symptoms: Diarrhea, Back Pain; Severity moderate.",8.2,High,5,6,High Sugar,3.7,Oral Rehydration,5.1,67.8,August
 2021-08-11,Back Pain,No,97.7,Back Injury,Symptoms: Back Pain; Severity moderate.,7.5,Low,2,7,Skipped Meal,3.8,Painkillers,3.7,54.7,August
-2021-08-12,None,No,97.6,None,Symptoms: None; Severity moderate.,6.6,High,1,10,Normal,1.5,None,2.5,55.1,August
+2021-08-12,Unknown,No,97.6,Unknown,Symptoms: None; Severity moderate.,6.6,High,1,10,Normal,1.5,None,2.5,55.1,August
 2021-08-13,Cold,No,98.3,Cold,Symptoms: Cold; Severity moderate.,6.0,Low,1,9,High Sugar,2.1,None,0.2,85.8,August
 2021-08-14,"Headache, Dizziness",No,99.5,Back Injury,"Symptoms: Headache, Dizziness; Severity moderate.",5.0,Medium,3,6,Skipped Meal,1.3,None,1.8,63.7,August
 2021-08-15,Headache,No,97.3,Migraine,Symptoms: Headache; Severity moderate.,8.5,High,2,8,High Sugar,1.2,None,4.4,51.6,August
 2021-08-16,Cough,No,96.7,Cold,Symptoms: Cough; Severity moderate.,7.4,High,3,6,High Sugar,1.2,None,5.3,66.5,August
 2021-08-17,Fatigue,No,97.8,Flu,Symptoms: Fatigue; Severity moderate.,5.8,Medium,4,6,Skipped Meal,3.1,None,4.3,71.5,August
 2021-08-18,Vomiting,No,97.9,Food Poisoning,Symptoms: Vomiting; Severity moderate.,6.9,Medium,1,9,Normal,1.9,None,3.4,52.2,August
-2021-08-19,Shortness of Breath,No,97.1,None,Symptoms: Shortness of Breath; Severity moderate.,5.7,Low,2,9,High Sugar,4.0,None,5.6,50.5,August
+2021-08-19,Shortness of Breath,No,97.1,Unknown,Symptoms: Shortness of Breath; Severity moderate.,5.7,Low,2,9,High Sugar,4.0,None,5.6,50.5,August
 2021-08-20,Diarrhea,No,97.8,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,4.5,Low,6,3,High Sugar,3.3,Oral Rehydration,1.5,102.6,August
 2021-08-21,"Cold, Nausea",No,98.0,Cold,"Symptoms: Cold, Nausea; Severity moderate.",5.0,Medium,1,10,High Sugar,2.0,None,2.7,95.7,August
 2021-08-22,"Fever, Shortness of Breath",Yes,100.9,Food Poisoning,"Symptoms: Fever, Shortness of Breath; Severity moderate.",6.5,High,4,5,Skipped Meal,3.9,Paracetamol,0.6,88.2,August
@@ -259,9 +259,9 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-09-15,Diarrhea,No,97.3,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,8.6,Low,4,5,Normal,3.2,Oral Rehydration,6.0,87.3,September
 2021-09-16,Cough,No,98.6,Cold,Symptoms: Cough; Severity moderate.,4.5,High,3,8,High Sugar,3.9,None,1.8,87.9,September
 2021-09-17,Diarrhea,No,97.9,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.1,Medium,4,6,High Sugar,3.9,Oral Rehydration,0.6,80.3,September
-2021-09-18,Shortness of Breath,No,98.8,None,Symptoms: Shortness of Breath; Severity moderate.,7.7,High,3,6,Normal,3.4,None,1.4,104.3,September
+2021-09-18,Shortness of Breath,No,98.8,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.7,High,3,6,Normal,3.4,None,1.4,104.3,September
 2021-09-19,"Fatigue, Headache",No,98.1,Cold,"Symptoms: Fatigue, Headache; Severity moderate.",7.4,Low,5,6,High Sugar,3.7,None,0.8,70.0,September
-2021-09-20,Shortness of Breath,No,99.4,None,Symptoms: Shortness of Breath; Severity moderate.,5.2,Medium,1,9,Skipped Meal,2.3,None,0.5,77.4,September
+2021-09-20,Shortness of Breath,No,99.4,Unknown,Symptoms: Shortness of Breath; Severity moderate.,5.2,Medium,1,9,Skipped Meal,2.3,None,0.5,77.4,September
 2021-09-21,"Diarrhea, Vomiting",No,96.9,Food Poisoning,"Symptoms: Diarrhea, Vomiting; Severity moderate.",5.8,Medium,3,8,High Sugar,2.2,Oral Rehydration,2.5,63.5,September
 2021-09-22,Fatigue,No,98.1,Sprained Leg,Symptoms: Fatigue; Severity moderate.,7.5,Low,5,5,Skipped Meal,2.3,None,4.0,75.9,September
 2021-09-23,Diarrhea,No,98.7,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,5.7,Medium,5,4,Normal,2.5,Oral Rehydration,4.0,76.3,September
@@ -270,10 +270,10 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-09-26,Leg Pain,No,98.0,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,4.9,Low,3,6,Skipped Meal,3.0,Painkillers,1.7,104.7,September
 2021-09-27,Back Pain,No,99.1,Back Injury,Symptoms: Back Pain; Severity moderate.,7.2,Low,1,9,High Sugar,3.9,Painkillers,3.3,74.9,September
 2021-09-28,"Back Pain, Diarrhea",No,97.7,Sprained Leg,"Symptoms: Back Pain, Diarrhea; Severity moderate.",5.2,High,3,6,High Sugar,4.0,Oral Rehydration,0.1,62.2,September
-2021-09-29,None,No,98.3,None,Symptoms: None; Severity moderate.,6.8,Medium,2,7,High Sugar,2.7,None,4.3,77.8,September
+2021-09-29,Unknown,No,98.3,Unknown,Symptoms: None; Severity moderate.,6.8,Medium,2,7,High Sugar,2.7,None,4.3,77.8,September
 2021-09-30,Headache,No,97.9,Flu,Symptoms: Headache; Severity moderate.,5.9,Medium,3,7,Normal,3.6,None,4.8,104.0,September
 2021-10-01,Headache,No,98.8,Dengue,Symptoms: Headache; Severity moderate.,7.0,High,1,8,Skipped Meal,2.0,None,3.8,98.9,October
-2021-10-02,None,No,98.5,None,Symptoms: None; Severity moderate.,8.5,Medium,3,6,High Sugar,2.6,None,5.0,95.1,October
+2021-10-02,Unknown,No,98.5,Unknown,Symptoms: None; Severity moderate.,8.5,Medium,3,6,High Sugar,2.6,None,5.0,95.1,October
 2021-10-03,Vomiting,No,99.4,Food Poisoning,Symptoms: Vomiting; Severity moderate.,5.8,High,3,7,High Sugar,1.3,None,1.9,102.8,October
 2021-10-04,Nausea,No,98.6,Food Poisoning,Symptoms: Nausea; Severity moderate.,4.0,High,3,7,High Sugar,1.1,None,5.0,99.2,October
 2021-10-05,Fever,Yes,101.8,Flu,Symptoms: Fever; Severity moderate.,8.4,High,4,6,Normal,1.2,Antibiotics,2.6,84.4,October
@@ -281,19 +281,19 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-10-07,Cold,No,97.5,Flu,Symptoms: Cold; Severity moderate.,9.0,High,2,8,Normal,1.2,None,2.9,89.4,October
 2021-10-08,"Back Pain, Nausea, Cough",No,98.2,Food Poisoning,"Symptoms: Back Pain, Nausea, Cough; Severity moderate.",7.6,Medium,2,9,Normal,2.8,Painkillers,0.2,58.1,October
 2021-10-09,"Cough, Nausea, Cold",No,97.2,Cold,"Symptoms: Cough, Nausea, Cold; Severity moderate.",8.6,Medium,3,7,Normal,2.9,None,4.2,50.1,October
-2021-10-10,Shortness of Breath,No,98.7,None,Symptoms: Shortness of Breath; Severity moderate.,8.4,High,1,10,High Sugar,3.8,None,5.1,66.2,October
-2021-10-11,None,No,97.4,None,Symptoms: None; Severity moderate.,4.3,High,3,8,Skipped Meal,1.4,None,4.1,70.3,October
-2021-10-12,None,No,98.8,None,Symptoms: None; Severity moderate.,6.6,Medium,2,9,Skipped Meal,1.7,None,2.9,102.9,October
+2021-10-10,Shortness of Breath,No,98.7,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.4,High,1,10,High Sugar,3.8,None,5.1,66.2,October
+2021-10-11,Unknown,No,97.4,Unknown,Symptoms: None; Severity moderate.,4.3,High,3,8,Skipped Meal,1.4,None,4.1,70.3,October
+2021-10-12,Unknown,No,98.8,Unknown,Symptoms: None; Severity moderate.,6.6,Medium,2,9,Skipped Meal,1.7,None,2.9,102.9,October
 2021-10-13,Fatigue,No,98.1,Sprained Leg,Symptoms: Fatigue; Severity moderate.,7.4,Low,5,5,Normal,1.1,None,3.6,64.7,October
 2021-10-14,"Cold, Dizziness",No,99.8,Migraine,"Symptoms: Cold, Dizziness; Severity moderate.",6.3,Medium,2,7,Normal,3.8,None,0.6,51.3,October
-2021-10-15,Shortness of Breath,No,97.5,None,Symptoms: Shortness of Breath; Severity moderate.,6.7,Medium,3,8,Normal,3.9,None,5.3,70.5,October
+2021-10-15,Shortness of Breath,No,97.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.7,Medium,3,8,Normal,3.9,None,5.3,70.5,October
 2021-10-16,"Headache, Shortness of Breath",No,97.6,Flu,"Symptoms: Headache, Shortness of Breath; Severity moderate.",6.0,Medium,2,7,Normal,2.6,None,4.7,83.0,October
 2021-10-17,Diarrhea,No,98.9,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,5.5,Low,4,5,High Sugar,3.1,Oral Rehydration,5.8,60.2,October
 2021-10-18,"Dizziness, Leg Pain",No,97.3,Back Injury,"Symptoms: Dizziness, Leg Pain; Severity moderate.",8.9,Medium,1,8,Skipped Meal,1.5,Painkillers,3.4,64.1,October
 2021-10-19,"Vomiting, Dizziness",No,97.6,Back Injury,"Symptoms: Vomiting, Dizziness; Severity moderate.",5.6,Low,1,9,Skipped Meal,2.7,None,4.3,97.6,October
 2021-10-20,"Shortness of Breath, Dizziness",No,97.2,Back Injury,"Symptoms: Shortness of Breath, Dizziness; Severity moderate.",4.4,Low,4,7,Normal,3.4,None,1.3,79.5,October
-2021-10-21,Shortness of Breath,No,99.6,None,Symptoms: Shortness of Breath; Severity moderate.,5.2,High,1,9,Skipped Meal,2.6,None,5.2,68.4,October
-2021-10-22,None,No,98.3,None,Symptoms: None; Severity moderate.,6.4,High,1,8,High Sugar,3.4,None,5.9,66.0,October
+2021-10-21,Shortness of Breath,No,99.6,Unknown,Symptoms: Shortness of Breath; Severity moderate.,5.2,High,1,9,Skipped Meal,2.6,None,5.2,68.4,October
+2021-10-22,Unknown,No,98.3,Unknown,Symptoms: None; Severity moderate.,6.4,High,1,8,High Sugar,3.4,None,5.9,66.0,October
 2021-10-23,"Fever, Fatigue",Yes,100.4,Cold,"Symptoms: Fever, Fatigue; Severity moderate.",6.8,Low,5,4,High Sugar,2.5,Antibiotics,2.1,66.3,October
 2021-10-24,"Cold, Shortness of Breath",No,98.2,Cold,"Symptoms: Cold, Shortness of Breath; Severity moderate.",5.8,High,2,7,Skipped Meal,3.4,None,3.8,93.4,October
 2021-10-25,"Leg Pain, Nausea",No,98.4,Dengue,"Symptoms: Leg Pain, Nausea; Severity moderate.",6.4,Low,2,8,High Sugar,2.1,Painkillers,2.2,66.5,October
@@ -301,17 +301,17 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-10-27,Cough,No,98.1,Cold,Symptoms: Cough; Severity moderate.,7.4,Low,3,8,High Sugar,2.9,None,4.0,84.7,October
 2021-10-28,Vomiting,No,98.4,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.3,Low,2,8,Normal,2.2,None,3.6,80.2,October
 2021-10-29,"Headache, Diarrhea, Fatigue",No,98.2,Cold,"Symptoms: Headache, Diarrhea, Fatigue; Severity moderate.",6.5,Low,6,5,Normal,1.5,Oral Rehydration,3.0,78.3,October
-2021-10-30,None,No,98.6,None,Symptoms: None; Severity moderate.,7.4,Medium,1,8,High Sugar,2.3,None,0.1,95.0,October
+2021-10-30,Unknown,No,98.6,Unknown,Symptoms: None; Severity moderate.,7.4,Medium,1,8,High Sugar,2.3,None,0.1,95.0,October
 2021-10-31,Back Pain,No,97.6,Back Injury,Symptoms: Back Pain; Severity moderate.,8.7,High,2,9,Normal,3.7,Painkillers,2.8,96.4,October
 2021-11-01,Back Pain,No,97.4,Back Injury,Symptoms: Back Pain; Severity moderate.,5.5,Low,2,9,Normal,3.5,Painkillers,0.1,54.6,November
 2021-11-02,Nausea,No,98.2,Food Poisoning,Symptoms: Nausea; Severity moderate.,6.0,Low,2,7,High Sugar,3.1,None,2.9,64.6,November
-2021-11-03,None,No,97.8,None,Symptoms: None; Severity moderate.,8.6,Low,2,8,Normal,3.5,None,1.6,82.7,November
+2021-11-03,Unknown,No,97.8,Unknown,Symptoms: None; Severity moderate.,8.6,Low,2,8,Normal,3.5,None,1.6,82.7,November
 2021-11-04,Vomiting,No,98.9,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.2,High,1,8,Normal,1.4,None,3.7,76.6,November
 2021-11-05,Back Pain,No,97.6,Sprained Leg,Symptoms: Back Pain; Severity moderate.,8.8,High,3,6,High Sugar,3.3,Painkillers,3.0,92.8,November
 2021-11-06,Diarrhea,No,97.8,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,8.3,High,5,4,High Sugar,2.3,Oral Rehydration,1.1,72.0,November
 2021-11-07,"Cough, Diarrhea",No,99.1,Food Poisoning,"Symptoms: Cough, Diarrhea; Severity moderate.",4.4,High,6,3,High Sugar,3.2,Oral Rehydration,1.6,103.4,November
 2021-11-08,"Cough, Headache",No,98.6,Flu,"Symptoms: Cough, Headache; Severity moderate.",5.4,High,2,9,High Sugar,2.9,None,2.8,82.1,November
-2021-11-09,None,No,97.5,None,Symptoms: None; Severity moderate.,4.8,High,2,9,Skipped Meal,3.9,None,1.4,92.7,November
+2021-11-09,Unknown,No,97.5,Unknown,Symptoms: None; Severity moderate.,4.8,High,2,9,Skipped Meal,3.9,None,1.4,92.7,November
 2021-11-10,"Leg Pain, Cold",No,98.2,Cold,"Symptoms: Leg Pain, Cold; Severity moderate.",7.5,Low,2,7,High Sugar,3.1,Painkillers,2.4,56.5,November
 2021-11-11,"Dizziness, Cold, Fever",Yes,101.3,Flu,"Symptoms: Dizziness, Cold, Fever; Severity moderate.",8.7,Low,3,8,Skipped Meal,1.4,Antibiotics,3.0,79.2,November
 2021-11-12,"Vomiting, Fever, Headache",Yes,102.8,Flu,"Symptoms: Vomiting, Fever, Headache; Severity moderate.",7.6,Low,5,4,Skipped Meal,1.7,Antibiotics,2.2,102.6,November
@@ -326,20 +326,20 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-11-21,Cough,No,97.9,Cold,Symptoms: Cough; Severity moderate.,7.1,Low,1,9,High Sugar,3.0,None,1.4,95.1,November
 2021-11-22,"Leg Pain, Headache",No,98.1,Dengue,"Symptoms: Leg Pain, Headache; Severity moderate.",8.4,Medium,3,8,Normal,3.7,Painkillers,0.1,100.4,November
 2021-11-23,"Leg Pain, Vomiting, Cold",No,97.7,Food Poisoning,"Symptoms: Leg Pain, Vomiting, Cold; Severity moderate.",8.9,High,1,8,High Sugar,1.8,Painkillers,3.7,63.2,November
-2021-11-24,None,No,96.5,None,Symptoms: None; Severity moderate.,6.9,Low,3,6,Skipped Meal,2.4,None,5.5,100.1,November
+2021-11-24,Unknown,No,96.5,Unknown,Symptoms: None; Severity moderate.,6.9,Low,3,6,Skipped Meal,2.4,None,5.5,100.1,November
 2021-11-25,Cough,No,98.8,Flu,Symptoms: Cough; Severity moderate.,4.9,High,4,5,High Sugar,1.7,None,3.1,102.9,November
 2021-11-26,"Fatigue, Cold, Nausea",No,97.5,Cold,"Symptoms: Fatigue, Cold, Nausea; Severity moderate.",8.4,Low,4,6,High Sugar,1.3,None,3.7,103.8,November
 2021-11-27,"Headache, Leg Pain, Diarrhea",No,97.6,Food Poisoning,"Symptoms: Headache, Leg Pain, Diarrhea; Severity moderate.",6.8,Medium,4,6,Skipped Meal,4.0,Oral Rehydration,2.8,83.4,November
-2021-11-28,None,No,97.8,None,Symptoms: None; Severity moderate.,4.9,High,2,8,High Sugar,3.3,None,5.2,78.1,November
+2021-11-28,Unknown,No,97.8,Unknown,Symptoms: None; Severity moderate.,4.9,High,2,8,High Sugar,3.3,None,5.2,78.1,November
 2021-11-29,Back Pain,No,98.5,Back Injury,Symptoms: Back Pain; Severity moderate.,6.3,Low,2,9,High Sugar,3.7,Painkillers,1.9,65.5,November
 2021-11-30,"Back Pain, Shortness of Breath",No,98.0,Sprained Leg,"Symptoms: Back Pain, Shortness of Breath; Severity moderate.",8.8,High,2,9,High Sugar,1.6,Painkillers,5.8,53.7,November
 2021-12-01,"Cough, Nausea",No,98.1,Flu,"Symptoms: Cough, Nausea; Severity moderate.",8.2,Medium,1,8,Skipped Meal,2.0,None,1.5,92.2,December
 2021-12-02,Fatigue,No,97.7,Dengue,Symptoms: Fatigue; Severity moderate.,6.4,Medium,5,5,Skipped Meal,2.9,None,1.8,79.1,December
-2021-12-03,None,No,98.3,None,Symptoms: None; Severity moderate.,4.5,Medium,4,7,High Sugar,1.7,None,2.2,59.2,December
+2021-12-03,Unknown,No,98.3,Unknown,Symptoms: None; Severity moderate.,4.5,Medium,4,7,High Sugar,1.7,None,2.2,59.2,December
 2021-12-04,"Leg Pain, Fatigue",No,96.6,Back Injury,"Symptoms: Leg Pain, Fatigue; Severity moderate.",6.4,Low,4,5,Skipped Meal,2.1,Painkillers,3.9,95.4,December
 2021-12-05,Fatigue,No,96.9,Cold,Symptoms: Fatigue; Severity moderate.,7.5,Low,4,7,Skipped Meal,3.5,None,5.6,78.3,December
 2021-12-06,Cold,No,97.1,Cold,Symptoms: Cold; Severity moderate.,4.6,Medium,2,7,Normal,3.3,None,0.4,56.5,December
-2021-12-07,None,No,97.9,None,Symptoms: None; Severity moderate.,6.4,Low,1,9,Skipped Meal,3.5,None,2.8,70.0,December
+2021-12-07,Unknown,No,97.9,Unknown,Symptoms: None; Severity moderate.,6.4,Low,1,9,Skipped Meal,3.5,None,2.8,70.0,December
 2021-12-08,Leg Pain,No,97.5,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.9,Low,3,8,Skipped Meal,1.7,Painkillers,2.2,81.4,December
 2021-12-09,Headache,No,97.4,Migraine,Symptoms: Headache; Severity moderate.,8.7,Low,3,7,Skipped Meal,2.4,None,5.7,76.0,December
 2021-12-10,"Dizziness, Cold",No,97.3,Flu,"Symptoms: Dizziness, Cold; Severity moderate.",6.1,Medium,1,10,Skipped Meal,3.1,None,5.9,72.0,December
@@ -349,7 +349,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-12-14,"Back Pain, Nausea, Shortness of Breath",No,99.3,Back Injury,"Symptoms: Back Pain, Nausea, Shortness of Breath; Severity moderate.",4.7,High,3,7,High Sugar,2.9,Painkillers,0.4,51.9,December
 2021-12-15,Dizziness,No,98.8,Migraine,Symptoms: Dizziness; Severity moderate.,7.0,Low,3,8,Normal,3.2,None,4.4,100.7,December
 2021-12-16,"Diarrhea, Nausea",No,99.8,Migraine,"Symptoms: Diarrhea, Nausea; Severity moderate.",8.3,Low,5,6,Skipped Meal,1.2,Oral Rehydration,0.2,56.6,December
-2021-12-17,Shortness of Breath,No,98.7,None,Symptoms: Shortness of Breath; Severity moderate.,6.6,High,1,10,Normal,1.2,None,2.2,71.4,December
+2021-12-17,Shortness of Breath,No,98.7,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.6,High,1,10,Normal,1.2,None,2.2,71.4,December
 2021-12-18,Cold,No,98.4,Flu,Symptoms: Cold; Severity moderate.,8.7,High,1,8,Skipped Meal,3.4,None,2.4,69.2,December
 2021-12-19,"Leg Pain, Cold",No,97.3,Flu,"Symptoms: Leg Pain, Cold; Severity moderate.",7.0,Low,3,8,Skipped Meal,3.0,Painkillers,3.9,60.5,December
 2021-12-20,Fatigue,No,98.4,Sprained Leg,Symptoms: Fatigue; Severity moderate.,5.6,Medium,4,7,Skipped Meal,2.2,None,1.8,52.4,December
@@ -362,12 +362,12 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2021-12-27,"Fatigue, Dizziness, Headache",No,96.7,Back Injury,"Symptoms: Fatigue, Dizziness, Headache; Severity moderate.",8.8,Low,3,6,Normal,3.9,None,3.1,94.9,December
 2021-12-28,Back Pain,No,98.2,Sprained Leg,Symptoms: Back Pain; Severity moderate.,8.0,Medium,2,9,Normal,2.5,Painkillers,3.0,61.9,December
 2021-12-29,"Vomiting, Diarrhea, Cough",No,97.6,Flu,"Symptoms: Vomiting, Diarrhea, Cough; Severity moderate.",4.3,Low,5,4,Normal,3.7,Oral Rehydration,4.7,83.1,December
-2021-12-30,Shortness of Breath,No,99.4,None,Symptoms: Shortness of Breath; Severity moderate.,7.5,High,3,8,Normal,1.6,None,5.6,54.0,December
+2021-12-30,Shortness of Breath,No,99.4,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.5,High,3,8,Normal,1.6,None,5.6,54.0,December
 2021-12-31,"Fatigue, Shortness of Breath",No,98.1,Sprained Leg,"Symptoms: Fatigue, Shortness of Breath; Severity moderate.",5.1,Low,5,6,High Sugar,2.4,None,0.3,79.5,December
-2022-01-01,None,No,97.3,None,Symptoms: None; Severity moderate.,5.6,High,1,9,High Sugar,2.8,None,1.0,104.4,January
+2022-01-01,Unknown,No,97.3,Unknown,Symptoms: None; Severity moderate.,5.6,High,1,9,High Sugar,2.8,None,1.0,104.4,January
 2022-01-02,Back Pain,No,97.6,Sprained Leg,Symptoms: Back Pain; Severity moderate.,6.8,Medium,3,7,Normal,1.1,Painkillers,5.0,101.9,January
 2022-01-03,Cold,No,96.7,Flu,Symptoms: Cold; Severity moderate.,7.4,High,2,9,High Sugar,4.0,None,2.1,68.6,January
-2022-01-04,Shortness of Breath,No,97.9,None,Symptoms: Shortness of Breath; Severity moderate.,7.2,High,3,6,High Sugar,1.4,None,6.0,67.7,January
+2022-01-04,Shortness of Breath,No,97.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.2,High,3,6,High Sugar,1.4,None,6.0,67.7,January
 2022-01-05,"Cough, Nausea",No,98.3,Food Poisoning,"Symptoms: Cough, Nausea; Severity moderate.",4.8,High,4,5,Skipped Meal,1.5,None,4.2,51.9,January
 2022-01-06,Leg Pain,No,97.3,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,4.4,Medium,4,5,Skipped Meal,2.9,Painkillers,3.4,88.1,January
 2022-01-07,Nausea,No,97.7,Food Poisoning,Symptoms: Nausea; Severity moderate.,8.7,High,2,8,High Sugar,2.6,None,1.8,99.5,January
@@ -404,7 +404,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-02-07,"Vomiting, Fever, Dizziness",Yes,102.0,Food Poisoning,"Symptoms: Vomiting, Fever, Dizziness; Severity moderate.",5.7,Low,5,4,High Sugar,2.4,Paracetamol,2.5,72.8,February
 2022-02-08,Vomiting,No,96.7,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.9,Medium,1,10,Normal,1.5,None,2.7,88.2,February
 2022-02-09,Back Pain,No,100.1,Sprained Leg,Symptoms: Back Pain; Severity moderate.,5.5,High,2,8,High Sugar,2.6,Painkillers,1.2,93.6,February
-2022-02-10,None,No,97.2,None,Symptoms: None; Severity moderate.,5.7,Low,3,8,Normal,2.3,None,5.9,76.7,February
+2022-02-10,Unknown,No,97.2,Unknown,Symptoms: None; Severity moderate.,5.7,Low,3,8,Normal,2.3,None,5.9,76.7,February
 2022-02-11,"Cold, Fever",Yes,101.9,Flu,"Symptoms: Cold, Fever; Severity moderate.",4.3,Medium,4,5,High Sugar,4.0,Antibiotics,0.8,93.7,February
 2022-02-12,Diarrhea,No,98.4,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.9,Medium,5,4,Skipped Meal,4.0,Oral Rehydration,0.0,92.9,February
 2022-02-13,Cough,No,99.4,Cold,Symptoms: Cough; Severity moderate.,8.2,Medium,1,10,Normal,3.6,None,3.7,74.4,February
@@ -424,16 +424,16 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-02-27,"Fatigue, Diarrhea",No,96.4,Dengue,"Symptoms: Fatigue, Diarrhea; Severity moderate.",6.7,Medium,5,5,Skipped Meal,2.0,Oral Rehydration,2.3,91.6,February
 2022-02-28,"Headache, Back Pain",No,97.0,Back Injury,"Symptoms: Headache, Back Pain; Severity moderate.",7.5,Low,2,7,Skipped Meal,4.0,Painkillers,0.1,54.8,February
 2022-03-01,Diarrhea,No,97.1,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,8.9,Low,3,8,Skipped Meal,2.1,Oral Rehydration,5.7,84.8,March
-2022-03-02,None,No,97.2,None,Symptoms: None; Severity moderate.,5.7,Medium,3,7,High Sugar,3.0,None,2.3,55.2,March
-2022-03-03,Shortness of Breath,No,97.9,None,Symptoms: Shortness of Breath; Severity moderate.,4.3,High,2,7,Skipped Meal,1.6,None,5.9,66.6,March
+2022-03-02,Unknown,No,97.2,Unknown,Symptoms: None; Severity moderate.,5.7,Medium,3,7,High Sugar,3.0,None,2.3,55.2,March
+2022-03-03,Shortness of Breath,No,97.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.3,High,2,7,Skipped Meal,1.6,None,5.9,66.6,March
 2022-03-04,"Fatigue, Headache",No,98.9,Cold,"Symptoms: Fatigue, Headache; Severity moderate.",8.1,Low,3,8,Normal,1.7,None,2.0,82.2,March
-2022-03-05,None,No,98.1,None,Symptoms: None; Severity moderate.,8.2,Low,3,6,High Sugar,2.2,None,2.2,86.7,March
+2022-03-05,Unknown,No,98.1,Unknown,Symptoms: None; Severity moderate.,8.2,Low,3,6,High Sugar,2.2,None,2.2,86.7,March
 2022-03-06,"Shortness of Breath, Diarrhea",No,96.3,Food Poisoning,"Symptoms: Shortness of Breath, Diarrhea; Severity moderate.",4.6,High,5,4,High Sugar,2.4,Oral Rehydration,1.0,95.6,March
 2022-03-07,"Leg Pain, Back Pain",No,98.2,Sprained Leg,"Symptoms: Leg Pain, Back Pain; Severity moderate.",5.1,Medium,1,8,Normal,2.8,Painkillers,4.3,88.3,March
 2022-03-08,"Back Pain, Vomiting, Nausea",No,98.9,Sprained Leg,"Symptoms: Back Pain, Vomiting, Nausea; Severity moderate.",5.9,Medium,3,8,High Sugar,3.4,Painkillers,3.0,63.8,March
 2022-03-09,"Back Pain, Vomiting",No,97.8,Food Poisoning,"Symptoms: Back Pain, Vomiting; Severity moderate.",5.8,High,3,6,Skipped Meal,2.7,Painkillers,2.9,80.4,March
 2022-03-10,Headache,No,98.0,Flu,Symptoms: Headache; Severity moderate.,8.0,High,2,9,High Sugar,1.5,None,0.0,90.7,March
-2022-03-11,Shortness of Breath,No,97.5,None,Symptoms: Shortness of Breath; Severity moderate.,6.5,Low,1,9,High Sugar,3.8,None,2.3,58.0,March
+2022-03-11,Shortness of Breath,No,97.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.5,Low,1,9,High Sugar,3.8,None,2.3,58.0,March
 2022-03-12,"Leg Pain, Dizziness",No,97.8,Back Injury,"Symptoms: Leg Pain, Dizziness; Severity moderate.",8.5,Low,2,9,Skipped Meal,1.5,Painkillers,5.4,83.0,March
 2022-03-13,Leg Pain,No,97.6,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,4.3,Low,4,5,Skipped Meal,2.1,Painkillers,5.6,104.1,March
 2022-03-14,Leg Pain,No,98.7,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.5,Low,1,10,Skipped Meal,3.5,Painkillers,3.4,58.4,March
@@ -447,7 +447,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-03-22,Cold,No,98.8,Cold,Symptoms: Cold; Severity moderate.,4.5,Medium,3,6,Skipped Meal,3.2,None,0.2,102.1,March
 2022-03-23,Diarrhea,No,98.2,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.5,Medium,3,8,Normal,2.8,Oral Rehydration,0.6,80.0,March
 2022-03-24,"Headache, Vomiting",No,99.3,Dengue,"Symptoms: Headache, Vomiting; Severity moderate.",4.9,High,3,7,Normal,1.8,None,3.1,78.4,March
-2022-03-25,Shortness of Breath,No,98.5,None,Symptoms: Shortness of Breath; Severity moderate.,8.5,Low,1,9,High Sugar,2.7,None,4.4,56.2,March
+2022-03-25,Shortness of Breath,No,98.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.5,Low,1,9,High Sugar,2.7,None,4.4,56.2,March
 2022-03-26,Fever,Yes,102.2,Food Poisoning,Symptoms: Fever; Severity moderate.,6.7,High,3,8,Skipped Meal,3.7,Antibiotics,5.3,89.4,March
 2022-03-27,Diarrhea,No,97.8,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.9,High,5,4,Skipped Meal,2.8,Oral Rehydration,4.8,60.3,March
 2022-03-28,"Cold, Dizziness, Headache",No,97.9,Migraine,"Symptoms: Cold, Dizziness, Headache; Severity moderate.",4.2,High,3,7,High Sugar,1.9,None,2.3,75.7,March
@@ -459,11 +459,11 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-04-03,Back Pain,No,98.5,Back Injury,Symptoms: Back Pain; Severity moderate.,4.9,High,3,7,Skipped Meal,1.2,Painkillers,2.3,59.1,April
 2022-04-04,Diarrhea,No,98.0,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.8,Medium,4,7,Skipped Meal,2.2,Oral Rehydration,1.6,79.6,April
 2022-04-05,Fever,Yes,103.7,Dengue,Symptoms: Fever; Severity moderate.,4.2,Low,6,4,Skipped Meal,1.3,Antibiotics,1.3,85.1,April
-2022-04-06,Shortness of Breath,No,97.5,None,Symptoms: Shortness of Breath; Severity moderate.,5.1,Medium,3,7,Normal,2.0,None,5.6,52.8,April
+2022-04-06,Shortness of Breath,No,97.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,5.1,Medium,3,7,Normal,2.0,None,5.6,52.8,April
 2022-04-07,"Fever, Fatigue",Yes,100.6,Back Injury,"Symptoms: Fever, Fatigue; Severity moderate.",5.7,Medium,6,4,High Sugar,3.3,Antibiotics,2.5,60.0,April
 2022-04-08,"Dizziness, Shortness of Breath",No,96.8,Migraine,"Symptoms: Dizziness, Shortness of Breath; Severity moderate.",8.0,Medium,1,9,High Sugar,2.5,None,2.3,53.4,April
 2022-04-09,Cough,No,98.9,Flu,Symptoms: Cough; Severity moderate.,4.3,Low,3,8,Skipped Meal,2.0,None,2.7,59.7,April
-2022-04-10,None,No,99.2,None,Symptoms: None; Severity moderate.,6.9,High,1,9,Skipped Meal,2.3,None,4.1,56.0,April
+2022-04-10,Unknown,No,99.2,Unknown,Symptoms: None; Severity moderate.,6.9,High,1,9,Skipped Meal,2.3,None,4.1,56.0,April
 2022-04-11,Vomiting,No,99.0,Food Poisoning,Symptoms: Vomiting; Severity moderate.,7.5,Medium,3,6,High Sugar,2.2,None,3.7,104.3,April
 2022-04-12,Fatigue,No,98.4,Sprained Leg,Symptoms: Fatigue; Severity moderate.,4.6,Low,5,5,High Sugar,1.8,None,2.5,74.0,April
 2022-04-13,"Diarrhea, Cold, Fatigue",No,97.8,Cold,"Symptoms: Diarrhea, Cold, Fatigue; Severity moderate.",5.7,Low,6,4,High Sugar,2.9,Oral Rehydration,3.3,99.6,April
@@ -471,17 +471,17 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-04-15,Back Pain,No,98.2,Sprained Leg,Symptoms: Back Pain; Severity moderate.,8.2,High,1,10,Skipped Meal,3.1,Painkillers,4.6,52.0,April
 2022-04-16,Nausea,No,98.8,Food Poisoning,Symptoms: Nausea; Severity moderate.,7.8,Low,1,10,High Sugar,1.7,None,4.8,64.8,April
 2022-04-17,Dizziness,No,100.1,Back Injury,Symptoms: Dizziness; Severity moderate.,5.4,Medium,1,10,High Sugar,2.0,None,5.9,89.1,April
-2022-04-18,None,No,97.5,None,Symptoms: None; Severity moderate.,7.9,Low,3,7,High Sugar,2.1,None,4.9,66.4,April
+2022-04-18,Unknown,No,97.5,Unknown,Symptoms: None; Severity moderate.,7.9,Low,3,7,High Sugar,2.1,None,4.9,66.4,April
 2022-04-19,Fever,Yes,100.5,Food Poisoning,Symptoms: Fever; Severity moderate.,6.6,Low,4,6,High Sugar,3.8,Paracetamol,2.2,83.5,April
 2022-04-20,"Shortness of Breath, Fever",Yes,103.2,Flu,"Symptoms: Shortness of Breath, Fever; Severity moderate.",4.8,High,5,4,High Sugar,1.6,Antibiotics,2.8,93.1,April
 2022-04-21,"Shortness of Breath, Fever",Yes,101.8,Flu,"Symptoms: Shortness of Breath, Fever; Severity moderate.",7.7,High,5,6,High Sugar,3.0,Antibiotics,5.1,98.1,April
 2022-04-22,Fatigue,No,98.5,Dengue,Symptoms: Fatigue; Severity moderate.,4.9,Low,6,4,High Sugar,1.5,None,1.3,59.5,April
 2022-04-23,Leg Pain,No,97.8,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.4,Low,3,6,High Sugar,3.7,Painkillers,1.0,57.5,April
-2022-04-24,Shortness of Breath,No,97.6,None,Symptoms: Shortness of Breath; Severity moderate.,8.8,High,1,9,Normal,1.1,None,5.6,104.7,April
+2022-04-24,Shortness of Breath,No,97.6,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.8,High,1,9,Normal,1.1,None,5.6,104.7,April
 2022-04-25,Fatigue,No,98.4,Cold,Symptoms: Fatigue; Severity moderate.,6.0,Low,4,7,Normal,3.2,None,3.0,77.9,April
 2022-04-26,Fatigue,No,97.9,Cold,Symptoms: Fatigue; Severity moderate.,4.7,Low,6,4,Normal,1.7,None,3.7,68.4,April
 2022-04-27,"Nausea, Cold",No,98.6,Migraine,"Symptoms: Nausea, Cold; Severity moderate.",5.5,Medium,3,6,Normal,2.0,None,2.2,87.2,April
-2022-04-28,Shortness of Breath,No,98.0,None,Symptoms: Shortness of Breath; Severity moderate.,6.9,High,2,8,Normal,3.8,None,4.6,88.2,April
+2022-04-28,Shortness of Breath,No,98.0,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.9,High,2,8,Normal,3.8,None,4.6,88.2,April
 2022-04-29,"Back Pain, Headache",No,98.0,Flu,"Symptoms: Back Pain, Headache; Severity moderate.",4.1,Medium,2,9,High Sugar,1.9,Painkillers,1.1,53.2,April
 2022-04-30,Cough,No,98.2,Cold,Symptoms: Cough; Severity moderate.,5.8,High,1,8,High Sugar,1.4,None,5.7,81.1,April
 2022-05-01,"Back Pain, Cough, Fever",Yes,103.8,Sprained Leg,"Symptoms: Back Pain, Cough, Fever; Severity moderate.",7.5,High,4,7,High Sugar,3.8,Antibiotics,2.7,73.4,May
@@ -498,14 +498,14 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-05-12,"Headache, Dizziness, Fever",Yes,103.4,Dengue,"Symptoms: Headache, Dizziness, Fever; Severity moderate.",8.1,High,4,6,High Sugar,1.5,Paracetamol,1.4,82.3,May
 2022-05-13,Vomiting,No,98.1,Food Poisoning,Symptoms: Vomiting; Severity moderate.,4.4,Medium,3,6,Skipped Meal,2.5,None,5.7,81.3,May
 2022-05-14,"Nausea, Headache",No,97.9,Migraine,"Symptoms: Nausea, Headache; Severity moderate.",5.1,Medium,1,9,High Sugar,3.9,None,2.2,59.9,May
-2022-05-15,Shortness of Breath,No,97.3,None,Symptoms: Shortness of Breath; Severity moderate.,4.3,High,4,5,Normal,2.5,None,2.6,92.7,May
+2022-05-15,Shortness of Breath,No,97.3,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.3,High,4,5,Normal,2.5,None,2.6,92.7,May
 2022-05-16,Dizziness,No,98.2,Migraine,Symptoms: Dizziness; Severity moderate.,5.6,High,1,10,Normal,3.0,None,5.5,97.3,May
-2022-05-17,Shortness of Breath,No,98.5,None,Symptoms: Shortness of Breath; Severity moderate.,7.6,High,3,6,Normal,3.2,None,5.2,96.5,May
+2022-05-17,Shortness of Breath,No,98.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.6,High,3,6,Normal,3.2,None,5.2,96.5,May
 2022-05-18,"Fever, Cough",Yes,101.4,Dengue,"Symptoms: Fever, Cough; Severity moderate.",4.4,Medium,4,6,Skipped Meal,1.2,Antibiotics,2.7,92.5,May
-2022-05-19,Shortness of Breath,No,98.0,None,Symptoms: Shortness of Breath; Severity moderate.,4.4,High,4,7,Skipped Meal,3.2,None,6.0,68.1,May
+2022-05-19,Shortness of Breath,No,98.0,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.4,High,4,7,Skipped Meal,3.2,None,6.0,68.1,May
 2022-05-20,Vomiting,No,98.4,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.5,Medium,1,10,Skipped Meal,3.3,None,3.0,86.3,May
 2022-05-21,"Nausea, Fatigue",No,98.9,Back Injury,"Symptoms: Nausea, Fatigue; Severity moderate.",5.9,Low,5,6,High Sugar,3.3,None,4.5,50.6,May
-2022-05-22,Shortness of Breath,No,98.5,None,Symptoms: Shortness of Breath; Severity moderate.,4.7,Medium,2,8,Normal,1.3,None,3.8,61.8,May
+2022-05-22,Shortness of Breath,No,98.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.7,Medium,2,8,Normal,1.3,None,3.8,61.8,May
 2022-05-23,"Nausea, Dizziness",No,97.6,Dengue,"Symptoms: Nausea, Dizziness; Severity moderate.",7.7,Medium,1,9,Normal,2.2,None,5.5,103.4,May
 2022-05-24,Diarrhea,No,98.6,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.0,Medium,5,6,High Sugar,2.9,Oral Rehydration,1.1,53.3,May
 2022-05-25,Leg Pain,No,97.6,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,7.2,Low,2,9,Skipped Meal,1.6,Painkillers,3.9,95.1,May
@@ -517,14 +517,14 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-05-31,Leg Pain,No,97.7,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,6.6,Low,1,10,Skipped Meal,3.0,Painkillers,5.3,61.4,May
 2022-06-01,"Shortness of Breath, Headache",No,98.2,Migraine,"Symptoms: Shortness of Breath, Headache; Severity moderate.",5.0,Medium,2,8,Skipped Meal,3.1,None,3.3,83.3,June
 2022-06-02,Cold,No,98.1,Cold,Symptoms: Cold; Severity moderate.,7.5,High,2,8,Skipped Meal,2.3,None,2.4,94.1,June
-2022-06-03,None,No,97.6,None,Symptoms: None; Severity moderate.,8.7,Medium,1,10,High Sugar,1.9,None,0.1,66.9,June
+2022-06-03,Unknown,No,97.6,Unknown,Symptoms: None; Severity moderate.,8.7,Medium,1,10,High Sugar,1.9,None,0.1,66.9,June
 2022-06-04,Headache,No,98.2,Flu,Symptoms: Headache; Severity moderate.,7.1,Medium,2,7,High Sugar,2.9,None,1.0,82.4,June
 2022-06-05,"Fever, Shortness of Breath",Yes,103.0,Food Poisoning,"Symptoms: Fever, Shortness of Breath; Severity moderate.",6.7,Low,4,7,Normal,1.4,Paracetamol,3.3,69.4,June
 2022-06-06,Nausea,No,98.2,Dengue,Symptoms: Nausea; Severity moderate.,4.5,Medium,4,7,Skipped Meal,1.8,None,4.4,91.3,June
 2022-06-07,"Shortness of Breath, Vomiting",No,98.1,Food Poisoning,"Symptoms: Shortness of Breath, Vomiting; Severity moderate.",4.1,Medium,2,7,Normal,2.3,None,4.8,83.6,June
 2022-06-08,"Headache, Vomiting",No,99.4,Dengue,"Symptoms: Headache, Vomiting; Severity moderate.",4.3,Low,2,8,High Sugar,1.9,None,4.6,98.4,June
 2022-06-09,Fever,Yes,102.1,Dengue,Symptoms: Fever; Severity moderate.,8.6,Low,5,4,High Sugar,1.0,Paracetamol,3.7,82.6,June
-2022-06-10,None,No,99.0,None,Symptoms: None; Severity moderate.,7.0,High,1,8,Skipped Meal,3.6,None,4.9,89.9,June
+2022-06-10,Unknown,No,99.0,Unknown,Symptoms: None; Severity moderate.,7.0,High,1,8,Skipped Meal,3.6,None,4.9,89.9,June
 2022-06-11,Dizziness,No,97.2,Migraine,Symptoms: Dizziness; Severity moderate.,6.8,Low,1,10,High Sugar,2.5,None,2.9,64.9,June
 2022-06-12,Headache,No,97.5,Migraine,Symptoms: Headache; Severity moderate.,6.0,Low,1,9,High Sugar,1.7,None,0.3,82.5,June
 2022-06-13,Back Pain,No,98.5,Sprained Leg,Symptoms: Back Pain; Severity moderate.,5.5,High,2,7,High Sugar,3.6,Painkillers,1.0,65.5,June
@@ -534,7 +534,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-06-17,"Shortness of Breath, Dizziness",No,98.8,Migraine,"Symptoms: Shortness of Breath, Dizziness; Severity moderate.",8.1,High,1,9,Skipped Meal,2.2,None,2.6,55.5,June
 2022-06-18,"Vomiting, Shortness of Breath",No,98.9,Food Poisoning,"Symptoms: Vomiting, Shortness of Breath; Severity moderate.",5.4,Medium,2,9,High Sugar,1.6,None,4.4,74.8,June
 2022-06-19,Headache,No,98.2,Dengue,Symptoms: Headache; Severity moderate.,4.4,Medium,2,8,Skipped Meal,3.2,None,5.3,66.6,June
-2022-06-20,Shortness of Breath,No,98.6,None,Symptoms: Shortness of Breath; Severity moderate.,7.0,Low,3,7,Skipped Meal,3.4,None,3.2,81.0,June
+2022-06-20,Shortness of Breath,No,98.6,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.0,Low,3,7,Skipped Meal,3.4,None,3.2,81.0,June
 2022-06-21,Cough,No,98.6,Flu,Symptoms: Cough; Severity moderate.,6.3,Medium,1,9,Normal,3.5,None,6.0,82.9,June
 2022-06-22,"Dizziness, Nausea, Cold",No,98.2,Migraine,"Symptoms: Dizziness, Nausea, Cold; Severity moderate.",4.8,Medium,2,7,High Sugar,3.0,None,3.5,78.6,June
 2022-06-23,Back Pain,No,97.7,Sprained Leg,Symptoms: Back Pain; Severity moderate.,5.1,Low,2,7,Normal,3.5,Painkillers,2.2,71.3,June
@@ -569,17 +569,17 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-07-22,Leg Pain,No,97.2,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,7.6,Low,2,8,Skipped Meal,4.0,Painkillers,3.7,72.6,July
 2022-07-23,Nausea,No,98.3,Food Poisoning,Symptoms: Nausea; Severity moderate.,4.7,Low,4,6,High Sugar,1.9,None,5.1,84.8,July
 2022-07-24,"Back Pain, Headache, Diarrhea",No,99.0,Flu,"Symptoms: Back Pain, Headache, Diarrhea; Severity moderate.",4.8,Medium,6,5,Skipped Meal,2.6,Oral Rehydration,1.2,79.2,July
-2022-07-25,None,No,98.1,None,Symptoms: None; Severity moderate.,6.8,Medium,1,8,High Sugar,3.9,None,4.4,61.5,July
+2022-07-25,Unknown,No,98.1,Unknown,Symptoms: None; Severity moderate.,6.8,Medium,1,8,High Sugar,3.9,None,4.4,61.5,July
 2022-07-26,Fatigue,No,97.2,Sprained Leg,Symptoms: Fatigue; Severity moderate.,8.7,Low,3,7,Normal,2.8,None,3.9,99.2,July
 2022-07-27,"Vomiting, Dizziness",No,95.8,Back Injury,"Symptoms: Vomiting, Dizziness; Severity moderate.",9.0,Medium,3,8,Normal,3.2,None,5.9,67.6,July
 2022-07-28,Fatigue,No,98.1,Flu,Symptoms: Fatigue; Severity moderate.,4.7,Medium,5,4,Skipped Meal,2.6,None,1.1,54.2,July
 2022-07-29,"Leg Pain, Vomiting",No,98.2,Sprained Leg,"Symptoms: Leg Pain, Vomiting; Severity moderate.",5.6,Low,3,7,Skipped Meal,1.7,Painkillers,3.8,52.6,July
 2022-07-30,"Fatigue, Back Pain",No,98.4,Cold,"Symptoms: Fatigue, Back Pain; Severity moderate.",8.0,Low,4,6,Normal,3.2,Painkillers,5.0,91.9,July
 2022-07-31,Headache,No,97.3,Migraine,Symptoms: Headache; Severity moderate.,8.2,Low,3,8,High Sugar,3.2,None,0.8,73.0,July
-2022-08-01,None,No,98.2,None,Symptoms: None; Severity moderate.,5.5,Low,3,6,Skipped Meal,2.8,None,1.6,84.7,August
+2022-08-01,Unknown,No,98.2,Unknown,Symptoms: None; Severity moderate.,5.5,Low,3,6,Skipped Meal,2.8,None,1.6,84.7,August
 2022-08-02,Diarrhea,No,97.2,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,4.2,Low,5,6,Normal,1.2,Oral Rehydration,3.6,59.4,August
 2022-08-03,"Fever, Vomiting",Yes,102.7,Dengue,"Symptoms: Fever, Vomiting; Severity moderate.",7.5,High,3,7,Skipped Meal,2.9,Paracetamol,3.0,88.4,August
-2022-08-04,Shortness of Breath,No,97.9,None,Symptoms: Shortness of Breath; Severity moderate.,7.7,Medium,1,9,Skipped Meal,3.4,None,0.2,67.6,August
+2022-08-04,Shortness of Breath,No,97.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.7,Medium,1,9,Skipped Meal,3.4,None,0.2,67.6,August
 2022-08-05,"Dizziness, Headache",No,98.6,Migraine,"Symptoms: Dizziness, Headache; Severity moderate.",5.3,High,3,8,High Sugar,3.1,None,3.3,68.9,August
 2022-08-06,Diarrhea,No,98.4,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.8,High,5,6,High Sugar,3.0,Oral Rehydration,5.3,73.4,August
 2022-08-07,Vomiting,No,98.8,Food Poisoning,Symptoms: Vomiting; Severity moderate.,6.5,Medium,1,10,Skipped Meal,1.1,None,2.4,56.2,August
@@ -604,13 +604,13 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-08-26,Cough,No,99.7,Cold,Symptoms: Cough; Severity moderate.,5.5,Medium,3,6,Skipped Meal,3.6,None,3.8,69.7,August
 2022-08-27,Dizziness,No,99.2,Migraine,Symptoms: Dizziness; Severity moderate.,6.5,Low,3,6,Skipped Meal,2.8,None,3.7,57.8,August
 2022-08-28,Dizziness,No,97.6,Migraine,Symptoms: Dizziness; Severity moderate.,8.3,Medium,1,8,High Sugar,2.8,None,0.2,62.9,August
-2022-08-29,None,No,98.6,None,Symptoms: None; Severity moderate.,8.2,Medium,1,8,Skipped Meal,1.5,None,0.9,81.4,August
+2022-08-29,Unknown,No,98.6,Unknown,Symptoms: None; Severity moderate.,8.2,Medium,1,8,Skipped Meal,1.5,None,0.9,81.4,August
 2022-08-30,Vomiting,No,97.8,Food Poisoning,Symptoms: Vomiting; Severity moderate.,6.3,Low,2,9,High Sugar,2.3,None,2.1,83.7,August
 2022-08-31,Leg Pain,No,97.1,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,4.4,Medium,2,9,Normal,1.2,Painkillers,0.0,67.9,August
 2022-09-01,"Vomiting, Cold, Back Pain",No,96.6,Cold,"Symptoms: Vomiting, Cold, Back Pain; Severity moderate.",5.0,Low,3,7,High Sugar,2.7,Painkillers,1.7,83.2,September
 2022-09-02,"Leg Pain, Nausea, Fever",Yes,103.7,Flu,"Symptoms: Leg Pain, Nausea, Fever; Severity moderate.",8.2,Low,4,6,Skipped Meal,1.2,Antibiotics,5.0,99.1,September
 2022-09-03,Back Pain,No,97.9,Back Injury,Symptoms: Back Pain; Severity moderate.,4.5,Low,2,9,High Sugar,3.0,Painkillers,4.0,103.9,September
-2022-09-04,None,No,98.0,None,Symptoms: None; Severity moderate.,8.2,Medium,3,8,High Sugar,1.7,None,0.3,101.3,September
+2022-09-04,Unknown,No,98.0,Unknown,Symptoms: None; Severity moderate.,8.2,Medium,3,8,High Sugar,1.7,None,0.3,101.3,September
 2022-09-05,"Dizziness, Cold",No,97.9,Cold,"Symptoms: Dizziness, Cold; Severity moderate.",5.2,Low,2,7,Normal,3.5,None,5.7,94.3,September
 2022-09-06,"Headache, Diarrhea",No,98.8,Food Poisoning,"Symptoms: Headache, Diarrhea; Severity moderate.",4.1,Medium,4,7,Skipped Meal,3.0,Oral Rehydration,4.5,91.1,September
 2022-09-07,"Vomiting, Diarrhea",No,98.3,Food Poisoning,"Symptoms: Vomiting, Diarrhea; Severity moderate.",5.8,Low,3,8,Normal,3.5,Oral Rehydration,1.8,84.8,September
@@ -664,7 +664,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-10-25,Cold,No,97.5,Cold,Symptoms: Cold; Severity moderate.,4.5,High,2,7,High Sugar,1.2,None,3.7,60.1,October
 2022-10-26,Cold,No,98.4,Cold,Symptoms: Cold; Severity moderate.,4.2,Low,2,8,Skipped Meal,2.0,None,2.9,61.4,October
 2022-10-27,Cold,No,98.3,Flu,Symptoms: Cold; Severity moderate.,5.1,High,2,7,Normal,1.5,None,1.5,88.7,October
-2022-10-28,Shortness of Breath,No,98.6,None,Symptoms: Shortness of Breath; Severity moderate.,8.5,Low,3,6,Normal,2.9,None,2.4,81.6,October
+2022-10-28,Shortness of Breath,No,98.6,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.5,Low,3,6,Normal,2.9,None,2.4,81.6,October
 2022-10-29,Leg Pain,No,97.5,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,7.4,Low,3,6,Normal,1.6,Painkillers,3.2,72.1,October
 2022-10-30,"Vomiting, Leg Pain",No,98.1,Food Poisoning,"Symptoms: Vomiting, Leg Pain; Severity moderate.",5.7,Low,3,6,High Sugar,1.5,Painkillers,3.8,65.9,October
 2022-10-31,Nausea,No,97.2,Dengue,Symptoms: Nausea; Severity moderate.,7.5,Low,2,7,Normal,2.3,None,2.1,54.6,October
@@ -672,24 +672,24 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-11-02,Diarrhea,No,98.1,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,4.5,High,6,4,Skipped Meal,2.2,Oral Rehydration,4.6,97.5,November
 2022-11-03,"Cough, Fever",Yes,103.3,Flu,"Symptoms: Cough, Fever; Severity moderate.",7.7,Medium,5,5,Skipped Meal,2.3,Antibiotics,1.4,73.1,November
 2022-11-04,"Back Pain, Fatigue",No,97.3,Sprained Leg,"Symptoms: Back Pain, Fatigue; Severity moderate.",5.9,Low,4,6,Skipped Meal,1.6,Painkillers,2.2,61.8,November
-2022-11-05,Shortness of Breath,No,98.9,None,Symptoms: Shortness of Breath; Severity moderate.,8.1,Medium,3,8,High Sugar,3.2,None,4.9,91.2,November
+2022-11-05,Shortness of Breath,No,98.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.1,Medium,3,8,High Sugar,3.2,None,4.9,91.2,November
 2022-11-06,Nausea,No,98.9,Food Poisoning,Symptoms: Nausea; Severity moderate.,5.0,Low,1,8,High Sugar,1.4,None,5.0,68.3,November
-2022-11-07,None,No,98.8,None,Symptoms: None; Severity moderate.,6.3,Low,3,8,Normal,1.9,None,0.7,62.4,November
+2022-11-07,Unknown,No,98.8,Unknown,Symptoms: None; Severity moderate.,6.3,Low,3,8,Normal,1.9,None,0.7,62.4,November
 2022-11-08,Back Pain,No,98.8,Sprained Leg,Symptoms: Back Pain; Severity moderate.,5.1,Medium,3,7,High Sugar,1.1,Painkillers,2.7,72.6,November
 2022-11-09,Nausea,No,97.5,Food Poisoning,Symptoms: Nausea; Severity moderate.,7.6,Medium,2,9,High Sugar,3.2,None,5.8,68.1,November
-2022-11-10,Shortness of Breath,No,99.5,None,Symptoms: Shortness of Breath; Severity moderate.,7.7,Low,1,9,Normal,4.0,None,4.5,93.9,November
+2022-11-10,Shortness of Breath,No,99.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.7,Low,1,9,Normal,4.0,None,4.5,93.9,November
 2022-11-11,"Cold, Diarrhea",No,98.6,Cold,"Symptoms: Cold, Diarrhea; Severity moderate.",5.6,Low,3,6,High Sugar,2.8,Oral Rehydration,5.0,74.3,November
 2022-11-12,Nausea,No,97.7,Dengue,Symptoms: Nausea; Severity moderate.,6.3,Medium,3,7,High Sugar,3.0,None,0.2,77.9,November
 2022-11-13,Back Pain,No,98.4,Sprained Leg,Symptoms: Back Pain; Severity moderate.,5.5,Medium,3,8,Skipped Meal,1.7,Painkillers,5.1,90.9,November
 2022-11-14,Back Pain,No,98.0,Back Injury,Symptoms: Back Pain; Severity moderate.,4.9,Low,2,9,Normal,1.8,Painkillers,0.1,79.6,November
 2022-11-15,Diarrhea,No,97.4,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,4.9,Medium,5,6,Normal,3.2,Oral Rehydration,3.4,88.0,November
-2022-11-16,Shortness of Breath,No,97.9,None,Symptoms: Shortness of Breath; Severity moderate.,4.5,Low,4,7,Skipped Meal,2.5,None,4.7,97.3,November
+2022-11-16,Shortness of Breath,No,97.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.5,Low,4,7,Skipped Meal,2.5,None,4.7,97.3,November
 2022-11-17,Fever,Yes,100.9,Flu,Symptoms: Fever; Severity moderate.,4.9,Medium,5,4,Skipped Meal,2.3,Paracetamol,3.9,86.6,November
 2022-11-18,"Fatigue, Diarrhea",No,97.2,Dengue,"Symptoms: Fatigue, Diarrhea; Severity moderate.",4.1,Low,7,4,Skipped Meal,3.4,Oral Rehydration,3.9,86.2,November
 2022-11-19,"Fatigue, Back Pain",No,97.6,Cold,"Symptoms: Fatigue, Back Pain; Severity moderate.",6.6,Medium,5,6,High Sugar,2.0,Painkillers,1.6,81.4,November
 2022-11-20,Leg Pain,No,98.2,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.1,Low,3,6,High Sugar,1.4,Painkillers,0.9,88.0,November
 2022-11-21,"Headache, Diarrhea, Cold",No,98.6,Flu,"Symptoms: Headache, Diarrhea, Cold; Severity moderate.",8.9,Low,4,7,Skipped Meal,3.8,Oral Rehydration,5.2,94.0,November
-2022-11-22,None,No,97.0,None,Symptoms: None; Severity moderate.,5.8,Low,1,9,Normal,2.9,None,0.7,82.9,November
+2022-11-22,Unknown,No,97.0,Unknown,Symptoms: None; Severity moderate.,5.8,Low,1,9,Normal,2.9,None,0.7,82.9,November
 2022-11-23,Cold,No,98.8,Cold,Symptoms: Cold; Severity moderate.,7.9,Medium,2,7,Normal,3.3,None,1.6,75.8,November
 2022-11-24,"Cold, Nausea",No,98.1,Food Poisoning,"Symptoms: Cold, Nausea; Severity moderate.",8.8,Medium,1,10,Normal,4.0,None,0.1,54.9,November
 2022-11-25,"Dizziness, Cold, Vomiting",No,97.5,Migraine,"Symptoms: Dizziness, Cold, Vomiting; Severity moderate.",9.0,High,3,7,Normal,3.5,None,0.6,84.9,November
@@ -701,7 +701,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-12-01,Diarrhea,No,98.3,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,6.2,Low,4,7,Skipped Meal,2.0,Oral Rehydration,5.0,95.0,December
 2022-12-02,Fatigue,No,97.7,Dengue,Symptoms: Fatigue; Severity moderate.,4.2,Medium,4,5,Skipped Meal,3.2,None,0.9,67.7,December
 2022-12-03,Fever,Yes,102.4,Food Poisoning,Symptoms: Fever; Severity moderate.,6.9,Low,5,4,High Sugar,2.8,Paracetamol,1.7,55.4,December
-2022-12-04,None,No,98.5,None,Symptoms: None; Severity moderate.,7.7,High,3,8,Normal,1.7,None,1.9,98.8,December
+2022-12-04,Unknown,No,98.5,Unknown,Symptoms: None; Severity moderate.,7.7,High,3,8,Normal,1.7,None,1.9,98.8,December
 2022-12-05,Vomiting,No,97.9,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.6,Medium,2,7,High Sugar,3.1,None,4.5,53.1,December
 2022-12-06,Leg Pain,No,97.8,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.9,High,2,7,Skipped Meal,3.6,Painkillers,4.8,76.8,December
 2022-12-07,Fatigue,No,97.5,Back Injury,Symptoms: Fatigue; Severity moderate.,9.0,Low,4,5,Skipped Meal,1.7,None,1.9,61.1,December
@@ -722,11 +722,11 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2022-12-22,Headache,No,97.0,Flu,Symptoms: Headache; Severity moderate.,8.7,Low,2,8,Normal,3.0,None,0.9,81.9,December
 2022-12-23,Dizziness,No,97.8,Back Injury,Symptoms: Dizziness; Severity moderate.,7.9,High,2,7,High Sugar,2.0,None,3.8,72.8,December
 2022-12-24,"Headache, Cough",No,98.6,Flu,"Symptoms: Headache, Cough; Severity moderate.",8.6,High,2,9,Skipped Meal,2.2,None,5.8,96.3,December
-2022-12-25,None,No,98.1,None,Symptoms: None; Severity moderate.,8.6,Low,2,8,Normal,2.2,None,1.7,83.6,December
+2022-12-25,Unknown,No,98.1,Unknown,Symptoms: None; Severity moderate.,8.6,Low,2,8,Normal,2.2,None,1.7,83.6,December
 2022-12-26,"Shortness of Breath, Cold",No,97.6,Flu,"Symptoms: Shortness of Breath, Cold; Severity moderate.",6.4,Low,2,8,Skipped Meal,2.8,None,3.2,50.5,December
 2022-12-27,Back Pain,No,98.1,Back Injury,Symptoms: Back Pain; Severity moderate.,4.4,High,4,7,Skipped Meal,2.3,Painkillers,3.6,53.5,December
-2022-12-28,Shortness of Breath,No,97.9,None,Symptoms: Shortness of Breath; Severity moderate.,4.1,Low,4,7,High Sugar,3.5,None,0.2,69.9,December
-2022-12-29,None,No,98.4,None,Symptoms: None; Severity moderate.,4.3,High,3,8,High Sugar,1.9,None,3.5,57.9,December
+2022-12-28,Shortness of Breath,No,97.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.1,Low,4,7,High Sugar,3.5,None,0.2,69.9,December
+2022-12-29,Unknown,No,98.4,Unknown,Symptoms: None; Severity moderate.,4.3,High,3,8,High Sugar,1.9,None,3.5,57.9,December
 2022-12-30,Cold,No,97.5,Flu,Symptoms: Cold; Severity moderate.,7.8,Medium,1,8,Normal,2.6,None,3.3,76.7,December
 2022-12-31,Cough,No,99.4,Cold,Symptoms: Cough; Severity moderate.,5.1,Low,1,10,Normal,3.1,None,1.9,92.9,December
 2023-01-01,"Leg Pain, Vomiting",No,98.1,Food Poisoning,"Symptoms: Leg Pain, Vomiting; Severity moderate.",6.1,Low,3,8,Skipped Meal,2.0,Painkillers,5.1,52.0,January
@@ -743,10 +743,10 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-01-12,Dizziness,No,97.1,Back Injury,Symptoms: Dizziness; Severity moderate.,6.3,Medium,3,7,High Sugar,3.6,None,5.8,83.6,January
 2023-01-13,Fever,Yes,102.2,Flu,Symptoms: Fever; Severity moderate.,6.2,High,5,6,Skipped Meal,1.0,Antibiotics,1.4,62.0,January
 2023-01-14,Cough,No,98.0,Flu,Symptoms: Cough; Severity moderate.,6.2,Medium,2,9,Normal,1.8,None,0.2,53.9,January
-2023-01-15,Shortness of Breath,No,97.8,None,Symptoms: Shortness of Breath; Severity moderate.,4.5,Low,4,6,Normal,2.5,None,2.2,69.3,January
+2023-01-15,Shortness of Breath,No,97.8,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.5,Low,4,6,Normal,2.5,None,2.2,69.3,January
 2023-01-16,Vomiting,No,98.7,Food Poisoning,Symptoms: Vomiting; Severity moderate.,6.2,Low,2,8,High Sugar,2.7,None,3.5,101.0,January
 2023-01-17,Leg Pain,No,98.9,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,8.0,Medium,1,9,Normal,1.2,Painkillers,2.8,51.7,January
-2023-01-18,None,No,99.1,None,Symptoms: None; Severity moderate.,8.6,Low,2,7,Normal,2.8,None,4.2,53.7,January
+2023-01-18,Unknown,No,99.1,Unknown,Symptoms: None; Severity moderate.,8.6,Low,2,7,Normal,2.8,None,4.2,53.7,January
 2023-01-19,"Cold, Fatigue",No,98.1,Cold,"Symptoms: Cold, Fatigue; Severity moderate.",5.7,Low,5,4,Normal,2.8,None,1.0,92.0,January
 2023-01-20,Leg Pain,No,99.0,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.1,Low,3,6,High Sugar,1.7,Painkillers,3.4,97.6,January
 2023-01-21,"Shortness of Breath, Diarrhea, Cold",No,97.4,Food Poisoning,"Symptoms: Shortness of Breath, Diarrhea, Cold; Severity moderate.",6.4,Low,4,7,Normal,1.6,Oral Rehydration,1.4,64.3,January
@@ -767,13 +767,13 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-02-05,"Vomiting, Fever",Yes,103.4,Food Poisoning,"Symptoms: Vomiting, Fever; Severity moderate.",4.0,Medium,6,4,Skipped Meal,1.7,Paracetamol,1.6,66.0,February
 2023-02-06,Fever,Yes,103.8,Dengue,Symptoms: Fever; Severity moderate.,8.5,Medium,4,6,Skipped Meal,2.2,Antibiotics,5.2,52.9,February
 2023-02-07,"Nausea, Fever",Yes,102.0,Flu,"Symptoms: Nausea, Fever; Severity moderate.",7.3,Medium,4,5,Normal,3.7,Paracetamol,2.3,65.0,February
-2023-02-08,Shortness of Breath,No,98.4,None,Symptoms: Shortness of Breath; Severity moderate.,9.0,Medium,3,7,Normal,1.3,None,5.7,76.6,February
+2023-02-08,Shortness of Breath,No,98.4,Unknown,Symptoms: Shortness of Breath; Severity moderate.,9.0,Medium,3,7,Normal,1.3,None,5.7,76.6,February
 2023-02-09,"Fever, Fatigue",Yes,101.4,Food Poisoning,"Symptoms: Fever, Fatigue; Severity moderate.",8.5,High,7,4,High Sugar,3.5,Paracetamol,3.6,60.2,February
 2023-02-10,Headache,No,98.3,Flu,Symptoms: Headache; Severity moderate.,4.8,High,3,7,Skipped Meal,1.4,None,3.8,52.3,February
 2023-02-11,"Back Pain, Nausea",No,97.9,Sprained Leg,"Symptoms: Back Pain, Nausea; Severity moderate.",4.8,Low,4,7,Skipped Meal,1.8,Painkillers,5.9,73.3,February
 2023-02-12,Vomiting,No,96.8,Food Poisoning,Symptoms: Vomiting; Severity moderate.,6.5,Medium,1,10,High Sugar,2.3,None,4.4,52.2,February
 2023-02-13,"Back Pain, Diarrhea",No,98.0,Food Poisoning,"Symptoms: Back Pain, Diarrhea; Severity moderate.",5.4,Low,3,8,High Sugar,2.4,Oral Rehydration,4.1,74.2,February
-2023-02-14,Shortness of Breath,No,98.0,None,Symptoms: Shortness of Breath; Severity moderate.,4.2,High,3,7,High Sugar,2.0,None,3.3,54.5,February
+2023-02-14,Shortness of Breath,No,98.0,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.2,High,3,7,High Sugar,2.0,None,3.3,54.5,February
 2023-02-15,Back Pain,No,98.5,Back Injury,Symptoms: Back Pain; Severity moderate.,4.9,High,3,7,Normal,2.8,Painkillers,2.0,75.0,February
 2023-02-16,Headache,No,98.1,Dengue,Symptoms: Headache; Severity moderate.,4.4,Low,4,5,Skipped Meal,1.6,None,3.0,70.0,February
 2023-02-17,"Leg Pain, Back Pain",No,98.4,Sprained Leg,"Symptoms: Leg Pain, Back Pain; Severity moderate.",7.7,Low,1,8,Skipped Meal,1.2,Painkillers,4.1,69.7,February
@@ -823,7 +823,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-04-02,Nausea,No,99.2,Migraine,Symptoms: Nausea; Severity moderate.,6.5,High,1,10,High Sugar,3.1,None,4.9,57.5,April
 2023-04-03,"Leg Pain, Nausea",No,97.4,Food Poisoning,"Symptoms: Leg Pain, Nausea; Severity moderate.",7.0,Low,3,8,High Sugar,3.5,Painkillers,0.1,58.6,April
 2023-04-04,"Dizziness, Fatigue, Vomiting",No,98.1,Flu,"Symptoms: Dizziness, Fatigue, Vomiting; Severity moderate.",6.1,Medium,5,6,High Sugar,3.3,None,1.4,58.7,April
-2023-04-05,None,No,99.0,None,Symptoms: None; Severity moderate.,5.4,Medium,3,8,Normal,2.3,None,2.7,103.5,April
+2023-04-05,Unknown,No,99.0,Unknown,Symptoms: None; Severity moderate.,5.4,Medium,3,8,Normal,2.3,None,2.7,103.5,April
 2023-04-06,Fatigue,No,98.7,Sprained Leg,Symptoms: Fatigue; Severity moderate.,8.2,Low,5,4,Normal,2.8,None,0.4,97.7,April
 2023-04-07,Cold,No,97.3,Cold,Symptoms: Cold; Severity moderate.,8.4,High,3,8,Skipped Meal,1.5,None,4.1,101.8,April
 2023-04-08,"Back Pain, Diarrhea",No,97.6,Food Poisoning,"Symptoms: Back Pain, Diarrhea; Severity moderate.",8.3,Low,5,4,High Sugar,3.2,Oral Rehydration,5.3,52.9,April
@@ -846,12 +846,12 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-04-25,Vomiting,No,98.5,Food Poisoning,Symptoms: Vomiting; Severity moderate.,5.2,High,2,8,High Sugar,1.1,None,4.8,101.2,April
 2023-04-26,Cold,No,99.0,Cold,Symptoms: Cold; Severity moderate.,8.8,Low,2,7,Normal,2.1,None,3.5,85.5,April
 2023-04-27,Cold,No,97.1,Flu,Symptoms: Cold; Severity moderate.,6.5,Medium,2,9,Normal,1.0,None,1.2,78.0,April
-2023-04-28,Shortness of Breath,No,98.0,None,Symptoms: Shortness of Breath; Severity moderate.,8.1,Low,2,7,High Sugar,1.1,None,0.2,90.3,April
+2023-04-28,Shortness of Breath,No,98.0,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.1,Low,2,7,High Sugar,1.1,None,0.2,90.3,April
 2023-04-29,Back Pain,No,97.4,Back Injury,Symptoms: Back Pain; Severity moderate.,4.6,High,4,5,High Sugar,1.5,Painkillers,6.0,51.4,April
 2023-04-30,Cold,No,97.5,Flu,Symptoms: Cold; Severity moderate.,7.5,High,2,8,Skipped Meal,3.2,None,1.9,81.1,April
-2023-05-01,None,No,97.8,None,Symptoms: None; Severity moderate.,6.7,Medium,1,8,Normal,1.8,None,4.1,55.4,May
+2023-05-01,Unknown,No,97.8,Unknown,Symptoms: None; Severity moderate.,6.7,Medium,1,8,Normal,1.8,None,4.1,55.4,May
 2023-05-02,"Back Pain, Leg Pain, Vomiting",No,98.3,Food Poisoning,"Symptoms: Back Pain, Leg Pain, Vomiting; Severity moderate.",6.4,Medium,3,7,High Sugar,2.8,Painkillers,4.0,68.0,May
-2023-05-03,Shortness of Breath,No,97.4,None,Symptoms: Shortness of Breath; Severity moderate.,6.8,Low,3,7,Normal,2.3,None,4.5,51.9,May
+2023-05-03,Shortness of Breath,No,97.4,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.8,Low,3,7,Normal,2.3,None,4.5,51.9,May
 2023-05-04,"Back Pain, Diarrhea, Leg Pain",No,97.4,Food Poisoning,"Symptoms: Back Pain, Diarrhea, Leg Pain; Severity moderate.",4.8,Low,4,5,Skipped Meal,2.0,Oral Rehydration,0.0,71.1,May
 2023-05-05,Fatigue,No,98.8,Cold,Symptoms: Fatigue; Severity moderate.,5.9,Low,5,4,High Sugar,1.5,None,4.4,61.5,May
 2023-05-06,"Shortness of Breath, Vomiting, Cold",No,97.9,Flu,"Symptoms: Shortness of Breath, Vomiting, Cold; Severity moderate.",7.5,Medium,3,7,Normal,2.7,None,3.8,73.7,May
@@ -888,7 +888,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-06-06,"Vomiting, Cough",No,98.5,Flu,"Symptoms: Vomiting, Cough; Severity moderate.",4.7,Low,2,9,Skipped Meal,4.0,None,2.5,96.0,June
 2023-06-07,Cold,No,96.9,Cold,Symptoms: Cold; Severity moderate.,4.9,High,4,6,High Sugar,3.7,None,5.9,98.3,June
 2023-06-08,Nausea,No,97.2,Dengue,Symptoms: Nausea; Severity moderate.,5.9,Low,3,8,Normal,2.6,None,0.0,91.7,June
-2023-06-09,Shortness of Breath,No,97.9,None,Symptoms: Shortness of Breath; Severity moderate.,8.2,Low,1,8,Normal,3.4,None,5.2,51.8,June
+2023-06-09,Shortness of Breath,No,97.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.2,Low,1,8,Normal,3.4,None,5.2,51.8,June
 2023-06-10,"Vomiting, Shortness of Breath",No,97.5,Food Poisoning,"Symptoms: Vomiting, Shortness of Breath; Severity moderate.",4.4,Low,4,7,High Sugar,2.5,None,5.1,53.5,June
 2023-06-11,"Diarrhea, Cough, Shortness of Breath",No,98.7,Cold,"Symptoms: Diarrhea, Cough, Shortness of Breath; Severity moderate.",6.5,Medium,5,4,Skipped Meal,3.7,Oral Rehydration,5.5,72.6,June
 2023-06-12,Fatigue,No,97.4,Dengue,Symptoms: Fatigue; Severity moderate.,8.7,Low,5,4,High Sugar,1.9,None,5.0,87.9,June
@@ -947,7 +947,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-08-04,"Headache, Diarrhea",No,97.4,Migraine,"Symptoms: Headache, Diarrhea; Severity moderate.",4.0,Low,4,5,High Sugar,2.6,Oral Rehydration,6.0,94.8,August
 2023-08-05,Dizziness,No,96.6,Migraine,Symptoms: Dizziness; Severity moderate.,8.6,Low,2,7,Skipped Meal,2.7,None,5.5,68.8,August
 2023-08-06,"Fever, Vomiting, Back Pain",Yes,102.8,Food Poisoning,"Symptoms: Fever, Vomiting, Back Pain; Severity moderate.",8.3,Low,4,5,High Sugar,3.5,Antibiotics,5.6,79.4,August
-2023-08-07,Shortness of Breath,No,97.4,None,Symptoms: Shortness of Breath; Severity moderate.,6.9,High,2,7,Normal,2.2,None,4.5,86.1,August
+2023-08-07,Shortness of Breath,No,97.4,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.9,High,2,7,Normal,2.2,None,4.5,86.1,August
 2023-08-08,"Cough, Diarrhea",No,97.9,Cold,"Symptoms: Cough, Diarrhea; Severity moderate.",6.2,Low,4,7,Skipped Meal,2.2,Oral Rehydration,5.8,95.0,August
 2023-08-09,Vomiting,No,98.3,Food Poisoning,Symptoms: Vomiting; Severity moderate.,5.7,High,1,9,High Sugar,3.9,None,5.3,102.8,August
 2023-08-10,"Fatigue, Cough",No,99.0,Back Injury,"Symptoms: Fatigue, Cough; Severity moderate.",7.6,Low,5,5,High Sugar,1.2,None,4.0,67.9,August
@@ -959,7 +959,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-08-16,"Back Pain, Vomiting",No,96.6,Food Poisoning,"Symptoms: Back Pain, Vomiting; Severity moderate.",8.1,Low,2,8,Skipped Meal,3.6,Painkillers,5.5,98.2,August
 2023-08-17,Fatigue,No,98.3,Sprained Leg,Symptoms: Fatigue; Severity moderate.,6.3,Low,5,5,Skipped Meal,2.9,None,0.8,99.2,August
 2023-08-18,Headache,No,97.9,Dengue,Symptoms: Headache; Severity moderate.,5.5,High,3,8,High Sugar,2.9,None,4.9,84.9,August
-2023-08-19,None,No,99.1,None,Symptoms: None; Severity moderate.,7.6,High,2,8,Skipped Meal,3.7,None,5.3,104.7,August
+2023-08-19,Unknown,No,99.1,Unknown,Symptoms: None; Severity moderate.,7.6,High,2,8,Skipped Meal,3.7,None,5.3,104.7,August
 2023-08-20,Vomiting,No,98.9,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.7,High,3,7,Normal,1.5,None,0.3,79.4,August
 2023-08-21,"Diarrhea, Cold",No,99.2,Cold,"Symptoms: Diarrhea, Cold; Severity moderate.",5.9,High,5,5,Normal,2.3,Oral Rehydration,2.7,75.1,August
 2023-08-22,Cough,No,97.6,Flu,Symptoms: Cough; Severity moderate.,6.1,Low,1,8,High Sugar,1.4,None,4.6,84.1,August
@@ -967,9 +967,9 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-08-24,Headache,No,97.4,Dengue,Symptoms: Headache; Severity moderate.,7.4,Medium,1,8,Normal,2.6,None,0.1,104.7,August
 2023-08-25,Dizziness,No,97.4,Back Injury,Symptoms: Dizziness; Severity moderate.,5.1,Medium,3,6,Normal,1.8,None,4.5,78.3,August
 2023-08-26,"Leg Pain, Nausea",No,98.5,Food Poisoning,"Symptoms: Leg Pain, Nausea; Severity moderate.",5.0,Medium,3,8,Normal,1.2,Painkillers,5.7,73.6,August
-2023-08-27,None,No,98.0,None,Symptoms: None; Severity moderate.,4.6,Medium,3,7,Normal,3.3,None,4.8,64.8,August
+2023-08-27,Unknown,No,98.0,Unknown,Symptoms: None; Severity moderate.,4.6,Medium,3,7,Normal,3.3,None,4.8,64.8,August
 2023-08-28,Dizziness,No,97.9,Back Injury,Symptoms: Dizziness; Severity moderate.,9.0,High,2,8,Skipped Meal,1.5,None,1.1,101.3,August
-2023-08-29,None,No,99.0,None,Symptoms: None; Severity moderate.,8.0,Medium,2,9,Normal,3.0,None,1.5,90.2,August
+2023-08-29,Unknown,No,99.0,Unknown,Symptoms: None; Severity moderate.,8.0,Medium,2,9,Normal,3.0,None,1.5,90.2,August
 2023-08-30,Cough,No,97.4,Flu,Symptoms: Cough; Severity moderate.,6.9,Medium,1,9,High Sugar,3.7,None,1.2,58.4,August
 2023-08-31,"Diarrhea, Cough",No,97.7,Flu,"Symptoms: Diarrhea, Cough; Severity moderate.",7.8,High,4,6,Normal,3.5,Oral Rehydration,4.8,90.7,August
 2023-09-01,"Back Pain, Cold",No,97.9,Cold,"Symptoms: Back Pain, Cold; Severity moderate.",6.6,Medium,1,10,High Sugar,1.1,Painkillers,0.1,80.7,September
@@ -1007,7 +1007,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-10-03,Nausea,No,98.1,Food Poisoning,Symptoms: Nausea; Severity moderate.,8.7,Medium,1,10,Skipped Meal,3.0,None,0.1,75.3,October
 2023-10-04,Leg Pain,No,99.7,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.5,Medium,3,7,Skipped Meal,3.8,Painkillers,1.7,66.6,October
 2023-10-05,Diarrhea,No,97.9,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,5.9,Low,4,5,Normal,1.5,Oral Rehydration,2.7,89.5,October
-2023-10-06,Shortness of Breath,No,99.1,None,Symptoms: Shortness of Breath; Severity moderate.,6.0,Low,2,7,High Sugar,1.1,None,1.6,63.1,October
+2023-10-06,Shortness of Breath,No,99.1,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.0,Low,2,7,High Sugar,1.1,None,1.6,63.1,October
 2023-10-07,"Leg Pain, Fatigue",No,97.7,Sprained Leg,"Symptoms: Leg Pain, Fatigue; Severity moderate.",7.0,Low,3,6,Normal,3.3,Painkillers,4.0,71.2,October
 2023-10-08,Cold,No,97.8,Cold,Symptoms: Cold; Severity moderate.,8.6,High,1,9,Skipped Meal,3.7,None,1.5,80.9,October
 2023-10-09,"Shortness of Breath, Fever, Leg Pain",Yes,103.8,Sprained Leg,"Symptoms: Shortness of Breath, Fever, Leg Pain; Severity moderate.",4.5,Low,4,5,Skipped Meal,1.7,Paracetamol,2.9,61.9,October
@@ -1040,7 +1040,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-11-05,"Diarrhea, Vomiting, Back Pain",No,96.8,Food Poisoning,"Symptoms: Diarrhea, Vomiting, Back Pain; Severity moderate.",5.2,High,3,6,Skipped Meal,3.4,Oral Rehydration,3.5,79.3,November
 2023-11-06,"Vomiting, Diarrhea, Nausea",No,99.0,Food Poisoning,"Symptoms: Vomiting, Diarrhea, Nausea; Severity moderate.",6.3,Low,4,5,High Sugar,3.9,Oral Rehydration,1.7,66.7,November
 2023-11-07,"Back Pain, Dizziness",No,97.9,Sprained Leg,"Symptoms: Back Pain, Dizziness; Severity moderate.",6.4,Low,1,10,Normal,2.9,Painkillers,1.0,53.2,November
-2023-11-08,None,No,96.5,None,Symptoms: None; Severity moderate.,7.6,Low,3,8,Normal,3.3,None,3.6,96.8,November
+2023-11-08,Unknown,No,96.5,Unknown,Symptoms: None; Severity moderate.,7.6,Low,3,8,Normal,3.3,None,3.6,96.8,November
 2023-11-09,Fever,Yes,101.8,Flu,Symptoms: Fever; Severity moderate.,7.3,High,3,6,High Sugar,1.8,Paracetamol,5.6,67.7,November
 2023-11-10,Vomiting,No,98.2,Food Poisoning,Symptoms: Vomiting; Severity moderate.,6.2,Medium,3,6,Skipped Meal,2.7,None,4.3,65.2,November
 2023-11-11,Leg Pain,No,98.2,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,4.9,Low,2,9,High Sugar,1.8,Painkillers,5.9,79.5,November
@@ -1050,10 +1050,10 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-11-15,Vomiting,No,97.9,Food Poisoning,Symptoms: Vomiting; Severity moderate.,6.0,High,3,7,Skipped Meal,3.9,None,4.8,89.6,November
 2023-11-16,"Diarrhea, Fatigue",No,99.0,Food Poisoning,"Symptoms: Diarrhea, Fatigue; Severity moderate.",6.6,Low,5,5,Skipped Meal,3.0,Oral Rehydration,0.2,103.7,November
 2023-11-17,"Back Pain, Dizziness",No,98.0,Migraine,"Symptoms: Back Pain, Dizziness; Severity moderate.",4.5,High,4,7,Normal,3.3,Painkillers,4.2,91.4,November
-2023-11-18,Shortness of Breath,No,98.2,None,Symptoms: Shortness of Breath; Severity moderate.,7.9,Medium,1,8,Skipped Meal,1.2,None,2.4,102.9,November
+2023-11-18,Shortness of Breath,No,98.2,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.9,Medium,1,8,Skipped Meal,1.2,None,2.4,102.9,November
 2023-11-19,"Leg Pain, Cold",No,98.3,Flu,"Symptoms: Leg Pain, Cold; Severity moderate.",4.7,Medium,4,6,Skipped Meal,4.0,Painkillers,1.5,51.3,November
 2023-11-20,Vomiting,No,99.2,Food Poisoning,Symptoms: Vomiting; Severity moderate.,6.4,Medium,1,9,Skipped Meal,1.9,None,1.4,64.8,November
-2023-11-21,None,No,97.3,None,Symptoms: None; Severity moderate.,7.6,Medium,3,7,High Sugar,3.5,None,0.8,53.3,November
+2023-11-21,Unknown,No,97.3,Unknown,Symptoms: None; Severity moderate.,7.6,Medium,3,7,High Sugar,3.5,None,0.8,53.3,November
 2023-11-22,"Leg Pain, Dizziness",No,97.8,Sprained Leg,"Symptoms: Leg Pain, Dizziness; Severity moderate.",5.4,Low,1,10,Normal,3.0,Painkillers,5.0,82.3,November
 2023-11-23,Dizziness,No,98.4,Migraine,Symptoms: Dizziness; Severity moderate.,6.9,High,3,8,Skipped Meal,1.5,None,1.9,94.1,November
 2023-11-24,Dizziness,No,97.4,Back Injury,Symptoms: Dizziness; Severity moderate.,6.2,Low,2,9,Skipped Meal,2.9,None,4.2,104.4,November
@@ -1064,15 +1064,15 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-11-29,Diarrhea,No,98.3,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,4.6,High,6,4,Skipped Meal,2.7,Oral Rehydration,1.4,73.6,November
 2023-11-30,Fever,Yes,101.6,Flu,Symptoms: Fever; Severity moderate.,7.2,High,3,8,Normal,3.2,Paracetamol,1.6,62.8,November
 2023-12-01,Fatigue,No,98.2,Cold,Symptoms: Fatigue; Severity moderate.,8.0,Medium,5,4,Skipped Meal,3.2,None,5.4,75.1,December
-2023-12-02,Shortness of Breath,No,98.1,None,Symptoms: Shortness of Breath; Severity moderate.,6.7,High,2,8,Skipped Meal,2.1,None,1.6,87.1,December
-2023-12-03,None,No,98.5,None,Symptoms: None; Severity moderate.,6.1,Low,2,8,High Sugar,1.6,None,0.2,96.3,December
+2023-12-02,Shortness of Breath,No,98.1,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.7,High,2,8,Skipped Meal,2.1,None,1.6,87.1,December
+2023-12-03,Unknown,No,98.5,Unknown,Symptoms: None; Severity moderate.,6.1,Low,2,8,High Sugar,1.6,None,0.2,96.3,December
 2023-12-04,"Fever, Vomiting, Cough",Yes,103.2,Flu,"Symptoms: Fever, Vomiting, Cough; Severity moderate.",4.9,Medium,6,4,Skipped Meal,1.4,Paracetamol,0.1,85.7,December
 2023-12-05,Fever,Yes,102.1,Dengue,Symptoms: Fever; Severity moderate.,4.7,Low,4,7,Normal,1.7,Antibiotics,0.9,95.8,December
 2023-12-06,"Diarrhea, Cough, Back Pain",No,96.6,Sprained Leg,"Symptoms: Diarrhea, Cough, Back Pain; Severity moderate.",5.5,High,5,4,Skipped Meal,2.6,Oral Rehydration,2.2,66.8,December
 2023-12-07,"Headache, Cough",No,99.0,Dengue,"Symptoms: Headache, Cough; Severity moderate.",6.5,Medium,2,9,High Sugar,3.6,None,1.1,86.5,December
 2023-12-08,"Headache, Fever",Yes,101.6,Migraine,"Symptoms: Headache, Fever; Severity moderate.",5.0,High,4,6,Skipped Meal,1.2,Antibiotics,0.2,90.6,December
 2023-12-09,"Fever, Diarrhea",Yes,101.4,Dengue,"Symptoms: Fever, Diarrhea; Severity moderate.",8.0,Low,7,2,High Sugar,2.7,Paracetamol,0.1,78.0,December
-2023-12-10,Shortness of Breath,No,98.3,None,Symptoms: Shortness of Breath; Severity moderate.,6.7,High,1,8,Normal,1.1,None,1.7,57.6,December
+2023-12-10,Shortness of Breath,No,98.3,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.7,High,1,8,Normal,1.1,None,1.7,57.6,December
 2023-12-11,Back Pain,No,99.0,Back Injury,Symptoms: Back Pain; Severity moderate.,8.5,Low,3,6,High Sugar,3.7,Painkillers,0.8,65.1,December
 2023-12-12,"Nausea, Fever, Leg Pain",Yes,101.1,Food Poisoning,"Symptoms: Nausea, Fever, Leg Pain; Severity moderate.",5.7,Low,5,6,High Sugar,3.5,Paracetamol,0.6,57.2,December
 2023-12-13,"Shortness of Breath, Cough",No,99.0,Flu,"Symptoms: Shortness of Breath, Cough; Severity moderate.",8.1,Medium,3,8,Normal,1.5,None,1.5,90.9,December
@@ -1087,7 +1087,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2023-12-22,Cold,No,97.7,Cold,Symptoms: Cold; Severity moderate.,5.6,Low,3,7,High Sugar,2.8,None,1.7,53.4,December
 2023-12-23,Vomiting,No,96.4,Food Poisoning,Symptoms: Vomiting; Severity moderate.,4.0,Medium,2,7,High Sugar,1.8,None,4.1,64.0,December
 2023-12-24,Cough,No,98.5,Cold,Symptoms: Cough; Severity moderate.,5.7,High,1,9,Normal,2.5,None,3.8,65.0,December
-2023-12-25,Shortness of Breath,No,97.9,None,Symptoms: Shortness of Breath; Severity moderate.,4.8,High,4,5,High Sugar,3.4,None,5.2,79.4,December
+2023-12-25,Shortness of Breath,No,97.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.8,High,4,5,High Sugar,3.4,None,5.2,79.4,December
 2023-12-26,Dizziness,No,96.8,Migraine,Symptoms: Dizziness; Severity moderate.,8.2,Medium,1,9,Skipped Meal,3.1,None,3.3,63.5,December
 2023-12-27,Diarrhea,No,97.8,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.2,High,4,6,High Sugar,1.9,Oral Rehydration,0.9,96.1,December
 2023-12-28,Fever,Yes,103.3,Dengue,Symptoms: Fever; Severity moderate.,7.5,Medium,3,6,Normal,2.1,Antibiotics,5.5,100.9,December
@@ -1097,7 +1097,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-01-01,Diarrhea,No,98.4,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.1,High,3,8,Normal,3.1,Oral Rehydration,0.9,60.1,January
 2024-01-02,Back Pain,No,97.6,Back Injury,Symptoms: Back Pain; Severity moderate.,7.2,High,2,9,Normal,3.1,Painkillers,5.4,97.8,January
 2024-01-03,Diarrhea,No,97.1,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,5.2,High,4,6,Normal,1.7,Oral Rehydration,5.9,96.1,January
-2024-01-04,Shortness of Breath,No,99.2,None,Symptoms: Shortness of Breath; Severity moderate.,6.6,Low,1,10,High Sugar,2.2,None,4.3,80.8,January
+2024-01-04,Shortness of Breath,No,99.2,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.6,Low,1,10,High Sugar,2.2,None,4.3,80.8,January
 2024-01-05,Leg Pain,No,96.3,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,6.0,Low,2,9,Normal,3.8,Painkillers,2.4,63.4,January
 2024-01-06,Dizziness,No,97.0,Back Injury,Symptoms: Dizziness; Severity moderate.,4.9,High,2,7,Skipped Meal,2.7,None,3.6,100.6,January
 2024-01-07,"Cough, Headache, Dizziness",No,98.2,Back Injury,"Symptoms: Cough, Headache, Dizziness; Severity moderate.",7.9,Low,3,7,Skipped Meal,2.2,None,1.6,104.6,January
@@ -1107,7 +1107,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-01-11,Dizziness,No,99.8,Migraine,Symptoms: Dizziness; Severity moderate.,7.0,Medium,3,8,Skipped Meal,2.0,None,5.6,78.2,January
 2024-01-12,Cough,No,98.7,Cold,Symptoms: Cough; Severity moderate.,6.0,Medium,2,8,Normal,3.3,None,4.3,53.9,January
 2024-01-13,Nausea,No,97.6,Food Poisoning,Symptoms: Nausea; Severity moderate.,6.7,Low,2,8,Normal,2.6,None,4.9,50.0,January
-2024-01-14,Shortness of Breath,No,98.2,None,Symptoms: Shortness of Breath; Severity moderate.,4.0,Low,4,7,Skipped Meal,3.8,None,2.8,64.2,January
+2024-01-14,Shortness of Breath,No,98.2,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.0,Low,4,7,Skipped Meal,3.8,None,2.8,64.2,January
 2024-01-15,Cough,No,99.6,Cold,Symptoms: Cough; Severity moderate.,8.9,Medium,3,8,High Sugar,1.1,None,5.8,52.8,January
 2024-01-16,Fever,Yes,103.9,Food Poisoning,Symptoms: Fever; Severity moderate.,4.1,Medium,5,4,Skipped Meal,1.2,Antibiotics,3.0,76.8,January
 2024-01-17,Diarrhea,No,98.0,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.3,High,4,7,Normal,2.1,Oral Rehydration,4.1,65.0,January
@@ -1146,17 +1146,17 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-02-19,"Fatigue, Diarrhea",No,96.2,Back Injury,"Symptoms: Fatigue, Diarrhea; Severity moderate.",5.4,Medium,7,4,Skipped Meal,3.0,Oral Rehydration,0.9,76.5,February
 2024-02-20,Vomiting,No,97.3,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.0,Medium,1,9,Skipped Meal,3.1,None,1.0,94.5,February
 2024-02-21,"Dizziness, Fatigue",No,98.2,Migraine,"Symptoms: Dizziness, Fatigue; Severity moderate.",5.6,Low,4,5,Skipped Meal,3.5,None,5.9,81.2,February
-2024-02-22,Shortness of Breath,No,97.9,None,Symptoms: Shortness of Breath; Severity moderate.,6.1,High,2,8,High Sugar,1.2,None,2.5,102.0,February
+2024-02-22,Shortness of Breath,No,97.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.1,High,2,8,High Sugar,1.2,None,2.5,102.0,February
 2024-02-23,Fatigue,No,99.7,Dengue,Symptoms: Fatigue; Severity moderate.,7.5,Low,4,7,Skipped Meal,1.2,None,4.2,91.8,February
 2024-02-24,Dizziness,No,97.9,Migraine,Symptoms: Dizziness; Severity moderate.,7.7,Low,2,9,Skipped Meal,2.8,None,5.2,56.6,February
 2024-02-25,Cough,No,99.3,Flu,Symptoms: Cough; Severity moderate.,8.1,High,1,8,Skipped Meal,3.2,None,1.3,89.0,February
 2024-02-26,Fatigue,No,98.6,Back Injury,Symptoms: Fatigue; Severity moderate.,4.3,Low,5,5,High Sugar,1.8,None,0.9,88.4,February
-2024-02-27,Shortness of Breath,No,97.9,None,Symptoms: Shortness of Breath; Severity moderate.,8.9,High,3,6,Normal,3.9,None,2.8,91.7,February
+2024-02-27,Shortness of Breath,No,97.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.9,High,3,6,Normal,3.9,None,2.8,91.7,February
 2024-02-28,Nausea,No,98.7,Food Poisoning,Symptoms: Nausea; Severity moderate.,6.5,High,2,9,Normal,2.7,None,1.6,100.1,February
 2024-02-29,Dizziness,No,96.2,Migraine,Symptoms: Dizziness; Severity moderate.,5.4,Medium,2,9,High Sugar,2.9,None,2.6,57.5,February
 2024-03-01,"Cold, Vomiting, Dizziness",No,99.4,Migraine,"Symptoms: Cold, Vomiting, Dizziness; Severity moderate.",7.2,High,2,8,Skipped Meal,3.4,None,2.1,66.1,March
 2024-03-02,Cough,No,98.5,Flu,Symptoms: Cough; Severity moderate.,4.4,Medium,3,7,High Sugar,1.1,None,3.3,76.8,March
-2024-03-03,Shortness of Breath,No,97.7,None,Symptoms: Shortness of Breath; Severity moderate.,7.1,High,3,7,Normal,2.2,None,2.0,102.7,March
+2024-03-03,Shortness of Breath,No,97.7,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.1,High,3,7,Normal,2.2,None,2.0,102.7,March
 2024-03-04,"Fever, Back Pain",Yes,102.8,Flu,"Symptoms: Fever, Back Pain; Severity moderate.",7.2,Medium,3,6,Normal,3.9,Antibiotics,4.0,95.4,March
 2024-03-05,Diarrhea,No,97.1,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,4.1,High,5,4,Normal,3.1,Oral Rehydration,3.9,98.1,March
 2024-03-06,"Leg Pain, Shortness of Breath",No,96.9,Sprained Leg,"Symptoms: Leg Pain, Shortness of Breath; Severity moderate.",5.9,High,3,7,Normal,3.3,Painkillers,1.4,88.7,March
@@ -1175,22 +1175,22 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-03-19,"Leg Pain, Diarrhea",No,98.3,Sprained Leg,"Symptoms: Leg Pain, Diarrhea; Severity moderate.",5.7,Low,4,5,High Sugar,2.7,Oral Rehydration,1.2,96.3,March
 2024-03-20,Vomiting,No,98.4,Food Poisoning,Symptoms: Vomiting; Severity moderate.,4.5,Medium,2,7,Skipped Meal,1.9,None,5.7,78.4,March
 2024-03-21,"Cough, Fever",Yes,101.2,Food Poisoning,"Symptoms: Cough, Fever; Severity moderate.",4.1,Low,4,5,High Sugar,1.1,Antibiotics,2.9,77.0,March
-2024-03-22,None,No,97.3,None,Symptoms: None; Severity moderate.,5.9,Medium,2,9,Skipped Meal,1.1,None,2.2,63.7,March
+2024-03-22,Unknown,No,97.3,Unknown,Symptoms: None; Severity moderate.,5.9,Medium,2,9,Skipped Meal,1.1,None,2.2,63.7,March
 2024-03-23,Cough,No,98.0,Cold,Symptoms: Cough; Severity moderate.,6.7,Low,2,7,Skipped Meal,1.2,None,3.1,60.3,March
 2024-03-24,"Diarrhea, Nausea, Vomiting",No,97.8,Food Poisoning,"Symptoms: Diarrhea, Nausea, Vomiting; Severity moderate.",7.8,Medium,5,6,High Sugar,2.8,Oral Rehydration,3.1,98.9,March
 2024-03-25,"Vomiting, Leg Pain, Nausea",No,98.1,Dengue,"Symptoms: Vomiting, Leg Pain, Nausea; Severity moderate.",4.7,Low,4,7,Normal,3.5,Painkillers,4.0,67.4,March
 2024-03-26,"Fatigue, Vomiting, Shortness of Breath",No,97.4,Food Poisoning,"Symptoms: Fatigue, Vomiting, Shortness of Breath; Severity moderate.",6.2,Medium,3,8,Normal,1.5,None,5.1,93.4,March
 2024-03-27,Cold,No,96.9,Cold,Symptoms: Cold; Severity moderate.,7.2,High,1,9,Skipped Meal,3.4,None,5.7,51.4,March
-2024-03-28,Shortness of Breath,No,97.5,None,Symptoms: Shortness of Breath; Severity moderate.,6.7,Low,1,10,Normal,3.5,None,1.1,58.2,March
+2024-03-28,Shortness of Breath,No,97.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.7,Low,1,10,Normal,3.5,None,1.1,58.2,March
 2024-03-29,Diarrhea,No,98.8,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,6.4,Low,4,5,Skipped Meal,1.2,Oral Rehydration,1.7,81.5,March
 2024-03-30,Headache,No,97.5,Migraine,Symptoms: Headache; Severity moderate.,8.6,High,3,6,High Sugar,2.4,None,4.1,82.6,March
 2024-03-31,Cold,No,98.5,Flu,Symptoms: Cold; Severity moderate.,4.4,Medium,2,9,High Sugar,2.5,None,4.8,74.3,March
 2024-04-01,"Shortness of Breath, Vomiting",No,97.8,Food Poisoning,"Symptoms: Shortness of Breath, Vomiting; Severity moderate.",5.5,Low,2,7,Normal,2.7,None,3.8,97.5,April
-2024-04-02,Shortness of Breath,No,98.3,None,Symptoms: Shortness of Breath; Severity moderate.,6.8,High,2,8,Skipped Meal,1.9,None,1.3,79.9,April
+2024-04-02,Shortness of Breath,No,98.3,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.8,High,2,8,Skipped Meal,1.9,None,1.3,79.9,April
 2024-04-03,"Nausea, Shortness of Breath, Vomiting",No,99.8,Dengue,"Symptoms: Nausea, Shortness of Breath, Vomiting; Severity moderate.",7.9,High,3,7,High Sugar,3.6,None,0.8,67.7,April
 2024-04-04,Fever,Yes,101.0,Flu,Symptoms: Fever; Severity moderate.,5.2,Medium,5,6,Normal,2.1,Antibiotics,2.1,91.4,April
 2024-04-05,"Headache, Back Pain",No,98.4,Dengue,"Symptoms: Headache, Back Pain; Severity moderate.",7.9,Low,1,9,Normal,1.5,Painkillers,5.7,98.3,April
-2024-04-06,None,No,98.9,None,Symptoms: None; Severity moderate.,5.9,Low,2,8,High Sugar,2.7,None,1.0,81.6,April
+2024-04-06,Unknown,No,98.9,Unknown,Symptoms: None; Severity moderate.,5.9,Low,2,8,High Sugar,2.7,None,1.0,81.6,April
 2024-04-07,"Nausea, Fatigue",No,98.8,Flu,"Symptoms: Nausea, Fatigue; Severity moderate.",6.0,Low,3,6,Skipped Meal,3.2,None,0.4,53.3,April
 2024-04-08,"Dizziness, Headache, Leg Pain",No,99.6,Flu,"Symptoms: Dizziness, Headache, Leg Pain; Severity moderate.",9.0,Low,3,6,Skipped Meal,1.6,Painkillers,2.9,72.5,April
 2024-04-09,Vomiting,No,96.9,Food Poisoning,Symptoms: Vomiting; Severity moderate.,6.0,Low,2,9,Skipped Meal,1.4,None,0.3,71.0,April
@@ -1202,29 +1202,29 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-04-15,Cold,No,98.4,Cold,Symptoms: Cold; Severity moderate.,6.2,Medium,1,9,High Sugar,2.9,None,1.6,87.8,April
 2024-04-16,Fatigue,No,97.9,Back Injury,Symptoms: Fatigue; Severity moderate.,6.8,Medium,4,7,Normal,1.7,None,5.0,102.1,April
 2024-04-17,Leg Pain,No,97.6,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,7.4,Medium,1,8,Skipped Meal,2.2,Painkillers,4.0,61.6,April
-2024-04-18,None,No,97.9,None,Symptoms: None; Severity moderate.,4.4,Medium,2,9,Normal,1.2,None,0.1,75.3,April
+2024-04-18,Unknown,No,97.9,Unknown,Symptoms: None; Severity moderate.,4.4,Medium,2,9,Normal,1.2,None,0.1,75.3,April
 2024-04-19,"Leg Pain, Shortness of Breath",No,97.4,Sprained Leg,"Symptoms: Leg Pain, Shortness of Breath; Severity moderate.",5.2,Low,1,10,Skipped Meal,2.8,Painkillers,4.9,61.6,April
 2024-04-20,Back Pain,No,96.9,Sprained Leg,Symptoms: Back Pain; Severity moderate.,6.9,Low,1,9,Skipped Meal,1.9,Painkillers,4.8,61.6,April
 2024-04-21,Vomiting,No,98.9,Food Poisoning,Symptoms: Vomiting; Severity moderate.,4.4,Medium,4,7,Normal,2.1,None,1.9,98.5,April
-2024-04-22,Shortness of Breath,No,98.3,None,Symptoms: Shortness of Breath; Severity moderate.,5.5,Medium,1,10,Normal,2.3,None,0.6,89.7,April
+2024-04-22,Shortness of Breath,No,98.3,Unknown,Symptoms: Shortness of Breath; Severity moderate.,5.5,Medium,1,10,Normal,2.3,None,0.6,89.7,April
 2024-04-23,"Leg Pain, Cough",No,97.2,Sprained Leg,"Symptoms: Leg Pain, Cough; Severity moderate.",4.5,Low,2,7,Normal,3.6,Painkillers,0.1,55.3,April
 2024-04-24,Vomiting,No,99.7,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.8,Medium,2,7,Normal,2.7,None,2.8,81.5,April
 2024-04-25,"Leg Pain, Fever",Yes,101.0,Flu,"Symptoms: Leg Pain, Fever; Severity moderate.",6.1,High,3,6,Normal,3.6,Paracetamol,0.9,83.7,April
 2024-04-26,Cough,No,97.7,Flu,Symptoms: Cough; Severity moderate.,7.4,Low,1,10,High Sugar,2.3,None,3.7,61.0,April
 2024-04-27,Fever,Yes,102.1,Flu,Symptoms: Fever; Severity moderate.,4.3,Low,4,7,Normal,2.7,Paracetamol,2.5,86.1,April
 2024-04-28,Fever,Yes,100.5,Food Poisoning,Symptoms: Fever; Severity moderate.,4.4,Medium,6,4,Normal,2.0,Antibiotics,5.7,81.5,April
-2024-04-29,Shortness of Breath,No,98.2,None,Symptoms: Shortness of Breath; Severity moderate.,6.8,Low,2,8,High Sugar,3.9,None,0.1,55.0,April
+2024-04-29,Shortness of Breath,No,98.2,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.8,Low,2,8,High Sugar,3.9,None,0.1,55.0,April
 2024-04-30,Cough,No,98.2,Flu,Symptoms: Cough; Severity moderate.,6.6,Low,3,6,Normal,4.0,None,1.8,62.7,April
 2024-05-01,Cold,No,98.9,Cold,Symptoms: Cold; Severity moderate.,6.5,High,2,9,Normal,1.9,None,0.1,100.8,May
 2024-05-02,"Shortness of Breath, Leg Pain, Headache",No,97.8,Flu,"Symptoms: Shortness of Breath, Leg Pain, Headache; Severity moderate.",5.4,Medium,3,6,High Sugar,2.1,Painkillers,4.3,69.6,May
 2024-05-03,Diarrhea,No,98.3,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.8,Low,3,8,Normal,3.4,Oral Rehydration,4.9,76.7,May
 2024-05-04,Cough,No,98.1,Flu,Symptoms: Cough; Severity moderate.,8.4,High,2,7,High Sugar,2.9,None,0.9,85.8,May
 2024-05-05,"Cough, Fatigue, Vomiting",No,97.1,Flu,"Symptoms: Cough, Fatigue, Vomiting; Severity moderate.",6.7,Low,4,7,Normal,2.8,None,2.2,71.0,May
-2024-05-06,Shortness of Breath,No,97.4,None,Symptoms: Shortness of Breath; Severity moderate.,7.1,High,1,9,Skipped Meal,2.9,None,1.1,95.5,May
+2024-05-06,Shortness of Breath,No,97.4,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.1,High,1,9,Skipped Meal,2.9,None,1.1,95.5,May
 2024-05-07,Cold,No,97.2,Cold,Symptoms: Cold; Severity moderate.,8.1,Medium,1,8,Skipped Meal,3.2,None,1.7,81.2,May
 2024-05-08,"Leg Pain, Diarrhea",No,98.6,Sprained Leg,"Symptoms: Leg Pain, Diarrhea; Severity moderate.",6.7,Low,4,7,Normal,1.9,Oral Rehydration,3.8,90.3,May
 2024-05-09,Leg Pain,No,98.2,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,6.3,Low,1,10,Normal,1.5,Painkillers,2.5,61.3,May
-2024-05-10,None,No,98.8,None,Symptoms: None; Severity moderate.,8.2,Low,1,8,Normal,3.1,None,3.6,94.4,May
+2024-05-10,Unknown,No,98.8,Unknown,Symptoms: None; Severity moderate.,8.2,Low,1,8,Normal,3.1,None,3.6,94.4,May
 2024-05-11,"Diarrhea, Fatigue",No,97.7,Back Injury,"Symptoms: Diarrhea, Fatigue; Severity moderate.",5.1,Low,7,2,High Sugar,1.4,Oral Rehydration,5.7,66.7,May
 2024-05-12,"Back Pain, Fatigue",No,97.8,Dengue,"Symptoms: Back Pain, Fatigue; Severity moderate.",7.3,Low,5,6,Skipped Meal,3.7,Painkillers,4.7,101.4,May
 2024-05-13,Nausea,No,96.7,Dengue,Symptoms: Nausea; Severity moderate.,8.7,High,1,8,Normal,2.5,None,2.2,88.0,May
@@ -1237,7 +1237,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-05-20,"Diarrhea, Vomiting",No,97.4,Food Poisoning,"Symptoms: Diarrhea, Vomiting; Severity moderate.",5.0,High,5,6,Normal,3.3,Oral Rehydration,0.7,71.6,May
 2024-05-21,Back Pain,No,97.7,Sprained Leg,Symptoms: Back Pain; Severity moderate.,4.0,Low,2,8,Normal,2.4,Painkillers,4.2,59.2,May
 2024-05-22,Dizziness,No,97.9,Migraine,Symptoms: Dizziness; Severity moderate.,8.4,Low,3,7,Skipped Meal,1.5,None,5.5,65.6,May
-2024-05-23,None,No,97.9,None,Symptoms: None; Severity moderate.,8.7,Medium,3,7,High Sugar,3.7,None,1.7,52.6,May
+2024-05-23,Unknown,No,97.9,Unknown,Symptoms: None; Severity moderate.,8.7,Medium,3,7,High Sugar,3.7,None,1.7,52.6,May
 2024-05-24,"Cough, Nausea",No,99.4,Flu,"Symptoms: Cough, Nausea; Severity moderate.",5.9,High,2,7,Normal,3.3,None,5.4,56.9,May
 2024-05-25,"Back Pain, Nausea",No,98.1,Food Poisoning,"Symptoms: Back Pain, Nausea; Severity moderate.",7.0,Medium,3,6,Normal,3.3,Painkillers,4.2,100.1,May
 2024-05-26,"Cough, Nausea",No,98.1,Dengue,"Symptoms: Cough, Nausea; Severity moderate.",5.4,Medium,1,8,High Sugar,3.6,None,3.0,57.9,May
@@ -1246,7 +1246,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-05-29,"Cold, Vomiting",No,98.7,Food Poisoning,"Symptoms: Cold, Vomiting; Severity moderate.",8.1,High,2,7,High Sugar,3.8,None,3.4,55.8,May
 2024-05-30,"Fever, Nausea",Yes,103.6,Migraine,"Symptoms: Fever, Nausea; Severity moderate.",7.4,High,4,7,Skipped Meal,3.2,Antibiotics,4.2,64.7,May
 2024-05-31,Fatigue,No,97.6,Back Injury,Symptoms: Fatigue; Severity moderate.,8.8,Low,5,5,Normal,2.1,None,5.4,103.6,May
-2024-06-01,Shortness of Breath,No,98.2,None,Symptoms: Shortness of Breath; Severity moderate.,5.8,Medium,3,8,Normal,2.4,None,0.0,97.4,June
+2024-06-01,Shortness of Breath,No,98.2,Unknown,Symptoms: Shortness of Breath; Severity moderate.,5.8,Medium,3,8,Normal,2.4,None,0.0,97.4,June
 2024-06-02,Fever,Yes,101.0,Dengue,Symptoms: Fever; Severity moderate.,4.5,High,5,6,Skipped Meal,3.6,Paracetamol,3.8,63.3,June
 2024-06-03,Headache,No,98.8,Dengue,Symptoms: Headache; Severity moderate.,8.0,High,2,9,High Sugar,3.8,None,5.6,84.0,June
 2024-06-04,Fatigue,No,97.4,Dengue,Symptoms: Fatigue; Severity moderate.,8.7,Low,5,4,High Sugar,3.5,None,2.7,59.1,June
@@ -1267,7 +1267,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-06-19,Fatigue,No,97.9,Dengue,Symptoms: Fatigue; Severity moderate.,7.0,Low,3,8,Skipped Meal,3.4,None,1.0,58.7,June
 2024-06-20,"Fever, Fatigue, Vomiting",Yes,101.9,Flu,"Symptoms: Fever, Fatigue, Vomiting; Severity moderate.",6.9,Low,7,2,Normal,3.3,Antibiotics,0.8,96.3,June
 2024-06-21,Diarrhea,No,97.9,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,4.1,High,4,6,Normal,2.1,Oral Rehydration,0.3,93.1,June
-2024-06-22,Shortness of Breath,No,98.3,None,Symptoms: Shortness of Breath; Severity moderate.,8.3,High,1,10,High Sugar,1.2,None,2.2,63.6,June
+2024-06-22,Shortness of Breath,No,98.3,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.3,High,1,10,High Sugar,1.2,None,2.2,63.6,June
 2024-06-23,"Dizziness, Fatigue",No,98.3,Cold,"Symptoms: Dizziness, Fatigue; Severity moderate.",6.0,Medium,5,6,High Sugar,1.6,None,0.5,102.7,June
 2024-06-24,Fever,Yes,103.1,Food Poisoning,Symptoms: Fever; Severity moderate.,5.9,High,5,6,Normal,2.8,Antibiotics,1.4,61.3,June
 2024-06-25,"Nausea, Cold",No,98.7,Food Poisoning,"Symptoms: Nausea, Cold; Severity moderate.",4.4,Low,3,7,Skipped Meal,3.5,None,4.7,104.4,June
@@ -1277,14 +1277,14 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-06-29,Vomiting,No,98.2,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.9,Low,3,7,Skipped Meal,2.8,None,5.1,57.7,June
 2024-06-30,Cough,No,98.5,Cold,Symptoms: Cough; Severity moderate.,8.9,Medium,1,8,Skipped Meal,3.8,None,2.1,87.5,June
 2024-07-01,"Diarrhea, Cold",No,98.3,Food Poisoning,"Symptoms: Diarrhea, Cold; Severity moderate.",6.5,Low,4,5,High Sugar,1.9,Oral Rehydration,3.7,77.0,July
-2024-07-02,None,No,97.0,None,Symptoms: None; Severity moderate.,4.8,Low,4,5,Skipped Meal,1.5,None,5.5,89.9,July
+2024-07-02,Unknown,No,97.0,Unknown,Symptoms: None; Severity moderate.,4.8,Low,4,5,Skipped Meal,1.5,None,5.5,89.9,July
 2024-07-03,Diarrhea,No,97.4,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,4.4,Low,4,6,Skipped Meal,3.6,Oral Rehydration,0.5,96.6,July
 2024-07-04,Fever,Yes,103.6,Food Poisoning,Symptoms: Fever; Severity moderate.,7.5,High,3,8,Skipped Meal,3.4,Antibiotics,0.4,91.2,July
 2024-07-05,"Nausea, Shortness of Breath",No,98.6,Dengue,"Symptoms: Nausea, Shortness of Breath; Severity moderate.",7.2,High,1,9,Normal,3.1,None,0.3,72.0,July
 2024-07-06,Nausea,No,97.4,Dengue,Symptoms: Nausea; Severity moderate.,8.4,Medium,2,7,Skipped Meal,1.4,None,2.8,93.2,July
 2024-07-07,Nausea,No,97.6,Migraine,Symptoms: Nausea; Severity moderate.,7.1,Medium,2,8,High Sugar,3.7,None,5.1,73.6,July
 2024-07-08,Leg Pain,No,96.4,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.9,Low,1,8,Skipped Meal,2.8,Painkillers,2.1,61.5,July
-2024-07-09,None,No,99.2,None,Symptoms: None; Severity moderate.,4.8,Medium,2,7,High Sugar,2.1,None,3.1,98.0,July
+2024-07-09,Unknown,No,99.2,Unknown,Symptoms: None; Severity moderate.,4.8,Medium,2,7,High Sugar,2.1,None,3.1,98.0,July
 2024-07-10,Leg Pain,No,98.2,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,6.9,Low,2,9,Skipped Meal,3.0,Painkillers,0.5,65.9,July
 2024-07-11,"Shortness of Breath, Cough",No,96.9,Cold,"Symptoms: Shortness of Breath, Cough; Severity moderate.",6.5,Low,3,7,High Sugar,1.7,None,2.6,51.4,July
 2024-07-12,"Back Pain, Headache",No,97.9,Flu,"Symptoms: Back Pain, Headache; Severity moderate.",5.9,High,1,10,Normal,2.9,Painkillers,3.1,67.8,July
@@ -1300,7 +1300,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-07-22,Fever,Yes,102.5,Food Poisoning,Symptoms: Fever; Severity moderate.,5.5,Medium,3,6,High Sugar,2.2,Antibiotics,3.0,55.0,July
 2024-07-23,Nausea,No,96.5,Dengue,Symptoms: Nausea; Severity moderate.,7.1,Low,1,10,Normal,1.1,None,2.5,74.6,July
 2024-07-24,"Cold, Headache",No,99.1,Flu,"Symptoms: Cold, Headache; Severity moderate.",6.9,Medium,2,7,High Sugar,3.9,None,1.4,96.1,July
-2024-07-25,Shortness of Breath,No,97.6,None,Symptoms: Shortness of Breath; Severity moderate.,6.0,High,1,8,High Sugar,2.2,None,0.9,96.6,July
+2024-07-25,Shortness of Breath,No,97.6,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.0,High,1,8,High Sugar,2.2,None,0.9,96.6,July
 2024-07-26,"Fever, Cold",Yes,102.6,Dengue,"Symptoms: Fever, Cold; Severity moderate.",4.2,Medium,4,5,Skipped Meal,2.4,Antibiotics,4.7,53.9,July
 2024-07-27,Fatigue,No,98.1,Flu,Symptoms: Fatigue; Severity moderate.,4.3,Low,6,3,Normal,1.7,None,4.3,70.1,July
 2024-07-28,Diarrhea,No,98.6,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,8.8,High,5,5,Skipped Meal,3.6,Oral Rehydration,0.8,73.5,July
@@ -1331,7 +1331,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-08-22,Nausea,No,98.4,Migraine,Symptoms: Nausea; Severity moderate.,5.9,Medium,1,8,Skipped Meal,1.0,None,1.2,51.4,August
 2024-08-23,Leg Pain,No,98.3,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.6,Low,2,9,Normal,1.9,Painkillers,5.3,95.8,August
 2024-08-24,"Cough, Leg Pain, Diarrhea",No,97.8,Sprained Leg,"Symptoms: Cough, Leg Pain, Diarrhea; Severity moderate.",8.8,High,4,5,High Sugar,3.5,Oral Rehydration,3.3,86.8,August
-2024-08-25,None,No,97.1,None,Symptoms: None; Severity moderate.,5.2,High,3,6,Skipped Meal,1.8,None,5.4,50.4,August
+2024-08-25,Unknown,No,97.1,Unknown,Symptoms: None; Severity moderate.,5.2,High,3,6,Skipped Meal,1.8,None,5.4,50.4,August
 2024-08-26,Cold,No,97.2,Flu,Symptoms: Cold; Severity moderate.,4.8,High,3,6,High Sugar,3.4,None,6.0,73.6,August
 2024-08-27,Leg Pain,No,97.4,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,4.6,Medium,2,8,Normal,1.9,Painkillers,4.8,67.1,August
 2024-08-28,Leg Pain,No,98.0,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,6.6,Medium,1,9,High Sugar,1.5,Painkillers,4.5,102.6,August
@@ -1354,12 +1354,12 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-09-14,"Leg Pain, Cough",No,98.9,Sprained Leg,"Symptoms: Leg Pain, Cough; Severity moderate.",6.9,Low,1,10,High Sugar,2.3,Painkillers,2.0,63.6,September
 2024-09-15,"Diarrhea, Leg Pain, Cold",No,98.2,Food Poisoning,"Symptoms: Diarrhea, Leg Pain, Cold; Severity moderate.",7.6,Medium,3,7,Skipped Meal,3.6,Oral Rehydration,3.5,63.2,September
 2024-09-16,Cough,No,97.4,Flu,Symptoms: Cough; Severity moderate.,5.6,Low,3,6,Normal,3.8,None,2.0,75.7,September
-2024-09-17,Shortness of Breath,No,98.6,None,Symptoms: Shortness of Breath; Severity moderate.,7.3,Low,2,7,Normal,3.7,None,0.2,55.8,September
+2024-09-17,Shortness of Breath,No,98.6,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.3,Low,2,7,Normal,3.7,None,0.2,55.8,September
 2024-09-18,Fatigue,No,98.7,Dengue,Symptoms: Fatigue; Severity moderate.,8.9,Low,5,4,High Sugar,2.2,None,4.6,72.7,September
 2024-09-19,"Nausea, Back Pain",No,96.8,Migraine,"Symptoms: Nausea, Back Pain; Severity moderate.",5.0,High,1,10,High Sugar,3.0,Painkillers,0.9,77.4,September
 2024-09-20,Dizziness,No,97.4,Back Injury,Symptoms: Dizziness; Severity moderate.,7.3,High,1,8,Normal,1.7,None,5.1,69.5,September
 2024-09-21,"Back Pain, Shortness of Breath",No,97.7,Back Injury,"Symptoms: Back Pain, Shortness of Breath; Severity moderate.",8.4,Low,3,7,High Sugar,2.7,Painkillers,0.6,64.1,September
-2024-09-22,None,No,98.0,None,Symptoms: None; Severity moderate.,4.9,Medium,4,7,High Sugar,3.2,None,2.5,64.3,September
+2024-09-22,Unknown,No,98.0,Unknown,Symptoms: None; Severity moderate.,4.9,Medium,4,7,High Sugar,3.2,None,2.5,64.3,September
 2024-09-23,Dizziness,No,98.2,Back Injury,Symptoms: Dizziness; Severity moderate.,7.0,Medium,1,9,High Sugar,2.2,None,3.4,87.5,September
 2024-09-24,"Nausea, Dizziness",No,98.2,Back Injury,"Symptoms: Nausea, Dizziness; Severity moderate.",5.2,High,2,9,Skipped Meal,3.4,None,3.3,53.3,September
 2024-09-25,Cold,No,98.6,Flu,Symptoms: Cold; Severity moderate.,8.5,High,2,9,Skipped Meal,3.4,None,0.6,69.0,September
@@ -1372,8 +1372,8 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-10-02,"Nausea, Vomiting",No,96.9,Migraine,"Symptoms: Nausea, Vomiting; Severity moderate.",6.5,Medium,2,9,Skipped Meal,1.2,None,1.3,92.1,October
 2024-10-03,"Leg Pain, Headache",No,98.6,Sprained Leg,"Symptoms: Leg Pain, Headache; Severity moderate.",5.3,Low,2,7,Normal,3.3,Painkillers,3.4,66.7,October
 2024-10-04,"Cough, Diarrhea",No,98.0,Cold,"Symptoms: Cough, Diarrhea; Severity moderate.",7.6,Low,3,7,High Sugar,3.0,Oral Rehydration,4.2,72.0,October
-2024-10-05,Shortness of Breath,No,98.9,None,Symptoms: Shortness of Breath; Severity moderate.,7.6,Low,2,9,Skipped Meal,3.9,None,5.3,76.9,October
-2024-10-06,Shortness of Breath,No,97.4,None,Symptoms: Shortness of Breath; Severity moderate.,6.1,Medium,3,7,Normal,2.5,None,1.0,94.1,October
+2024-10-05,Shortness of Breath,No,98.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.6,Low,2,9,Skipped Meal,3.9,None,5.3,76.9,October
+2024-10-06,Shortness of Breath,No,97.4,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.1,Medium,3,7,Normal,2.5,None,1.0,94.1,October
 2024-10-07,Cough,No,97.7,Cold,Symptoms: Cough; Severity moderate.,5.0,High,3,7,Skipped Meal,3.9,None,2.3,81.9,October
 2024-10-08,Cold,No,98.2,Flu,Symptoms: Cold; Severity moderate.,4.3,Medium,3,8,Skipped Meal,3.3,None,3.4,95.6,October
 2024-10-09,"Leg Pain, Cold",No,97.3,Sprained Leg,"Symptoms: Leg Pain, Cold; Severity moderate.",7.5,Low,1,9,Skipped Meal,1.1,Painkillers,0.7,102.6,October
@@ -1382,7 +1382,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-10-12,Fatigue,No,97.8,Flu,Symptoms: Fatigue; Severity moderate.,5.2,Medium,3,6,High Sugar,3.7,None,0.2,75.7,October
 2024-10-13,"Dizziness, Vomiting",No,97.1,Back Injury,"Symptoms: Dizziness, Vomiting; Severity moderate.",4.2,Low,2,8,Skipped Meal,1.4,None,4.1,95.7,October
 2024-10-14,"Leg Pain, Back Pain",No,98.8,Sprained Leg,"Symptoms: Leg Pain, Back Pain; Severity moderate.",6.1,Medium,1,9,High Sugar,2.4,Painkillers,0.1,80.1,October
-2024-10-15,Shortness of Breath,No,96.9,None,Symptoms: Shortness of Breath; Severity moderate.,6.3,Medium,3,8,Skipped Meal,3.5,None,3.5,76.2,October
+2024-10-15,Shortness of Breath,No,96.9,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.3,Medium,3,8,Skipped Meal,3.5,None,3.5,76.2,October
 2024-10-16,Diarrhea,No,97.6,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.0,High,3,8,Normal,1.9,Oral Rehydration,4.3,83.6,October
 2024-10-17,"Back Pain, Nausea",No,98.3,Dengue,"Symptoms: Back Pain, Nausea; Severity moderate.",4.7,Low,4,7,High Sugar,3.8,Painkillers,0.2,62.7,October
 2024-10-18,"Cold, Back Pain, Shortness of Breath",No,97.9,Flu,"Symptoms: Cold, Back Pain, Shortness of Breath; Severity moderate.",4.2,Medium,2,8,Skipped Meal,3.0,Painkillers,4.2,61.8,October
@@ -1411,9 +1411,9 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-11-10,"Diarrhea, Cough",No,97.4,Cold,"Symptoms: Diarrhea, Cough; Severity moderate.",8.3,High,3,7,Skipped Meal,2.8,Oral Rehydration,2.1,89.7,November
 2024-11-11,"Headache, Fever",Yes,102.4,Food Poisoning,"Symptoms: Headache, Fever; Severity moderate.",6.8,Medium,4,5,High Sugar,1.1,Antibiotics,5.9,60.5,November
 2024-11-12,"Dizziness, Diarrhea, Shortness of Breath",No,98.4,Migraine,"Symptoms: Dizziness, Diarrhea, Shortness of Breath; Severity moderate.",8.3,High,3,6,Normal,2.0,Oral Rehydration,1.3,94.9,November
-2024-11-13,None,No,97.3,None,Symptoms: None; Severity moderate.,6.0,Low,2,7,Normal,2.6,None,5.3,66.6,November
+2024-11-13,Unknown,No,97.3,Unknown,Symptoms: None; Severity moderate.,6.0,Low,2,7,Normal,2.6,None,5.3,66.6,November
 2024-11-14,Fatigue,No,97.5,Cold,Symptoms: Fatigue; Severity moderate.,8.3,Low,4,5,Skipped Meal,3.0,None,2.0,60.2,November
-2024-11-15,None,No,97.7,None,Symptoms: None; Severity moderate.,7.2,High,3,7,Normal,2.7,None,5.8,81.9,November
+2024-11-15,Unknown,No,97.7,Unknown,Symptoms: None; Severity moderate.,7.2,High,3,7,Normal,2.7,None,5.8,81.9,November
 2024-11-16,"Cold, Fever",Yes,99.1,Food Poisoning,"Symptoms: Cold, Fever; Severity moderate.",6.7,Low,4,7,High Sugar,3.2,Antibiotics,1.0,89.3,November
 2024-11-17,"Diarrhea, Back Pain",No,96.9,Back Injury,"Symptoms: Diarrhea, Back Pain; Severity moderate.",5.7,Low,5,5,High Sugar,1.7,Oral Rehydration,2.1,52.5,November
 2024-11-18,"Shortness of Breath, Diarrhea",No,97.9,Food Poisoning,"Symptoms: Shortness of Breath, Diarrhea; Severity moderate.",4.2,High,6,4,High Sugar,2.3,Oral Rehydration,4.8,82.7,November
@@ -1422,7 +1422,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-11-21,Dizziness,No,97.3,Back Injury,Symptoms: Dizziness; Severity moderate.,4.7,High,3,8,Skipped Meal,2.5,None,3.9,63.6,November
 2024-11-22,"Dizziness, Diarrhea",No,99.6,Back Injury,"Symptoms: Dizziness, Diarrhea; Severity moderate.",8.0,Medium,5,4,Skipped Meal,1.8,Oral Rehydration,0.5,83.7,November
 2024-11-23,"Back Pain, Cold",No,98.1,Flu,"Symptoms: Back Pain, Cold; Severity moderate.",6.9,Low,1,10,Normal,3.7,Painkillers,1.4,83.1,November
-2024-11-24,Shortness of Breath,No,96.8,None,Symptoms: Shortness of Breath; Severity moderate.,7.3,High,3,6,High Sugar,3.0,None,4.7,85.7,November
+2024-11-24,Shortness of Breath,No,96.8,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.3,High,3,6,High Sugar,3.0,None,4.7,85.7,November
 2024-11-25,"Dizziness, Cold",No,98.4,Cold,"Symptoms: Dizziness, Cold; Severity moderate.",8.4,Medium,1,9,Normal,3.9,None,0.5,63.9,November
 2024-11-26,Cold,No,99.9,Flu,Symptoms: Cold; Severity moderate.,6.7,Low,2,7,High Sugar,2.5,None,6.0,68.7,November
 2024-11-27,Dizziness,No,98.1,Back Injury,Symptoms: Dizziness; Severity moderate.,5.6,Medium,3,8,Skipped Meal,1.3,None,0.8,54.4,November
@@ -1453,7 +1453,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-12-22,Diarrhea,No,97.4,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,7.7,Medium,4,7,Normal,1.5,Oral Rehydration,5.8,82.0,December
 2024-12-23,Cough,No,97.7,Flu,Symptoms: Cough; Severity moderate.,7.8,High,2,8,High Sugar,1.9,None,2.6,68.2,December
 2024-12-24,Nausea,No,97.2,Migraine,Symptoms: Nausea; Severity moderate.,7.1,Low,3,8,Normal,3.5,None,2.7,88.2,December
-2024-12-25,Shortness of Breath,No,96.7,None,Symptoms: Shortness of Breath; Severity moderate.,5.7,Medium,1,10,Normal,2.0,None,3.1,70.4,December
+2024-12-25,Shortness of Breath,No,96.7,Unknown,Symptoms: Shortness of Breath; Severity moderate.,5.7,Medium,1,10,Normal,2.0,None,3.1,70.4,December
 2024-12-26,"Headache, Diarrhea",No,97.2,Migraine,"Symptoms: Headache, Diarrhea; Severity moderate.",4.9,High,4,7,Normal,2.9,Oral Rehydration,3.5,102.4,December
 2024-12-27,Fever,Yes,101.8,Flu,Symptoms: Fever; Severity moderate.,8.2,High,5,5,Skipped Meal,3.2,Paracetamol,2.7,76.8,December
 2024-12-28,Dizziness,No,98.4,Back Injury,Symptoms: Dizziness; Severity moderate.,7.7,High,2,7,Normal,1.6,None,4.0,55.3,December
@@ -1461,7 +1461,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2024-12-30,"Fever, Cough",Yes,101.7,Food Poisoning,"Symptoms: Fever, Cough; Severity moderate.",8.1,Low,3,7,Skipped Meal,1.4,Antibiotics,4.2,103.7,December
 2024-12-31,Fatigue,No,98.6,Flu,Symptoms: Fatigue; Severity moderate.,8.3,Low,4,5,Skipped Meal,1.3,None,4.2,58.1,December
 2025-01-01,"Cough, Leg Pain",No,98.7,Flu,"Symptoms: Cough, Leg Pain; Severity moderate.",8.9,Medium,2,9,Normal,1.7,Painkillers,1.6,91.6,January
-2025-01-02,Shortness of Breath,No,98.5,None,Symptoms: Shortness of Breath; Severity moderate.,4.0,Low,2,8,High Sugar,3.9,None,2.1,73.3,January
+2025-01-02,Shortness of Breath,No,98.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.0,Low,2,8,High Sugar,3.9,None,2.1,73.3,January
 2025-01-03,"Cough, Fever",Yes,103.1,Dengue,"Symptoms: Cough, Fever; Severity moderate.",7.1,Low,4,7,Skipped Meal,2.3,Antibiotics,0.5,95.7,January
 2025-01-04,Leg Pain,No,98.3,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,7.8,Low,2,9,Skipped Meal,3.1,Painkillers,1.5,74.4,January
 2025-01-05,Dizziness,No,96.7,Migraine,Symptoms: Dizziness; Severity moderate.,8.0,Medium,2,7,High Sugar,3.1,None,4.3,56.8,January
@@ -1473,9 +1473,9 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-01-11,Cold,No,98.2,Flu,Symptoms: Cold; Severity moderate.,7.1,Low,3,7,High Sugar,3.1,None,5.4,85.9,January
 2025-01-12,"Diarrhea, Leg Pain",No,99.2,Sprained Leg,"Symptoms: Diarrhea, Leg Pain; Severity moderate.",7.9,Low,5,4,High Sugar,1.8,Oral Rehydration,3.9,86.9,January
 2025-01-13,"Cold, Shortness of Breath, Diarrhea",No,98.5,Cold,"Symptoms: Cold, Shortness of Breath, Diarrhea; Severity moderate.",6.6,High,3,7,Normal,2.6,Oral Rehydration,5.3,54.3,January
-2025-01-14,None,No,97.7,None,Symptoms: None; Severity moderate.,7.1,High,2,9,Normal,1.0,None,0.2,79.0,January
+2025-01-14,Unknown,No,97.7,Unknown,Symptoms: None; Severity moderate.,7.1,High,2,9,Normal,1.0,None,0.2,79.0,January
 2025-01-15,Cough,No,97.5,Flu,Symptoms: Cough; Severity moderate.,4.1,Medium,4,6,High Sugar,3.1,None,2.7,67.7,January
-2025-01-16,Shortness of Breath,No,97.5,None,Symptoms: Shortness of Breath; Severity moderate.,8.8,High,3,6,Skipped Meal,2.5,None,2.8,78.9,January
+2025-01-16,Shortness of Breath,No,97.5,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.8,High,3,6,Skipped Meal,2.5,None,2.8,78.9,January
 2025-01-17,"Cough, Cold",No,98.1,Flu,"Symptoms: Cough, Cold; Severity moderate.",4.9,Medium,2,9,High Sugar,3.3,None,4.4,65.9,January
 2025-01-18,Diarrhea,No,98.1,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,5.7,High,5,6,Skipped Meal,2.2,Oral Rehydration,3.3,70.7,January
 2025-01-19,"Headache, Cold",No,98.1,Migraine,"Symptoms: Headache, Cold; Severity moderate.",5.8,Medium,3,6,Skipped Meal,3.9,None,3.6,69.6,January
@@ -1498,7 +1498,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-02-05,Cold,No,97.6,Cold,Symptoms: Cold; Severity moderate.,7.4,Medium,1,8,Normal,1.2,None,2.3,93.5,February
 2025-02-06,Cold,No,97.8,Flu,Symptoms: Cold; Severity moderate.,6.5,Low,3,6,Normal,2.0,None,5.9,103.2,February
 2025-02-07,Diarrhea,No,98.2,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,5.8,Medium,4,6,Skipped Meal,1.6,Oral Rehydration,0.8,105.0,February
-2025-02-08,None,No,97.6,None,Symptoms: None; Severity moderate.,7.1,High,3,6,Skipped Meal,3.9,None,4.1,83.4,February
+2025-02-08,Unknown,No,97.6,Unknown,Symptoms: None; Severity moderate.,7.1,High,3,6,Skipped Meal,3.9,None,4.1,83.4,February
 2025-02-09,Headache,No,97.3,Flu,Symptoms: Headache; Severity moderate.,5.1,Low,3,7,Normal,2.7,None,5.4,99.1,February
 2025-02-10,Diarrhea,No,97.2,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,5.9,Medium,3,6,High Sugar,3.6,Oral Rehydration,2.4,99.3,February
 2025-02-11,Back Pain,No,98.0,Sprained Leg,Symptoms: Back Pain; Severity moderate.,6.9,Medium,3,7,Skipped Meal,3.5,Painkillers,4.8,101.9,February
@@ -1517,12 +1517,12 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-02-24,Cold,No,97.1,Flu,Symptoms: Cold; Severity moderate.,5.3,Low,2,7,Normal,3.1,None,4.1,52.6,February
 2025-02-25,Fever,Yes,100.6,Dengue,Symptoms: Fever; Severity moderate.,5.4,Medium,3,7,Skipped Meal,2.1,Paracetamol,3.5,71.0,February
 2025-02-26,Dizziness,No,98.1,Back Injury,Symptoms: Dizziness; Severity moderate.,4.5,Low,4,6,Skipped Meal,2.9,None,2.6,86.8,February
-2025-02-27,None,No,98.4,None,Symptoms: None; Severity moderate.,5.0,High,2,7,High Sugar,1.4,None,0.6,92.8,February
+2025-02-27,Unknown,No,98.4,Unknown,Symptoms: None; Severity moderate.,5.0,High,2,7,High Sugar,1.4,None,0.6,92.8,February
 2025-02-28,Cough,No,98.1,Cold,Symptoms: Cough; Severity moderate.,5.5,High,1,8,Normal,1.7,None,0.7,64.8,February
 2025-03-01,Fever,Yes,101.9,Food Poisoning,Symptoms: Fever; Severity moderate.,5.1,Low,4,7,Skipped Meal,2.1,Antibiotics,1.8,51.4,March
 2025-03-02,"Nausea, Fever",Yes,101.7,Dengue,"Symptoms: Nausea, Fever; Severity moderate.",5.1,High,3,8,Normal,2.9,Paracetamol,5.8,99.2,March
 2025-03-03,"Fever, Vomiting, Leg Pain",Yes,102.1,Food Poisoning,"Symptoms: Fever, Vomiting, Leg Pain; Severity moderate.",4.5,Low,6,3,Normal,3.6,Paracetamol,2.1,60.7,March
-2025-03-04,None,No,97.2,None,Symptoms: None; Severity moderate.,6.4,Medium,2,8,Normal,3.3,None,2.2,63.8,March
+2025-03-04,Unknown,No,97.2,Unknown,Symptoms: None; Severity moderate.,6.4,Medium,2,8,Normal,3.3,None,2.2,63.8,March
 2025-03-05,"Fatigue, Dizziness",No,97.8,Back Injury,"Symptoms: Fatigue, Dizziness; Severity moderate.",5.3,Medium,5,4,Normal,2.2,None,0.5,99.5,March
 2025-03-06,Diarrhea,No,97.3,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,6.4,Medium,4,7,Normal,3.0,Oral Rehydration,3.2,74.3,March
 2025-03-07,"Headache, Shortness of Breath, Cough",No,97.3,Flu,"Symptoms: Headache, Shortness of Breath, Cough; Severity moderate.",6.5,High,1,10,Normal,1.1,None,3.3,92.7,March
@@ -1539,7 +1539,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-03-18,Cold,No,98.1,Cold,Symptoms: Cold; Severity moderate.,7.4,Low,1,10,Normal,3.1,None,5.6,76.6,March
 2025-03-19,Headache,No,97.1,Flu,Symptoms: Headache; Severity moderate.,5.4,Medium,2,8,Skipped Meal,3.3,None,2.5,101.7,March
 2025-03-20,Cough,No,97.8,Cold,Symptoms: Cough; Severity moderate.,8.3,Low,1,9,High Sugar,2.6,None,3.2,82.8,March
-2025-03-21,None,No,98.3,None,Symptoms: None; Severity moderate.,4.4,Low,2,9,Skipped Meal,1.3,None,1.8,80.3,March
+2025-03-21,Unknown,No,98.3,Unknown,Symptoms: None; Severity moderate.,4.4,Low,2,9,Skipped Meal,1.3,None,1.8,80.3,March
 2025-03-22,Dizziness,No,98.6,Back Injury,Symptoms: Dizziness; Severity moderate.,4.1,Low,4,6,Skipped Meal,2.3,None,2.0,88.0,March
 2025-03-23,"Diarrhea, Leg Pain",No,97.2,Food Poisoning,"Symptoms: Diarrhea, Leg Pain; Severity moderate.",4.2,Low,6,4,Normal,2.7,Oral Rehydration,5.3,65.4,March
 2025-03-24,Fever,Yes,101.3,Flu,Symptoms: Fever; Severity moderate.,4.0,Medium,4,5,Normal,1.7,Antibiotics,0.6,100.9,March
@@ -1559,7 +1559,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-04-07,Fever,Yes,102.4,Food Poisoning,Symptoms: Fever; Severity moderate.,6.7,Medium,3,8,High Sugar,2.1,Paracetamol,2.6,85.1,April
 2025-04-08,"Leg Pain, Fever, Cold",Yes,103.1,Dengue,"Symptoms: Leg Pain, Fever, Cold; Severity moderate.",7.0,Medium,3,6,Skipped Meal,3.9,Paracetamol,5.1,70.8,April
 2025-04-09,Dizziness,No,97.7,Back Injury,Symptoms: Dizziness; Severity moderate.,7.2,Low,2,9,High Sugar,1.3,None,1.2,85.2,April
-2025-04-10,None,No,98.2,None,Symptoms: None; Severity moderate.,8.9,High,2,9,Normal,2.9,None,0.1,62.3,April
+2025-04-10,Unknown,No,98.2,Unknown,Symptoms: None; Severity moderate.,8.9,High,2,9,Normal,2.9,None,0.1,62.3,April
 2025-04-11,Vomiting,No,97.8,Food Poisoning,Symptoms: Vomiting; Severity moderate.,7.6,Low,3,7,Normal,1.9,None,0.9,78.2,April
 2025-04-12,Dizziness,No,98.6,Migraine,Symptoms: Dizziness; Severity moderate.,7.4,Low,2,9,Normal,3.8,None,4.9,59.8,April
 2025-04-13,Cough,No,99.5,Flu,Symptoms: Cough; Severity moderate.,8.4,Low,2,8,High Sugar,2.4,None,4.5,51.9,April
@@ -1567,26 +1567,26 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-04-15,Fever,Yes,101.5,Dengue,Symptoms: Fever; Severity moderate.,6.0,Low,3,7,Normal,2.5,Paracetamol,1.5,63.7,April
 2025-04-16,"Diarrhea, Leg Pain",No,98.4,Sprained Leg,"Symptoms: Diarrhea, Leg Pain; Severity moderate.",4.7,Low,4,7,Normal,3.6,Oral Rehydration,3.1,70.0,April
 2025-04-17,"Back Pain, Leg Pain, Cough",No,99.0,Back Injury,"Symptoms: Back Pain, Leg Pain, Cough; Severity moderate.",8.6,Low,3,8,Skipped Meal,3.2,Painkillers,2.3,98.2,April
-2025-04-18,Shortness of Breath,No,98.2,None,Symptoms: Shortness of Breath; Severity moderate.,8.5,Low,1,9,High Sugar,2.0,None,1.7,82.1,April
+2025-04-18,Shortness of Breath,No,98.2,Unknown,Symptoms: Shortness of Breath; Severity moderate.,8.5,Low,1,9,High Sugar,2.0,None,1.7,82.1,April
 2025-04-19,"Nausea, Shortness of Breath",No,99.4,Dengue,"Symptoms: Nausea, Shortness of Breath; Severity moderate.",8.9,High,2,7,Skipped Meal,2.0,None,0.6,81.4,April
 2025-04-20,Vomiting,No,99.0,Food Poisoning,Symptoms: Vomiting; Severity moderate.,7.6,Low,2,7,High Sugar,3.4,None,0.4,58.3,April
 2025-04-21,"Cold, Fever, Fatigue",Yes,101.5,Back Injury,"Symptoms: Cold, Fever, Fatigue; Severity moderate.",8.6,Low,7,4,Normal,3.8,Antibiotics,1.1,91.4,April
 2025-04-22,Vomiting,No,97.8,Food Poisoning,Symptoms: Vomiting; Severity moderate.,5.4,High,2,9,Skipped Meal,2.8,None,2.8,77.6,April
 2025-04-23,"Cough, Fever",Yes,102.8,Cold,"Symptoms: Cough, Fever; Severity moderate.",6.8,Medium,3,7,High Sugar,3.8,Antibiotics,1.7,98.6,April
-2025-04-24,None,No,96.8,None,Symptoms: None; Severity moderate.,8.1,Medium,1,10,Normal,3.9,None,3.1,63.0,April
+2025-04-24,Unknown,No,96.8,Unknown,Symptoms: None; Severity moderate.,8.1,Medium,1,10,Normal,3.9,None,3.1,63.0,April
 2025-04-25,Cold,No,97.9,Cold,Symptoms: Cold; Severity moderate.,6.4,Low,1,8,High Sugar,2.0,None,2.4,62.9,April
 2025-04-26,Cough,No,98.3,Flu,Symptoms: Cough; Severity moderate.,4.1,High,2,7,Skipped Meal,2.0,None,2.4,70.1,April
 2025-04-27,Nausea,No,98.2,Migraine,Symptoms: Nausea; Severity moderate.,4.5,Medium,2,8,Skipped Meal,3.4,None,0.3,79.8,April
 2025-04-28,Cold,No,98.6,Cold,Symptoms: Cold; Severity moderate.,4.6,Medium,4,6,High Sugar,3.9,None,0.2,79.6,April
 2025-04-29,"Cough, Back Pain",No,97.4,Sprained Leg,"Symptoms: Cough, Back Pain; Severity moderate.",4.8,Medium,4,6,Skipped Meal,1.2,Painkillers,5.2,50.9,April
 2025-04-30,"Dizziness, Cold",No,98.1,Flu,"Symptoms: Dizziness, Cold; Severity moderate.",5.5,Low,2,9,Normal,2.9,None,1.5,102.8,April
-2025-05-01,None,No,99.0,None,Symptoms: None; Severity moderate.,7.9,High,1,10,High Sugar,3.6,None,1.0,94.8,May
+2025-05-01,Unknown,No,99.0,Unknown,Symptoms: None; Severity moderate.,7.9,High,1,10,High Sugar,3.6,None,1.0,94.8,May
 2025-05-02,Cold,No,97.9,Flu,Symptoms: Cold; Severity moderate.,7.3,High,1,9,Skipped Meal,1.1,None,5.3,80.2,May
 2025-05-03,"Fatigue, Back Pain, Dizziness",No,99.6,Back Injury,"Symptoms: Fatigue, Back Pain, Dizziness; Severity moderate.",7.7,Low,4,5,Skipped Meal,2.2,Painkillers,1.9,70.4,May
 2025-05-04,"Nausea, Shortness of Breath",No,97.6,Migraine,"Symptoms: Nausea, Shortness of Breath; Severity moderate.",5.8,High,3,6,Skipped Meal,2.4,None,5.1,95.6,May
 2025-05-05,"Cold, Headache",No,97.9,Dengue,"Symptoms: Cold, Headache; Severity moderate.",7.3,Medium,3,7,Skipped Meal,1.3,None,4.8,69.6,May
 2025-05-06,Diarrhea,No,98.6,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,4.9,High,4,6,Skipped Meal,2.8,Oral Rehydration,3.5,72.8,May
-2025-05-07,None,No,98.7,None,Symptoms: None; Severity moderate.,6.9,High,3,7,High Sugar,2.0,None,1.9,69.3,May
+2025-05-07,Unknown,No,98.7,Unknown,Symptoms: None; Severity moderate.,6.9,High,3,7,High Sugar,2.0,None,1.9,69.3,May
 2025-05-08,"Headache, Shortness of Breath",No,97.3,Flu,"Symptoms: Headache, Shortness of Breath; Severity moderate.",8.2,Medium,3,6,Normal,3.6,None,2.2,78.8,May
 2025-05-09,Fever,Yes,102.0,Dengue,Symptoms: Fever; Severity moderate.,6.8,High,5,4,Skipped Meal,3.3,Antibiotics,2.2,88.0,May
 2025-05-10,"Leg Pain, Vomiting, Shortness of Breath",No,98.6,Food Poisoning,"Symptoms: Leg Pain, Vomiting, Shortness of Breath; Severity moderate.",8.6,Medium,3,7,Skipped Meal,3.8,Painkillers,0.4,90.0,May
@@ -1601,9 +1601,9 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-05-19,"Vomiting, Headache",No,97.3,Food Poisoning,"Symptoms: Vomiting, Headache; Severity moderate.",4.7,Medium,4,5,Skipped Meal,1.8,None,0.3,62.9,May
 2025-05-20,Leg Pain,No,99.2,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,8.3,Low,1,10,Skipped Meal,2.5,Painkillers,5.8,86.9,May
 2025-05-21,Fever,Yes,100.5,Flu,Symptoms: Fever; Severity moderate.,6.9,High,4,7,Normal,1.2,Paracetamol,4.3,99.4,May
-2025-05-22,None,No,98.3,None,Symptoms: None; Severity moderate.,6.4,High,2,9,Normal,1.4,None,4.9,80.9,May
+2025-05-22,Unknown,No,98.3,Unknown,Symptoms: None; Severity moderate.,6.4,High,2,9,Normal,1.4,None,4.9,80.9,May
 2025-05-23,Headache,No,97.6,Flu,Symptoms: Headache; Severity moderate.,4.6,Low,4,5,Skipped Meal,2.5,None,5.3,76.3,May
-2025-05-24,None,No,98.5,None,Symptoms: None; Severity moderate.,7.6,Low,2,7,Normal,3.1,None,2.6,76.8,May
+2025-05-24,Unknown,No,98.5,Unknown,Symptoms: None; Severity moderate.,7.6,Low,2,7,Normal,3.1,None,2.6,76.8,May
 2025-05-25,"Headache, Fatigue, Dizziness",No,98.4,Migraine,"Symptoms: Headache, Fatigue, Dizziness; Severity moderate.",4.9,Medium,4,7,High Sugar,2.5,None,5.7,62.5,May
 2025-05-26,"Cough, Vomiting",No,97.8,Food Poisoning,"Symptoms: Cough, Vomiting; Severity moderate.",8.0,Low,1,10,Normal,3.2,None,5.6,78.7,May
 2025-05-27,"Nausea, Shortness of Breath",No,99.2,Dengue,"Symptoms: Nausea, Shortness of Breath; Severity moderate.",8.1,High,2,7,Skipped Meal,3.2,None,5.7,89.7,May
@@ -1648,11 +1648,11 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-07-05,"Fatigue, Dizziness, Diarrhea",No,97.7,Back Injury,"Symptoms: Fatigue, Dizziness, Diarrhea; Severity moderate.",8.5,Low,6,3,High Sugar,2.5,Oral Rehydration,3.6,90.8,July
 2025-07-06,Fever,Yes,101.8,Food Poisoning,Symptoms: Fever; Severity moderate.,5.8,Low,4,5,Normal,1.8,Paracetamol,5.0,68.4,July
 2025-07-07,Vomiting,No,99.2,Food Poisoning,Symptoms: Vomiting; Severity moderate.,5.2,Low,1,9,Skipped Meal,2.1,None,1.1,66.3,July
-2025-07-08,None,No,98.8,None,Symptoms: None; Severity moderate.,8.5,Low,2,7,High Sugar,1.2,None,2.9,67.2,July
+2025-07-08,Unknown,No,98.8,Unknown,Symptoms: None; Severity moderate.,8.5,Low,2,7,High Sugar,1.2,None,2.9,67.2,July
 2025-07-09,Cold,No,98.4,Cold,Symptoms: Cold; Severity moderate.,6.6,Medium,2,8,High Sugar,3.8,None,2.2,68.1,July
-2025-07-10,None,No,98.0,None,Symptoms: None; Severity moderate.,5.4,Low,3,6,Normal,3.3,None,5.4,69.5,July
-2025-07-11,Shortness of Breath,No,98.1,None,Symptoms: Shortness of Breath; Severity moderate.,6.8,High,2,8,Normal,1.9,None,0.8,98.4,July
-2025-07-12,None,No,98.1,None,Symptoms: None; Severity moderate.,6.0,Low,3,6,Normal,3.1,None,5.2,93.0,July
+2025-07-10,Unknown,No,98.0,Unknown,Symptoms: None; Severity moderate.,5.4,Low,3,6,Normal,3.3,None,5.4,69.5,July
+2025-07-11,Shortness of Breath,No,98.1,Unknown,Symptoms: Shortness of Breath; Severity moderate.,6.8,High,2,8,Normal,1.9,None,0.8,98.4,July
+2025-07-12,Unknown,No,98.1,Unknown,Symptoms: None; Severity moderate.,6.0,Low,3,6,Normal,3.1,None,5.2,93.0,July
 2025-07-13,Leg Pain,No,98.1,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,8.8,Low,3,7,Normal,1.0,Painkillers,3.0,103.6,July
 2025-07-14,Dizziness,No,96.3,Back Injury,Symptoms: Dizziness; Severity moderate.,4.8,Low,4,7,Normal,3.4,None,5.8,96.2,July
 2025-07-15,Dizziness,No,98.4,Migraine,Symptoms: Dizziness; Severity moderate.,4.6,Low,3,8,Normal,2.2,None,4.4,81.8,July
@@ -1684,10 +1684,10 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-08-10,Nausea,No,97.4,Dengue,Symptoms: Nausea; Severity moderate.,4.6,Medium,2,7,High Sugar,3.5,None,2.5,57.6,August
 2025-08-11,"Fatigue, Cold",No,98.0,Dengue,"Symptoms: Fatigue, Cold; Severity moderate.",5.7,Low,4,7,High Sugar,1.8,None,4.3,77.1,August
 2025-08-12,"Shortness of Breath, Dizziness",No,98.3,Back Injury,"Symptoms: Shortness of Breath, Dizziness; Severity moderate.",8.7,Medium,1,8,Normal,1.5,None,2.3,77.7,August
-2025-08-13,None,No,97.0,None,Symptoms: None; Severity moderate.,8.1,Medium,3,8,Normal,1.0,None,1.5,94.2,August
+2025-08-13,Unknown,No,97.0,Unknown,Symptoms: None; Severity moderate.,8.1,Medium,3,8,Normal,1.0,None,1.5,94.2,August
 2025-08-14,Cough,No,97.7,Cold,Symptoms: Cough; Severity moderate.,4.6,Medium,3,7,High Sugar,1.0,None,4.7,54.2,August
 2025-08-15,"Dizziness, Leg Pain",No,99.1,Sprained Leg,"Symptoms: Dizziness, Leg Pain; Severity moderate.",5.3,Low,1,9,Normal,2.6,Painkillers,4.2,53.6,August
-2025-08-16,Shortness of Breath,No,98.4,None,Symptoms: Shortness of Breath; Severity moderate.,4.1,Medium,2,7,Skipped Meal,1.3,None,1.7,69.8,August
+2025-08-16,Shortness of Breath,No,98.4,Unknown,Symptoms: Shortness of Breath; Severity moderate.,4.1,Medium,2,7,Skipped Meal,1.3,None,1.7,69.8,August
 2025-08-17,Fatigue,No,98.1,Back Injury,Symptoms: Fatigue; Severity moderate.,8.3,High,4,5,Skipped Meal,3.3,None,5.4,89.9,August
 2025-08-18,Diarrhea,No,98.4,Food Poisoning,Symptoms: Diarrhea; Severity moderate.,5.2,Medium,4,6,Skipped Meal,1.2,Oral Rehydration,2.7,57.0,August
 2025-08-19,"Nausea, Vomiting",No,98.8,Food Poisoning,"Symptoms: Nausea, Vomiting; Severity moderate.",4.7,Medium,3,6,Skipped Meal,3.7,None,1.7,101.0,August
@@ -1724,14 +1724,14 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-09-19,Fatigue,No,99.6,Cold,Symptoms: Fatigue; Severity moderate.,8.7,Low,5,4,Normal,3.1,None,6.0,67.2,September
 2025-09-20,"Back Pain, Diarrhea, Dizziness",No,98.0,Migraine,"Symptoms: Back Pain, Diarrhea, Dizziness; Severity moderate.",4.0,High,5,5,Normal,1.6,Oral Rehydration,2.4,54.6,September
 2025-09-21,"Diarrhea, Fever",Yes,103.2,Food Poisoning,"Symptoms: Diarrhea, Fever; Severity moderate.",4.3,Low,7,4,Normal,2.6,Antibiotics,2.8,55.6,September
-2025-09-22,None,No,98.0,None,Symptoms: None; Severity moderate.,8.4,Low,1,9,Skipped Meal,1.3,None,2.9,104.0,September
+2025-09-22,Unknown,No,98.0,Unknown,Symptoms: None; Severity moderate.,8.4,Low,1,9,Skipped Meal,1.3,None,2.9,104.0,September
 2025-09-23,Fatigue,No,99.2,Flu,Symptoms: Fatigue; Severity moderate.,8.1,Low,4,5,High Sugar,2.4,None,3.9,91.9,September
 2025-09-24,Dizziness,No,97.9,Migraine,Symptoms: Dizziness; Severity moderate.,6.4,Low,1,8,Normal,1.8,None,2.8,52.4,September
-2025-09-25,Shortness of Breath,No,98.3,None,Symptoms: Shortness of Breath; Severity moderate.,5.7,Medium,1,8,Skipped Meal,2.5,None,2.7,70.7,September
-2025-09-26,None,No,99.2,None,Symptoms: None; Severity moderate.,5.2,Low,2,8,Normal,1.7,None,0.8,66.4,September
+2025-09-25,Shortness of Breath,No,98.3,Unknown,Symptoms: Shortness of Breath; Severity moderate.,5.7,Medium,1,8,Skipped Meal,2.5,None,2.7,70.7,September
+2025-09-26,Unknown,No,99.2,Unknown,Symptoms: None; Severity moderate.,5.2,Low,2,8,Normal,1.7,None,0.8,66.4,September
 2025-09-27,Cough,No,98.9,Flu,Symptoms: Cough; Severity moderate.,5.6,Medium,1,10,Normal,3.5,None,2.9,71.5,September
 2025-09-28,Leg Pain,No,97.9,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,5.2,Low,1,8,Normal,1.8,Painkillers,2.9,67.6,September
-2025-09-29,None,No,97.8,None,Symptoms: None; Severity moderate.,5.5,Low,3,7,Skipped Meal,1.2,None,0.7,88.7,September
+2025-09-29,Unknown,No,97.8,Unknown,Symptoms: None; Severity moderate.,5.5,Low,3,7,Skipped Meal,1.2,None,0.7,88.7,September
 2025-09-30,Cough,No,97.7,Cold,Symptoms: Cough; Severity moderate.,5.2,Medium,2,8,High Sugar,2.8,None,1.5,64.9,September
 2025-10-01,Cold,No,98.0,Flu,Symptoms: Cold; Severity moderate.,4.3,Low,3,7,Skipped Meal,2.8,None,3.0,82.6,October
 2025-10-02,Leg Pain,No,98.0,Sprained Leg,Symptoms: Leg Pain; Severity moderate.,8.5,Low,1,9,High Sugar,3.1,Painkillers,1.3,80.1,October
@@ -1744,7 +1744,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-10-09,Vomiting,No,98.0,Food Poisoning,Symptoms: Vomiting; Severity moderate.,5.1,Medium,3,6,Normal,1.4,None,0.6,88.4,October
 2025-10-10,"Fever, Leg Pain",Yes,102.6,Sprained Leg,"Symptoms: Fever, Leg Pain; Severity moderate.",7.8,Low,5,4,High Sugar,2.7,Antibiotics,3.6,75.8,October
 2025-10-11,Headache,No,98.3,Dengue,Symptoms: Headache; Severity moderate.,5.0,Medium,1,10,Normal,1.2,None,4.3,58.9,October
-2025-10-12,Shortness of Breath,No,98.0,None,Symptoms: Shortness of Breath; Severity moderate.,7.7,Low,3,8,Normal,2.2,None,5.2,93.1,October
+2025-10-12,Shortness of Breath,No,98.0,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.7,Low,3,8,Normal,2.2,None,5.2,93.1,October
 2025-10-13,Dizziness,No,99.1,Back Injury,Symptoms: Dizziness; Severity moderate.,8.1,Medium,3,8,High Sugar,1.4,None,1.0,59.9,October
 2025-10-14,Fever,Yes,101.6,Food Poisoning,Symptoms: Fever; Severity moderate.,7.8,Low,5,6,Normal,2.7,Paracetamol,5.2,80.6,October
 2025-10-15,"Shortness of Breath, Back Pain",No,96.7,Sprained Leg,"Symptoms: Shortness of Breath, Back Pain; Severity moderate.",4.3,Medium,4,7,High Sugar,2.3,Painkillers,3.4,64.6,October
@@ -1770,7 +1770,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-11-04,"Back Pain, Cough",No,99.0,Sprained Leg,"Symptoms: Back Pain, Cough; Severity moderate.",7.3,Low,3,6,High Sugar,2.3,Painkillers,1.9,70.4,November
 2025-11-05,"Vomiting, Headache",No,97.5,Dengue,"Symptoms: Vomiting, Headache; Severity moderate.",4.6,Low,2,9,Skipped Meal,2.6,None,0.8,59.6,November
 2025-11-06,Vomiting,No,98.1,Food Poisoning,Symptoms: Vomiting; Severity moderate.,8.2,Medium,1,9,Normal,2.2,None,4.8,61.6,November
-2025-11-07,None,No,98.7,None,Symptoms: None; Severity moderate.,4.8,Medium,3,8,High Sugar,1.9,None,5.6,74.4,November
+2025-11-07,Unknown,No,98.7,Unknown,Symptoms: None; Severity moderate.,4.8,Medium,3,8,High Sugar,1.9,None,5.6,74.4,November
 2025-11-08,"Shortness of Breath, Leg Pain",No,97.8,Sprained Leg,"Symptoms: Shortness of Breath, Leg Pain; Severity moderate.",6.8,Medium,1,8,High Sugar,3.2,Painkillers,1.9,60.9,November
 2025-11-09,Cough,No,97.9,Flu,Symptoms: Cough; Severity moderate.,5.1,Medium,1,9,Skipped Meal,1.0,None,0.1,66.6,November
 2025-11-10,"Vomiting, Headache",No,98.6,Dengue,"Symptoms: Vomiting, Headache; Severity moderate.",8.2,Medium,2,7,Skipped Meal,2.8,None,3.0,55.9,November
@@ -1793,7 +1793,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-11-27,"Nausea, Back Pain",No,96.8,Back Injury,"Symptoms: Nausea, Back Pain; Severity moderate.",5.0,Low,3,6,High Sugar,1.4,Painkillers,3.1,50.4,November
 2025-11-28,Cold,No,97.3,Flu,Symptoms: Cold; Severity moderate.,5.0,Low,2,7,Skipped Meal,1.6,None,2.1,82.0,November
 2025-11-29,Cough,No,97.4,Cold,Symptoms: Cough; Severity moderate.,6.7,Medium,1,9,Skipped Meal,2.6,None,5.2,80.5,November
-2025-11-30,Shortness of Breath,No,98.2,None,Symptoms: Shortness of Breath; Severity moderate.,7.5,Low,2,9,Skipped Meal,1.2,None,3.7,86.5,November
+2025-11-30,Shortness of Breath,No,98.2,Unknown,Symptoms: Shortness of Breath; Severity moderate.,7.5,Low,2,9,Skipped Meal,1.2,None,3.7,86.5,November
 2025-12-01,Fever,Yes,101.3,Flu,Symptoms: Fever; Severity moderate.,7.2,Low,5,6,High Sugar,2.7,Paracetamol,5.8,96.0,December
 2025-12-02,Fatigue,No,97.0,Cold,Symptoms: Fatigue; Severity moderate.,7.5,Low,4,7,High Sugar,2.5,None,4.6,94.6,December
 2025-12-03,Headache,No,98.3,Flu,Symptoms: Headache; Severity moderate.,4.2,Medium,4,5,Normal,3.9,None,0.4,96.1,December
@@ -1820,7 +1820,7 @@ Date,Symptoms,Fever,Temperature,Disease,Notes,SleepHours,ActivityLevel,SeverityS
 2025-12-24,Fever,Yes,99.3,Food Poisoning,Symptoms: Fever; Severity moderate.,8.9,High,3,8,High Sugar,1.0,Antibiotics,2.1,77.9,December
 2025-12-25,Cold,No,97.9,Flu,Symptoms: Cold; Severity moderate.,4.1,Medium,3,6,Normal,3.4,None,3.7,60.3,December
 2025-12-26,"Leg Pain, Back Pain",No,99.4,Sprained Leg,"Symptoms: Leg Pain, Back Pain; Severity moderate.",6.1,Low,2,8,Normal,1.3,Painkillers,2.1,81.4,December
-2025-12-27,None,No,98.5,None,Symptoms: None; Severity moderate.,7.1,Low,3,8,Skipped Meal,2.6,None,5.6,67.3,December
+2025-12-27,Unknown,No,98.5,Unknown,Symptoms: None; Severity moderate.,7.1,Low,3,8,Skipped Meal,2.6,None,5.6,67.3,December
 2025-12-28,Vomiting,No,98.7,Food Poisoning,Symptoms: Vomiting; Severity moderate.,7.2,Low,3,7,Normal,3.2,None,2.9,54.3,December
 2025-12-29,"Vomiting, Back Pain",No,97.5,Back Injury,"Symptoms: Vomiting, Back Pain; Severity moderate.",7.7,Low,3,7,High Sugar,2.2,Painkillers,4.5,61.2,December
 2025-12-30,Cold,No,97.6,Flu,Symptoms: Cold; Severity moderate.,8.9,Low,2,9,Normal,3.4,None,0.0,102.4,December
