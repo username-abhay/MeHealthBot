@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Health-Log Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            margin: 0;
+            padding: 20px;
+        }
+        .chat-container {
+            max-width: 600px;
+            margin: auto;
+            background: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        .chat-box {
+            height: 300px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+            background: #fafafa;
+        }
+        .user-msg {
+            color: blue;
+            margin: 5px 0;
+        }
+        .bot-msg {
+            color: green;
+            margin: 5px 0;
+        }
+        input[type="text"] {
+            width: 80%;
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+        button {
+            padding: 8px 12px;
+            border-radius: 4px;
+            border: none;
+            background: #007bff;
+            color: white;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <h2>Health-Log Chatbot</h2>
+        <div id="chatBox" class="chat-box"></div>
+        <input type="text" id="userInput" placeholder="Ask a question...">
+        <button onclick="sendQuestion()">Send</button>
+    </div>
+
+    <script>
+        const chatBox = document.getElementById('chatBox');
+        const userInput = document.getElementById('userInput');
+
+        async function sendQuestion() {
+            const question = userInput.value.trim();
+            if (!question) return;
+
+            appendMessage(question, 'user-msg');
+            userInput.value = '';
+
+            try {
+                const response = await fetch('http://127.0.0.1:8000/api/ask', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ question })
+                });
+
+                if (!response.ok) {
+                    appendMessage("⚠ Error communicating with server.", 'bot-msg');
+                    return;
+                }
+
+                const data = await response.json();
+                appendMessage(data.answer, 'bot-msg');
+            } catch (err) {
+                appendMessage("⚠ Could not reach backend.", 'bot-msg');
+                console.error(err);
+            }
+        }
+
+        function appendMessage(msg, className) {
+            const div = document.createElement('div');
+            div.className = className;
+            div.textContent = msg;
+            chatBox.appendChild(div);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        // Optional: allow Enter key to send message
+        userInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') sendQuestion();
+        });
+    </script>
+</body>
+</html>

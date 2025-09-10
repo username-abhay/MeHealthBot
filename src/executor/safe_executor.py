@@ -1,7 +1,7 @@
 import re
 import pandas as pd
 from typing import Optional
-from models import ml_models
+from src.models import ml_models
 
 # simple blacklist -- improve if needed
 FORBIDDEN_TOKENS = [

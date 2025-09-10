@@ -1,15 +1,8 @@
 # src/cli_app.py
 """
-Main CLI for the health-log chatbot.
-Flow:
-- load dataset
-- extract schema
-- initialize Gemini with a strict system prompt
-- interactive loop:
-    1. Send user question for computation only
-    2. Execute code → get raw result
-    3. Send raw result + original question for analysis
-    4. Execute final conversational code → print answer
+Health-log chatbot CLI + API wrapper.
+- CLI loop commented for dev testing.
+- Use `ask_question(user_input: str)` to send a question and get final conversational answer.
 """
 
 import os
@@ -18,9 +11,9 @@ from pathlib import Path
 import pandas as pd
 from dotenv import load_dotenv
 
-from nlp_adapter.gemini_client import GeminiAdapter
-from utils import schema_manager
-from executor.safe_executor import execute_query
+from src.nlp_adapter.gemini_client import GeminiAdapter
+from src.utils import schema_manager
+from src.executor.safe_executor import execute_query
 
 load_dotenv()
 
@@ -50,26 +43,20 @@ def extract_code_block(text: str) -> str | None:
     return None
 
 
-def main():
-    if not GEMINI_API_KEY:
-        print("[!] GEMINI_API_KEY not found in .env. Please add it.")
-        return
+# ---------- GLOBAL INITIALIZATION ----------
+df = load_dataset()
+if df is None:
+    raise RuntimeError("[!] Could not load dataset. Exiting.")
 
-    df = load_dataset()
-    if df is None:
-        return
+# Extract schema
+schema = schema_manager.extract_schema(df)
+schema_str = schema_manager.schema_to_string(schema)
 
-    # Extract schema
-    schema = schema_manager.extract_schema(df)
-    schema_str = schema_manager.schema_to_string(schema)
+# Init Gemini adapter
+gemini = GeminiAdapter(api_key=GEMINI_API_KEY)
 
-    print("\n[+] Extracted Schema (ready for Gemini):\n")
-
-    # Init Gemini adapter
-    gemini = GeminiAdapter(api_key=GEMINI_API_KEY)
-
-    # Strict system prompt
-    system_prompt = """SYSTEM INSTRUCTION:
+# Strict system prompt
+system_prompt = """SYSTEM INSTRUCTION:
 You are a Python data analysis assistant with access to:
 - A pandas DataFrame named `df` containing a health log dataset.
 IMPORTANT RULES:
@@ -79,55 +66,52 @@ IMPORTANT RULES:
 - NEVER use loops or multi-line if/else; use vectorized pandas/numpy instead.
 - Allowed libraries: pandas, numpy only.
 """
-    gemini.send_message(system_prompt)
-
-    # Send schema to Gemini
-    gemini.send_message(f"Dataset schema:\n{schema_str}")
-
-    print("\n[+] Schema and system instruction sent to Gemini. You can now ask questions.\n")
-
-    while True:
-        user_input = input("Ask your question (or 'exit' to quit):\n> ").strip()
-        if user_input.lower() in {"exit", "quit"}:
-            break
-        if not user_input:
-            continue
-
-        # ---------- PASS 1: Computation ----------
-        comp_prompt = (
-            f"User question: {user_input}\n"
-            "Step 1: Return ONLY Python code that computes the raw answer from df. "
-            "Do not add explanations. Assign the output to variable 'result'."
-        )
-        resp_text = gemini.send_message(comp_prompt)
-        print("\n[Gemini computation response]:\n", resp_text)
-
-        code = extract_code_block(resp_text)
-        if code is None:
-            print("\n[Result]:\n⚠ No computable code returned.")
-            continue
-
-        raw_output = execute_query(code, df)
-        print("\n[Raw Computation Result]:\n", raw_output)
-
-        # ---------- PASS 2: Analysis ----------
-        analysis_prompt = (
-            f"The user asked: {user_input}\n"
-            f"The computed result is: {raw_output}\n"
-            "Step 2: Analyze this result, answer any follow-up parts of the question, "
-            "and return ONLY Python code that assigns a final conversational string to 'result'."
-        )
-        resp_text2 = gemini.send_message(analysis_prompt)
-        print("\n[Gemini analysis response]:\n", resp_text2)
-
-        final_code = extract_code_block(resp_text2)
-        if final_code is None:
-            print("\n[Result]:\n⚠ Gemini did not provide final analysis code.")
-            continue
-
-        final_output = execute_query(final_code, df)
-        print("\n[Final Answer]:\n", final_output)
+gemini.send_message(system_prompt)
+gemini.send_message(f"Dataset schema:\n{schema_str}")
+print("\n[+] Schema and system instruction sent to Gemini. Ready to answer questions.\n")
 
 
-if __name__ == "__main__":
-    main()
+def ask_question(user_input: str) -> str:
+    """
+    Pass a user question to Gemini.
+    Returns the final conversational answer as a string.
+    """
+    # ---------- PASS 1: Computation ----------
+    comp_prompt = (
+        f"User question: {user_input}\n"
+        "Step 1: Return ONLY Python code that computes the raw answer from df. "
+        "Do not add explanations. Assign the output to variable 'result'."
+    )
+    resp_text = gemini.send_message(comp_prompt)
+    code = extract_code_block(resp_text)
+    if code is None:
+        return "⚠ No computable code returned."
+
+    raw_output = execute_query(code, df)
+
+    # ---------- PASS 2: Analysis ----------
+    analysis_prompt = (
+        f"The user asked: {user_input}\n"
+        f"The computed result is: {raw_output}\n"
+        "Step 2: Analyze this result, answer any follow-up parts of the question, "
+        "and return ONLY Python code that assigns a final conversational string to 'result'."
+    )
+    resp_text2 = gemini.send_message(analysis_prompt)
+    final_code = extract_code_block(resp_text2)
+    if final_code is None:
+        return "⚠ Gemini did not provide final analysis code."
+
+    final_output = execute_query(final_code, df)
+    return final_output
+
+
+# ---------- CLI LOOP FOR DEV TESTING (COMMENTED) ----------
+# if __name__ == "__main__":
+#     while True:
+#         user_input = input("Ask your question (or 'exit' to quit):\n> ").strip()
+#         if user_input.lower() in {"exit", "quit"}:
+#             break
+#         if not user_input:
+#             continue
+#         answer = ask_question(user_input)
+#         print("\n[Final Answer]:\n", answer)
