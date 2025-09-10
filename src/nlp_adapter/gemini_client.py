@@ -8,7 +8,7 @@ from google import genai
 
 
 class GeminiAdapter:
-    def __init__(self, model: str = "gemini-2.5-flash", api_key: str | None = None):
+    def __init__(self, model: str = "gemini-2.5-flash-lite", api_key: str | None = None):
         """
         Initialize Gemini client + chat.
         If api_key is provided, genai.Client(api_key=api_key) will be used.

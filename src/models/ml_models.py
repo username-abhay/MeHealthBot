@@ -8,23 +8,25 @@ import os
 
 MODEL_DIR = os.path.dirname(__file__)
 
+# --------------------------
 # Classification: Predict Disease
+# --------------------------
 def train_classification(df: pd.DataFrame):
     """
     Train a RandomForest model to predict Disease from symptoms + vitals.
     """
-    # Simplify: Convert categorical yes/no + symptoms into numeric
+    # Use Fever, Symptoms, Temperature for classification
     X = pd.get_dummies(df[["Fever", "Symptoms"]], drop_first=True)
     X["Temperature"] = df["Temperature"]
 
     y = df["Disease"]
 
-    model = RandomForestClassifier(n_estimators=100, random_state=42)
+    model = RandomForestClassifier(n_estimators=200, random_state=42)
     model.fit(X, y)
 
-    # Save model
+    # Save model + feature names
     path = os.path.join(MODEL_DIR, "disease_model.pkl")
-    joblib.dump(model, path)
+    joblib.dump({"model": model, "features": X.columns.tolist()}, path)
     return model
 
 
@@ -36,33 +38,30 @@ def predict_disease(symptom: str, fever: str, temp: float):
     if not os.path.exists(path):
         return "[!] No trained disease model found. Train first."
 
-    model = joblib.load(path)
+    bundle = joblib.load(path)
+    model, model_features = bundle["model"], bundle["features"]
 
-    # Build input row
-    data = {"Fever": [fever], "Symptoms": [symptom], "Temperature": [temp]}
-    df_input = pd.DataFrame(data)
+    # Input row
+    df_input = pd.DataFrame({"Fever": [fever], "Symptoms": [symptom], "Temperature": [temp]})
 
     X = pd.get_dummies(df_input, drop_first=True)
 
-    # Align with model features safely
-    model_features = model.feature_names_in_ 
-    missing_cols = [col for col in model_features if col not in X.columns]
-    if missing_cols:
-        X = pd.concat([X, pd.DataFrame({col: [0] for col in missing_cols})], axis=1)
-
-# Reorder columns exactly as model expects
-    X = X[model_features].copy()  # copy() to de-fragment
+    # Align columns
+    for col in model_features:
+        if col not in X.columns:
+            X[col] = 0
+    X = X[model_features]
 
     prediction = model.predict(X)
     return prediction[0]
 
 
-
+# --------------------------
 # Regression: Forecast Temperature
-
+# --------------------------
 def train_regression(df: pd.DataFrame):
     """
-    Train a simple LinearRegression model to predict Temperature from Date.
+    Train a LinearRegression model to predict Temperature from Date index.
     """
     df = df.copy()
     df["DayIndex"] = (df["Date"] - df["Date"].min()).dt.days
@@ -95,14 +94,14 @@ def forecast_temperature(df: pd.DataFrame, days=7):
     return preds.tolist()
 
 
-
+# --------------------------
 # Clustering: Symptom Patterns
-
-def cluster_symptom_patterns(df: pd.DataFrame, k=2):
+# --------------------------
+def cluster_symptom_patterns(df: pd.DataFrame, k=3):
     """
     Cluster health log into k groups based on symptoms + vitals.
     """
-    X = pd.get_dummies(df[["Fever", "Symptom"]], drop_first=True)
+    X = pd.get_dummies(df[["Fever", "Symptoms"]], drop_first=True)
     X["Temperature"] = df["Temperature"]
 
     model = KMeans(n_clusters=k, random_state=42, n_init=10)
