@@ -11,7 +11,10 @@
             padding: 20px;
         }
         .chat-container {
-            max-width: 600px;
+            max-width: 800px;
+            height: 30em;
+            display: flex;
+            flex-direction: column;
             margin: auto;
             background: #fff;
             border-radius: 8px;
@@ -19,43 +22,82 @@
             box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
         }
         .chat-box {
-            height: 300px;
+            height: 70%;
             overflow-y: auto;
             border: 1px solid #ccc;
             padding: 10px;
             margin-bottom: 10px;
             background: #fafafa;
+            /* Use Flexbox for better message alignment */
+            display: flex;
+            flex-direction: column;
+            gap: 10px; /* Adds space between messages */
         }
         .user-msg {
-            color: blue;
-            margin: 5px 0;
+            /* Now this is a block element and will get its own line */
+            background-color: #dcf8c6; /* Common user message color */
+            color: rgb(0, 0, 0);
+            border-style: solid;
+            border-width: 1px;
+            border-color: #c4e3b7;
+            border-radius: 12px 12px 0 12px; /* More modern chat bubble look */
+            max-width: 60%;
+            padding: 10px 15px; /* Add padding for space around text */
+            align-self: flex-end; /* Align to the right in the flex container */
+            word-wrap: break-word; /* Prevents text from overflowing */
         }
         .bot-msg {
-            color: green;
-            margin: 5px 0;
+            /* Now this is a block element and will get its own line */
+            background-color: #e5e5ea; /* Common bot message color */
+            color: black;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #d1d1d6;
+            border-radius: 12px 12px 12px 0; /* More modern chat bubble look */
+            max-width: 60%;
+            padding: 10px 15px; /* Add padding for space around text */
+            align-self: flex-start; /* Align to the left in the flex container */
+            word-wrap: break-word;
+        }
+        .inputbox{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 5px;
         }
         input[type="text"] {
-            width: 80%;
-            padding: 8px;
-            border-radius: 4px;
+            flex: 1; /* take remaining space */
+            padding: 10px;
+            border-radius: 6px;
             border: 1px solid #ccc;
+            font-size: 1em;
         }
         button {
-            padding: 8px 12px;
-            border-radius: 4px;
+            display: flex;
+            align-items: cente;
+            justify-content: center;
+            padding: 0.6em;
+            border-radius: 50%;   /* makes it round */
             border: none;
             background: #007bff;
-            color: white;
             cursor: pointer;
+            flex-shrink: 0; /* button won't shrink too small */
+        }
+        button img{
+            width: 1.9sem;   /* relative to font size (scales well) */
+            height: 1.9em;
+            object-fit: contain;
         }
     </style>
 </head>
 <body>
     <div class="chat-container">
-        <h2>Health-Log Chatbot</h2>
+        <h2 align="center">Health-Log Chatbot</h2>
         <div id="chatBox" class="chat-box"></div>
-        <input type="text" id="userInput" placeholder="Ask a question...">
-        <button onclick="sendQuestion()">Send</button>
+        <div class="inputbox">
+            <input type="text" id="userInput" placeholder="Ask a question...">
+            <button onclick="sendQuestion()"><img src="send.png" alt="send"></button>
+        </div>
     </div>
 
     <script>
